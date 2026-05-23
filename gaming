@@ -1,0 +1,42 @@
+[
+    {
+        "name": {
+            "en": "Kick",
+            "fa": "کیک"
+        },
+        "url": "search.kick.com/api/v1/search/enriched?query=thekickisworkingproperly",
+        "status": "thekickisworkingproperly"
+    },
+    {
+        "name": {
+            "en": "Xbox",
+            "fa": "ایکس‌باکس"
+        },
+        "url": "www.xbox.com/en-us/Search/Results?q=thexboxsiteisworkingproperly",
+        "status": "thexboxsiteisworkingproperly"
+    },
+    {
+        "name": {
+            "en": "PlayStation",
+            "fa": "پلی‌استیشن"
+        },
+        "url": "store.playstation.com/en-us/search/theplaystationsiteisworkingproperly",
+        "status": "theplaystationsiteisworkingproperly"
+    },
+    {
+        "name": {
+            "en": "Steam",
+            "fa": "استیم"
+        },
+        "url": "store.steampowered.com/search?term=thesteamsiteisworkingproperly",
+        "status": "thesteamsiteisworkingproperly"
+    },
+    {
+        "name": {
+            "en": "Epic Games",
+            "fa": "اپیک گیمز"
+        },
+        "url": "store.epicgames.com/browse?q=theepicgamessiteisworkingproperly",
+        "status": "theepicgamessiteisworkingproperly"
+    }
+]
