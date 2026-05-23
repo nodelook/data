@@ -2,14 +2,14 @@
     {
         "name": {
             "en": "GitHub Site",
-            "fa": "وب‌سایت گیت‌هاب"
+            "fa": "سایت گیت‌هاب"
         },
         "url": "github.com/xmha97/test/blob/main/test",
         "status": "thegithubsiteisworkingproperly"
     },
     {
         "name": {
-            "en": "GitHub Site",
+            "en": "GitHub API",
             "fa": "ای‌پی‌آی گیت‌هاب"
         },
         "url": "api.github.com/octocat?s=thegithubapiisworkingproperly",
