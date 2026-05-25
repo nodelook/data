@@ -143,5 +143,13 @@
         },
         "url": "translate.google.com/?text=thegoogletranslatesiteisworkingproperly",
         "status": "thegoogletranslatesiteisworkingproperly"
+    },
+    {
+        "name": {
+            "en": "hCaptcha",
+            "fa": "اچ‌کپچا"
+        },
+        "url": "a2.hcaptcha.com/api/event",
+        "status": "ok"
     }
 ]
