@@ -150,6 +150,8 @@
             "fa": "اچ‌کپچا"
         },
         "url": "a2.hcaptcha.com/api/event",
+        "H": "Content-Type: text/plain",
+        "data-raw": "{\"n\":\"pageview\",\"u\":\"https://www.hcaptcha.com/\"}",
         "status": "ok"
     }
 ]
