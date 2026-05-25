@@ -159,7 +159,7 @@
             "en": "Docker Hub",
             "fa": "هابِ داکر"
         },
-        "url": "hub.docker.com/v2/users/thedockerhubapiisworkingproperly",
-        "status": "thedockerhubapiisworkingproperly"
+        "url": "https://hub.docker.com/search?q=thedockerhubsiteisworkingproperly",
+        "status": "thedockerhubsiteisworkingproperly"
     }
 ]
