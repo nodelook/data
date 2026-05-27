@@ -1,1 +1,18 @@
-https://cdn.statically.io/gh/xmha97/test@v1.0.0/status
+[
+    {
+        "name": {
+            "en": "jsDelivr",
+            "fa": "جی‌اس‌دلیور"
+        },
+        "url": "cdn.jsdelivr.net/gh/xmha97/test@v1.0.0/status",
+        "status": "200"
+    },
+    {
+        "name": {
+            "en": "Statically",
+            "fa": "استاتیکالی"
+        },
+        "url": "cdn.statically.io/gh/xmha97/test@v1.0.0/status",
+        "status": "200"
+    }
+]
