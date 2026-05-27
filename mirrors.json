@@ -15,4 +15,20 @@
         "url": "cdn.statically.io/gh/xmha97/test@v1.0.0/status",
         "status": "200"
     }
+    {
+        "name": {
+            "en": "gh-Proxy",
+            "fa": "جی‌اچ-پروکسی"
+        },
+        "url": "gh-proxy.org/https://github.com/xmha97/test/releases/download/v1.0.0/status",
+        "status": "200"
+    }
+    {
+        "name": {
+            "en": "ghProxy",
+            "fa": "جی‌اچ‌پروکسی"
+        },
+        "url": "ghproxy.net/https://github.com/xmha97/test/releases/download/v1.0.0/status",
+        "status": "200"
+    }
 ]
