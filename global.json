@@ -154,4 +154,20 @@
         "url": "hub.docker.com/search?q=thedockerhubsiteisworkingproperly",
         "status": "thedockerhubsiteisworkingproperly"
     }
+    {
+        "name": {
+            "en": "ORCID",
+            "fa": "اورکید"
+        },
+        "url": "auth.orcid.org/userStatus.json",
+        "status": "false"
+    }
+    {
+        "name": {
+            "en": "Firefox",
+            "fa": "فایرفاکس"
+        },
+        "url": "detectportal.firefox.com/success.txt",
+        "status": "success"
+    }
 ]
