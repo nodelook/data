@@ -1,18 +1,18 @@
 [
   {
-    "status": "application/vnd.oci.image.index.v1+json"
     "url": "https://mirrors.pardisco.co/v2/jc21/nginx-proxy-manager/manifests/latest"
+    "status": "application/vnd.oci.image.index.v1+json"
   },
   {
-    "status": "application/vnd.oci.image.index.v1+json"
     "url": "https://hub.atlantiscloud.ir/v2/jc21/nginx-proxy-manager/manifests/latest"
+    "status": "application/vnd.oci.image.index.v1+json"
   },
   {
-    "status": "application/vnd.oci.image.index.v1+json"
     "url": "https://dockerhub.timeweb.cloud/v2/jc21/nginx-proxy-manager/manifests/latest"
+    "status": "application/vnd.oci.image.index.v1+json"
   },
   {
-    "status": "application/vnd.oci.image.index.v1+json"
     "url": "https://docker.arvancloud.ir/v2/jc21/nginx-proxy-manager/manifests/latest"
+    "status": "application/vnd.oci.image.index.v1+json"
   }
 ]
