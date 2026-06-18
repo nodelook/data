@@ -1,7 +1,20 @@
-[
+{
+  "name": {
+    "en": "Tor",
+    "fa": "تور"
+  },
+  "description": {
+    "en": "Tor onion",
+    "fa": "تور پیازی"
+  },
+  "items": [
     {
-        "name": "Archive",
-        "url": "archivep75mbjunhxc6x4j5mwjmomyxb573v42baldlqu56ruil2oiad.onion/download/xmha97/status",
-        "status": "200"
+      "name": {
+        "en": "Archive",
+        "fa": "آرشیو"
+      },
+      "url": "archivep75mbjunhxc6x4j5mwjmomyxb573v42baldlqu56ruil2oiad.onion/download/xmha97/status",
+      "has": "200"
     }
-]
+  ]
+}
