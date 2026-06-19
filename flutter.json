@@ -1,0 +1,44 @@
+{
+  "name": {
+    "en": "Flutter",
+    "fa": "فلاتر"
+  },
+  "description": {
+    "en": "Flutter Mirrors",
+    "fa": "آینه‌های فلاتر"
+  },
+  "items": [
+    {
+      "name": {
+        "en": "Google Cloud Storage",
+        "fa": "فضای ذخیره‌سازی ابری گوگل"
+      },
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/releases_linux.json",
+      "shouldContain": "flutter_infra_release"
+    },
+    {
+      "name": {
+        "en": "[China] User Group",
+        "fa": "[چین] گروه کاربران"
+      },
+      "url": "https://storage.flutter-io.cn/flutter_infra_release/releases/releases_linux.json",
+      "shouldContain": "flutter_infra_release"
+    },
+    {
+      "name": {
+        "en": "[Iran] Myket",
+        "fa": "[ایران] مایکت"
+      },
+      "url": "https://pub.myket.ir/flutter_infra_release/releases/releases_linux.json",
+      "shouldContain": "flutter_infra_release"
+    },
+    {
+      "name": {
+        "en": "[Iran] Runflare",
+        "fa": "[ایران] رانفلر"
+      },
+      "url": "https://mirror-gcs.runflare.com/flutter_infra_release/releases/releases_linux.json",
+      "shouldContain": "flutter_infra_release"
+    }
+  ]
+}

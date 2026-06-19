@@ -1,26 +1,36 @@
-[
+{
+  "name": {
+    "en": "Wikipedia",
+    "fa": "ویکی‌پدیا"
+  },
+  "description": {
+    "en": "Wikipedia",
+    "fa": "ویکی‌پدیا"
+  },
+  "items": [
     {
-        "name": {
-            "en": "Wikipedia (English)",
-            "fa": "ویکی‌پدیا (انگلیسی)"
-        },
-        "url": "en.wikipedia.org/w/index.php?title=User:Xmha97/status.js&action=raw&ctype=text/javascript",
-        "status": "200"
+      "name": {
+        "en": "English",
+        "fa": "انگلیسی"
+      },
+      "url": "en.wikipedia.org/w/index.php?title=User:Xmha97/status.js&action=raw&ctype=text/javascript",
+      "shouldContain": "200"
     },
     {
-        "name": {
-            "en": "Wikipedia (Arabic)",
-            "fa": "ویکی‌پدیا (عربی)"
-        },
-        "url": "ar.wikipedia.org/w/index.php?title=User:Xmha97/status.js&action=raw&ctype=text/javascript",
-        "status": "200"
+      "name": {
+        "en": "Arabic",
+        "fa": "عربی"
+      },
+      "url": "ar.wikipedia.org/w/index.php?title=User:Xmha97/status.js&action=raw&ctype=text/javascript",
+      "shouldContain": "200"
     },
     {
-        "name": {
-            "en": "Wikipedia (Persian)",
-            "fa": "ویکی‌پدیا (فارسی)"
-        },
-        "url": "fa.wikipedia.org/w/index.php?title=User:Xmha97/status.js&action=raw&ctype=text/javascript",
-        "status": "200"
+      "name": {
+        "en": "Persian",
+        "fa": "فارسی"
+      },
+      "url": "fa.wikipedia.org/w/index.php?title=User:Xmha97/status.js&action=raw&ctype=text/javascript",
+      "shouldContain": "200"
     }
-]
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "Artificial Intelligence",
+    "fa": "هوش مصنوعی"
+  },
+  "description": {
+    "en": "Artificial Intelligence",
+    "fa": "هوش مصنوعی"
+  },
+  "items": [
+    {
+      "name": {
+        "en": "Claude",
+        "fa": "کلاد"
+      },
+      "url": "claude.ai/robots.txt",
+      "status": "Disallow"
+    },
+    {
+      "name": {
+        "en": "Copilot",
+        "fa": "کوپایلت"
+      },
+      "url": "copilot.microsoft.com/robots.txt",
+      "status": "Disallow"
+    },
+    {
+      "name": {
+        "en": "Grok",
+        "fa": "داک‌داک‌گو"
+      },
+      "url": "grok.com/robots.txt",
+      "status": "Disallow"
+    },
+    {
+      "name": {
+        "en": "Gemini",
+        "fa": "جمینای"
+      },
+      "url": "gemini.google.com/robots.txt",
+      "status": "Disallow"
+    },
+    {
+      "name": {
+        "en": "ChatGPT",
+        "fa": "چت‌جی‌پی‌تی"
+      },
+      "url": "chatgpt.com/robots.txt",
+      "status": "Disallow"
+    }
+  ]
+}

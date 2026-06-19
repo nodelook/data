@@ -1,0 +1,76 @@
+{
+  "name": {
+    "en": "Docker",
+    "fa": "داکر"
+  },
+  "description": {
+    "en": "Docker Registry Mirrors",
+    "fa": "آینه‌های سیاهه‌ی داکر"
+  },
+  "items": [
+    {
+      "name": {
+        "en": "[Russia] Timeweb Cloud",
+        "fa": "[روسیه] ابر تایم‌وب"
+      },
+      "url": "https://dockerhub.timeweb.cloud/v2/jc21/nginx-proxy-manager/manifests/latest",
+      "shouldContain": "application/vnd.oci.image.index.v1+json"
+    },
+    {
+      "name": {
+        "en": "[Russia] GitVerse",
+        "fa": "[روسیه] گیت‌ورس"
+      },
+      "url": "https://dh-mirror.gitverse.ru/v2/jc21/nginx-proxy-manager/manifests/latest",
+      "shouldContain": "application/vnd.oci.image.index.v1+json"
+    },
+    {
+      "name": {
+        "en": "[Iran] Pardisco",
+        "fa": "[ایران] پردیسکو"
+      },
+      "url": "https://mirrors.pardisco.co/v2/jc21/nginx-proxy-manager/manifests/latest",
+      "shouldContain": "application/vnd.oci.image.index.v1+json"
+    },
+    {
+      "name": {
+        "en": "[Iran] Arvan Cloud",
+        "fa": "[ایران] ابر آروان"
+      },
+      "url": "https://docker.arvancloud.ir/v2/jc21/nginx-proxy-manager/manifests/latest",
+      "shouldContain": "application/vnd.oci.image.index.v1+json"
+    },
+    {
+      "name": {
+        "en": "[Iran] Atlantis Cloud",
+        "fa": "[ایران] ابر آتلانتیس"
+      },
+      "url": "https://hub.atlantiscloud.ir/v2/jc21/nginx-proxy-manager/manifests/latest",
+      "shouldContain": "application/vnd.oci.image.index.v1+json"
+    },
+    {
+      "name": {
+        "en": "[Iran] DockerIR",
+        "fa": "[ایران] داکرآی‌آر"
+      },
+      "url": "https://registry.docker.ir/v2/jc21/nginx-proxy-manager/manifests/latest",
+      "shouldContain": "application/vnd.oci.image.index.v1+json"
+    },
+    {
+      "name": {
+        "en": "[Iran] Runflare",
+        "fa": "[ایران] رانفلر"
+      },
+      "url": "https://mirror-docker.runflare.com/v2/jc21/nginx-proxy-manager/manifests/latest",
+      "shouldContain": "application/vnd.oci.image.index.v1+json"
+    },
+    {
+      "name": {
+        "en": "[Iran] Abrha",
+        "fa": "[ایران] ابرها"
+      },
+      "url": "https://docker.abrha.net/v2/jc21/nginx-proxy-manager/manifests/latest",
+      "shouldContain": "application/vnd.oci.image.index.v1+json"
+    }
+  ]
+}

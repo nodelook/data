@@ -4,17 +4,17 @@
     "fa": "تور"
   },
   "description": {
-    "en": "Tor onion",
-    "fa": "تور پیازی"
+    "en": "Tor Network Services",
+    "fa": "سرویس‌هایی شبکه‌ی تور"
   },
   "items": [
     {
       "name": {
-        "en": "Archive",
-        "fa": "آرشیو"
+        "en": "Internet Archive",
+        "fa": "بایگانی اینترنت"
       },
-      "url": "archivep75mbjunhxc6x4j5mwjmomyxb573v42baldlqu56ruil2oiad.onion/download/xmha97/status",
-      "has": "200"
+      "url": "http://archivep75mbjunhxc6x4j5mwjmomyxb573v42baldlqu56ruil2oiad.onion/download/xmha97/status",
+      "shouldContain": "200"
     }
   ]
 }
