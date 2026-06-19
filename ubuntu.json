@@ -66,8 +66,8 @@
     },
     {
       "name": {
-        "en": "[Netherlands] Leaseweb",
-        "fa": "[هلند] لیزوب"
+        "en": "[Netherlands] Netherlands Local Unix User Group",
+        "fa": "[هلند] گروه محلی کاربران یونیکس هلند"
       },
       "url": "https://ftp.nluug.nl/os/Linux/distr/ubuntu/dists/noble/Release",
       "shouldContain": "Ubuntu"

@@ -18,8 +18,8 @@
     },
     {
       "name": {
-        "en": "[China] User Group",
-        "fa": "[چین] گروه کاربران"
+        "en": "[China] China Flutter User Group",
+        "fa": "[چین] گروه کاربران فلاتر چین"
       },
       "url": "https://storage.flutter-io.cn/flutter_infra_release/releases/releases_linux.json",
       "shouldContain": "flutter_infra_release"
