@@ -1,0 +1,220 @@
+{
+  "name": {
+    "en": "Social",
+    "fa": "اجتماعی"
+  },
+  "description": {
+    "en": "Social Networks",
+    "fa": "شبکه‌های اجتماعی"
+  },
+  "items": [
+    {
+      "name": {
+        "en": "Telegram",
+        "fa": "تلگرام"
+      },
+      "url": "https://t.me/thetelegramsiteisworkingproperly",
+      "shouldContain": "thetelegramsiteisworkingproperly"
+    },
+    {
+      "name": {
+        "en": "TikTok",
+        "fa": "تیک‌تاک"
+      },
+      "url": "www.tiktok.com/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "Discord",
+        "fa": "دیسکورد"
+      },
+      "url": "discord.com/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "Signal",
+        "fa": "سیگنال"
+      },
+      "url": "updates.signal.org/desktop/latest.yml",
+      "shouldContain": "signal"
+    },
+    {
+      "name": {
+        "en": "WhatsApp: Site",
+        "fa": "واتس‌اپ: سایت"
+      },
+      "url": "www.whatsapp.com/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "WhatsApp: Web",
+        "fa": "واتس‌اپ: وب"
+      },
+      "url": "web.whatsapp.com/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "Facebook: Site",
+        "fa": "فیسبوک: سایت"
+      },
+      "url": "www.facebook.com/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "Facebook: Messenger",
+        "fa": "فیسبوک: پیام‌رسان"
+      },
+      "url": "www.messenger.com/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "Instagram",
+        "fa": "اینستاگرام"
+      },
+      "url": "www.instagram.com/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "Threads",
+        "fa": "تردز"
+      },
+      "url": "www.threads.com/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "Reddit",
+        "fa": "ریدیت"
+      },
+      "url": "www.reddit.com/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "X",
+        "fa": "ایکس"
+      },
+      "url": "x.com/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "Bluesky",
+        "fa": "بلواسکای"
+      },
+      "url": "bsky.app/robots.txt",
+      "shouldContain": "Allow"
+    },
+    {
+      "name": {
+        "en": "VK",
+        "fa": "وی‌کای"
+      },
+      "url": "vk.com/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "Bale: Site",
+        "fa": "بله: سایت"
+      },
+      "url": "bale.ai/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "Bale: Web",
+        "fa": "بله: وب"
+      },
+      "url": "web.bale.ai/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "Bale: Web Beta",
+        "fa": "بله: وب بتا"
+      },
+      "url": "beta.bale.ai/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "Bale: API",
+        "fa": "بله: ای‌پی‌آی"
+      },
+      "url": "assets.bale.ai/configs.json",
+      "shouldContain": "bale"
+    },
+    {
+      "name": {
+        "en": "Bale: Signaling Server 1",
+        "fa": "بله: سرور سیگنالینگ ۱"
+      },
+      "url": "meet-gwbm1.ble.ir/",
+      "shouldContain": "OK"
+    },
+    {
+      "name": {
+        "en": "Bale: Signaling Server 2",
+        "fa": "بله: سرور سیگنالینگ ۲"
+      },
+      "url": "meet-gwbm2.ble.ir/",
+      "shouldContain": "OK"
+    },
+    {
+      "name": {
+        "en": "Bale: Signaling Server 3",
+        "fa": "بله: سرور سیگنالینگ ۳"
+      },
+      "url": "meet-gwbm3.ble.ir/",
+      "shouldContain": "OK"
+    },
+    {
+      "name": {
+        "en": "Bale: Signaling Server 4",
+        "fa": "بله: سرور سیگنالینگ ۴"
+      },
+      "url": "meet-gwbm4.ble.ir/",
+      "shouldContain": "OK"
+    },
+    {
+      "name": {
+        "en": "Bale: Signaling Server 5",
+        "fa": "بله: سرور سیگنالینگ ۵"
+      },
+      "url": "meet-gwbm5.ble.ir/",
+      "shouldContain": "OK"
+    },
+    {
+      "name": {
+        "en": "Bale: Signaling Server 6",
+        "fa": "بله: سرور سیگنالینگ ۶"
+      },
+      "url": "meet-gwbm6.ble.ir/",
+      "shouldContain": "OK"
+    },
+    {
+      "name": {
+        "en": "Bale: TURN Server",
+        "fa": "بله: سرور ترن"
+      },
+      "url": "meet-turn.ble.ir",
+      "shouldContain": "OK"
+    },
+    {
+      "name": {
+        "en": "Bale: Meet",
+        "fa": "بله: میت"
+      },
+      "url": "meet.bale.ai/token",
+      "shouldContain": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "Cloud",
+    "fa": "ابر"
+  },
+  "description": {
+    "en": "Cloud Storage",
+    "fa": "ذخیره‌سازی ابری"
+  },
+  "items": [
+    {
+      "name": {
+        "en": "DropBox Site",
+        "fa": "سایت دراپ‌باکس"
+      },
+      "url": "https://www.dropbox.com/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "DropBox",
+        "fa": "دراپ‌باکس"
+      },
+      "url": "https://www.dropbox.com/scl/fi/dovory2z1y9xnj6kxwyq7/status?rlkey=48kb8gpm3fjnx76oglv1bm3u0&st=hy5uz0th&dl=1",
+      "shouldContain": "200"
+    },
+    {
+      "name": {
+        "en": "pCloud",
+        "fa": "پی‌کلاد"
+      },
+      "url": "https://www.pcloud.com/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "OneDrive",
+        "fa": "وان‌درایو"
+      },
+      "url": "https://onedrive.live.com/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "Google Drive",
+        "fa": "رانه‌ی گوگل"
+      },
+      "url": "https://drive.google.com/robots.txt",
+      "shouldContain": "Disallow"
+    }
+  ]
+}

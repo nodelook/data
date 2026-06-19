@@ -10,118 +10,6 @@
   "items": [
     {
       "name": {
-        "en": "GitHub Site",
-        "fa": "سایت گیت‌هاب"
-      },
-      "url": "https://github.com/xmha97/test/blob/main/test",
-      "shouldContain": "thegithubsiteisworkingproperly"
-    },
-    {
-      "name": {
-        "en": "GitHub API",
-        "fa": "ای‌پی‌آی گیت‌هاب"
-      },
-      "url": "https://api.github.com/octocat?s=thegithubapiisworkingproperly",
-      "shouldContain": "thegithubapiisworkingproperly"
-    },
-    {
-      "name": {
-        "en": "GitHub Pages",
-        "fa": "صفحه‌های گیت‌هاب"
-      },
-      "url": "https://xmha97.github.io/status",
-      "shouldContain": "200"
-    },
-    {
-      "name": {
-        "en": "GitHub Gists",
-        "fa": "گیست‌های گیت‌هاب"
-      },
-      "url": "https://gist.githubusercontent.com/xmha97/94f6ba425d9874179fdd73fc0e2dc899/raw/e3a7ca5109c651f711000b3a02b4e032bd1d695f/status",
-      "shouldContain": "200"
-    },
-    {
-      "name": {
-        "en": "GitHub Repository",
-        "fa": "مخزن گیت‌هاب"
-      },
-      "url": "https://raw.githubusercontent.com/xmha97/test/refs/heads/main/status",
-      "shouldContain": "200"
-    },
-    {
-      "name": {
-        "en": "GitHub Releases",
-        "fa": "رهانش‌های گیت‌هاب"
-      },
-      "url": "https://github.com/xmha97/test/releases/download/v1.0.0/status",
-      "shouldContain": "200"
-    },
-    {
-      "name": {
-        "en": "Codeberg Repository",
-        "fa": "مخزن کدبرگ"
-      },
-      "url": "https://codeberg.org/xmha97/test/raw/branch/main/status",
-      "shouldContain": "200"
-    },
-    {
-      "name": {
-        "en": "Codeberg Releases",
-        "fa": "رهانش‌های کدبرگ"
-      },
-      "url": "https://codeberg.org/xmha97/test/releases/download/v1.0.0/status",
-      "shouldContain": "200"
-    },
-    {
-      "name": {
-        "en": "GitLab",
-        "fa": "گیت‌لب"
-      },
-      "url": "https://gitlab.com/xmha97/test/-/raw/master/status",
-      "shouldContain": "200"
-    },
-    {
-      "name": {
-        "en": "DropBox Site",
-        "fa": "سایت دراپ‌باکس"
-      },
-      "url": "https://www.dropbox.com/robots.txt",
-      "shouldContain": "Disallow"
-    },
-    {
-      "name": {
-        "en": "DropBox",
-        "fa": "دراپ‌باکس"
-      },
-      "url": "https://www.dropbox.com/scl/fi/dovory2z1y9xnj6kxwyq7/status?rlkey=48kb8gpm3fjnx76oglv1bm3u0&st=hy5uz0th&dl=1",
-      "shouldContain": "200"
-    },
-    {
-      "name": {
-        "en": "pCloud",
-        "fa": "پی‌کلاد"
-      },
-      "url": "https://www.pcloud.com/robots.txt",
-      "shouldContain": "Disallow"
-    },
-    {
-      "name": {
-        "en": "OneDrive",
-        "fa": "وان‌درایو"
-      },
-      "url": "https://onedrive.live.com/robots.txt",
-      "shouldContain": "Disallow"
-    },
-    {
-      "name": {
-        "en": "Google Drive",
-        "fa": "رانه‌ی گوگل"
-      },
-      "url": "https://drive.google.com/robots.txt",
-      "shouldContain": "Disallow"
-    },
-    {
-      "name": {
         "en": "Internet Archive",
         "fa": "بایکانی اینترنت"
       },
@@ -135,14 +23,6 @@
       },
       "url": "https://pastebin.com/raw/ER5BRSx7",
       "shouldContain": "200"
-    },
-    {
-      "name": {
-        "en": "Telegram",
-        "fa": "تلگرام"
-      },
-      "url": "https://t.me/thetelegramsiteisworkingproperly",
-      "shouldContain": "thetelegramsiteisworkingproperly"
     },
     {
       "name": {

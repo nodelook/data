@@ -1,0 +1,124 @@
+{
+  "name": {
+    "en": "Code",
+    "fa": "کد"
+  },
+  "description": {
+    "en": "Version Control Systems",
+    "fa": "سیستم‌های کنترل نسخه"
+  },
+  "items": [
+    {
+      "name": {
+        "en": "GitHub Site",
+        "fa": "سایت گیت‌هاب"
+      },
+      "url": "https://github.com/xmha97/test/blob/main/test",
+      "shouldContain": "thegithubsiteisworkingproperly"
+    },
+    {
+      "name": {
+        "en": "GitHub API",
+        "fa": "ای‌پی‌آی گیت‌هاب"
+      },
+      "url": "https://api.github.com/octocat?s=thegithubapiisworkingproperly",
+      "shouldContain": "thegithubapiisworkingproperly"
+    },
+    {
+      "name": {
+        "en": "GitHub Pages",
+        "fa": "صفحه‌های گیت‌هاب"
+      },
+      "url": "https://xmha97.github.io/status",
+      "shouldContain": "200"
+    },
+    {
+      "name": {
+        "en": "GitHub Gists",
+        "fa": "گیست‌های گیت‌هاب"
+      },
+      "url": "https://gist.githubusercontent.com/xmha97/94f6ba425d9874179fdd73fc0e2dc899/raw/e3a7ca5109c651f711000b3a02b4e032bd1d695f/status",
+      "shouldContain": "200"
+    },
+    {
+      "name": {
+        "en": "GitHub Repository",
+        "fa": "مخزن گیت‌هاب"
+      },
+      "url": "https://raw.githubusercontent.com/xmha97/test/refs/heads/main/status",
+      "shouldContain": "200"
+    },
+    {
+      "name": {
+        "en": "GitHub Releases",
+        "fa": "رهانش‌های گیت‌هاب"
+      },
+      "url": "https://github.com/xmha97/test/releases/download/v1.0.0/status",
+      "shouldContain": "200"
+    },
+    {
+      "name": {
+        "en": "Codeberg Repository",
+        "fa": "مخزن کدبرگ"
+      },
+      "url": "https://codeberg.org/xmha97/test/raw/branch/main/status",
+      "shouldContain": "200"
+    },
+    {
+      "name": {
+        "en": "Codeberg Releases",
+        "fa": "رهانش‌های کدبرگ"
+      },
+      "url": "https://codeberg.org/xmha97/test/releases/download/v1.0.0/status",
+      "shouldContain": "200"
+    },
+    {
+      "name": {
+        "en": "GitLab",
+        "fa": "گیت‌لب"
+      },
+      "url": "https://gitlab.com/xmha97/test/-/raw/master/status",
+      "shouldContain": "200"
+    },
+    {
+      "name": {
+        "en": "[Iran] HamGit (GitLab)",
+        "fa": "هم‌گیت (گیت‌لب) [ایران]"
+      },
+      "url": "https://hamgit.ir/xmha97/test/-/raw/main/status",
+      "shouldContain": "200"
+    },
+    {
+      "name": {
+        "en": "[Iran] AranServer (GitLab)",
+        "fa": "آران‌سرور (گیت‌لب) [ایران]"
+      },
+      "url": "https://gitlab.aranserver.com/xmha97/test/-/raw/main/status",
+      "shouldContain": "200"
+    },
+    {
+      "name": {
+        "en": "[Iran] Fandak (Gitea)",
+        "fa": "فندک (گیتی) [ایران]"
+      },
+      "url": "https://gitea.fandak.lol/xmha97/test/raw/branch/main/status",
+      "shouldContain": "200"
+    },
+    {
+      "name": {
+        "en": "[Iran] Mred (Gitea)",
+        "fa": "ام‌رد (گیتی) [ایران]"
+      },
+      "url": "https://git.mred.ir/xmha97/test/raw/branch/main/status",
+      "shouldContain": "200"
+    },
+    {
+      "name": {
+        "en": "[Iran] Paragraph (Forgejo)",
+        "fa": "پاراگراف (فورج‌جو) [ایران]"
+      },
+      "url": "https://git.prgph.fun/xmha97/test/raw/branch/main/status",
+      "shouldContain": "200"
+    }
+  ]
+}
