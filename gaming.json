@@ -13,7 +13,7 @@
         "en": "Twitch",
         "fa": "توییچ"
       },
-      "url": "www.twitch.tv/robots.txt",
+      "url": "https://www.twitch.tv/robots.txt",
       "shouldContain": "Disallow"
     },
     {

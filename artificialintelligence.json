@@ -13,7 +13,7 @@
         "en": "Claude",
         "fa": "کلاد"
       },
-      "url": "claude.ai/robots.txt",
+      "url": "https://claude.ai/robots.txt",
       "status": "Disallow"
     },
     {
@@ -21,7 +21,7 @@
         "en": "Copilot",
         "fa": "کوپایلت"
       },
-      "url": "copilot.microsoft.com/robots.txt",
+      "url": "https://copilot.microsoft.com/robots.txt",
       "status": "Disallow"
     },
     {
@@ -29,7 +29,7 @@
         "en": "Grok",
         "fa": "داک‌داک‌گو"
       },
-      "url": "grok.com/robots.txt",
+      "url": "https://grok.com/robots.txt",
       "status": "Disallow"
     },
     {
@@ -37,7 +37,7 @@
         "en": "Gemini",
         "fa": "جمینای"
       },
-      "url": "gemini.google.com/robots.txt",
+      "url": "https://gemini.google.com/robots.txt",
       "status": "Disallow"
     },
     {
@@ -45,7 +45,7 @@
         "en": "ChatGPT",
         "fa": "چت‌جی‌پی‌تی"
       },
-      "url": "chatgpt.com/robots.txt",
+      "url": "https://chatgpt.com/robots.txt",
       "status": "Disallow"
     }
   ]

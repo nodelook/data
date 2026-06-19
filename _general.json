@@ -13,7 +13,7 @@
         "en": "GitHub Site",
         "fa": "سایت گیت‌هاب"
       },
-      "url": "github.com/xmha97/test/blob/main/test",
+      "url": "https://github.com/xmha97/test/blob/main/test",
       "status": "thegithubsiteisworkingproperly"
     },
     {
@@ -21,7 +21,7 @@
         "en": "GitHub API",
         "fa": "ای‌پی‌آی گیت‌هاب"
       },
-      "url": "api.github.com/octocat?s=thegithubapiisworkingproperly",
+      "url": "https://api.github.com/octocat?s=thegithubapiisworkingproperly",
       "status": "thegithubapiisworkingproperly"
     },
     {
@@ -29,7 +29,7 @@
         "en": "GitHub Pages",
         "fa": "صفحه‌های گیت‌هاب"
       },
-      "url": "xmha97.github.io/status",
+      "url": "https://xmha97.github.io/status",
       "status": "200"
     },
     {
@@ -37,7 +37,7 @@
         "en": "GitHub Gists",
         "fa": "گیست‌های گیت‌هاب"
       },
-      "url": "gist.githubusercontent.com/xmha97/94f6ba425d9874179fdd73fc0e2dc899/raw/e3a7ca5109c651f711000b3a02b4e032bd1d695f/status",
+      "url": "https://gist.githubusercontent.com/xmha97/94f6ba425d9874179fdd73fc0e2dc899/raw/e3a7ca5109c651f711000b3a02b4e032bd1d695f/status",
       "status": "200"
     },
     {
@@ -45,7 +45,7 @@
         "en": "GitHub Repository",
         "fa": "مخزن گیت‌هاب"
       },
-      "url": "raw.githubusercontent.com/xmha97/test/refs/heads/main/status",
+      "url": "https://raw.githubusercontent.com/xmha97/test/refs/heads/main/status",
       "status": "200"
     },
     {
@@ -53,7 +53,7 @@
         "en": "GitHub Releases",
         "fa": "رهانش‌های گیت‌هاب"
       },
-      "url": "github.com/xmha97/test/releases/download/v1.0.0/status",
+      "url": "https://github.com/xmha97/test/releases/download/v1.0.0/status",
       "status": "200"
     },
     {
@@ -61,7 +61,7 @@
         "en": "Codeberg Repository",
         "fa": "مخزن کدبرگ"
       },
-      "url": "codeberg.org/xmha97/test/raw/branch/main/status",
+      "url": "https://codeberg.org/xmha97/test/raw/branch/main/status",
       "status": "200"
     },
     {
@@ -69,7 +69,7 @@
         "en": "Codeberg Releases",
         "fa": "رهانش‌های کدبرگ"
       },
-      "url": "codeberg.org/xmha97/test/releases/download/v1.0.0/status",
+      "url": "https://codeberg.org/xmha97/test/releases/download/v1.0.0/status",
       "status": "200"
     },
     {
@@ -77,7 +77,7 @@
         "en": "GitLab",
         "fa": "گیت‌لب"
       },
-      "url": "gitlab.com/xmha97/test/-/raw/master/status",
+      "url": "https://gitlab.com/xmha97/test/-/raw/master/status",
       "status": "200"
     },
     {
@@ -85,7 +85,7 @@
         "en": "DropBox Site",
         "fa": "سایت دراپ‌باکس"
       },
-      "url": "www.dropbox.com/robots.txt",
+      "url": "https://www.dropbox.com/robots.txt",
       "status": "Disallow"
     },
     {
@@ -93,7 +93,7 @@
         "en": "DropBox",
         "fa": "دراپ‌باکس"
       },
-      "url": "www.dropbox.com/scl/fi/dovory2z1y9xnj6kxwyq7/status?rlkey=48kb8gpm3fjnx76oglv1bm3u0&st=hy5uz0th&dl=1",
+      "url": "https://www.dropbox.com/scl/fi/dovory2z1y9xnj6kxwyq7/status?rlkey=48kb8gpm3fjnx76oglv1bm3u0&st=hy5uz0th&dl=1",
       "status": "200"
     },
     {
@@ -101,7 +101,7 @@
         "en": "pCloud",
         "fa": "پی‌کلاد"
       },
-      "url": "www.pcloud.com/robots.txt",
+      "url": "https://www.pcloud.com/robots.txt",
       "status": "Disallow"
     },
     {
@@ -109,7 +109,7 @@
         "en": "OneDrive",
         "fa": "وان‌درایو"
       },
-      "url": "onedrive.live.com/robots.txt",
+      "url": "https://onedrive.live.com/robots.txt",
       "status": "Disallow"
     },
     {
@@ -117,7 +117,7 @@
         "en": "Google Drive",
         "fa": "رانه‌ی گوگل"
       },
-      "url": "drive.google.com/robots.txt",
+      "url": "https://drive.google.com/robots.txt",
       "status": "Disallow"
     },
     {
@@ -125,7 +125,7 @@
         "en": "Internet Archive",
         "fa": "بایکانی اینترنت"
       },
-      "url": "archive.org/download/xmha97/status",
+      "url": "https://archive.org/download/xmha97/status",
       "status": "200"
     },
     {
@@ -133,7 +133,7 @@
         "en": "Pastebin",
         "fa": "پیست‌بین"
       },
-      "url": "pastebin.com/raw/ER5BRSx7",
+      "url": "https://pastebin.com/raw/ER5BRSx7",
       "status": "200"
     },
     {
@@ -141,7 +141,7 @@
         "en": "Telegram",
         "fa": "تلگرام"
       },
-      "url": "t.me/thetelegramsiteisworkingproperly",
+      "url": "https://t.me/thetelegramsiteisworkingproperly",
       "status": "thetelegramsiteisworkingproperly"
     },
     {
@@ -149,8 +149,7 @@
         "en": "JS-org",
         "fa": "جی‌اس-اُآرجی"
       },
-      "name": "JS-org",
-      "url": "pad.js.org/status",
+      "url": "https://pad.js.org/status",
       "status": "200"
     },
     {
@@ -158,7 +157,7 @@
         "en": "jsDelivr",
         "fa": "جی‌اس‌دلیور"
       },
-      "url": "cdn.jsdelivr.net/gh/xmha97/test@v1.0.0/status",
+      "url": "https://cdn.jsdelivr.net/gh/xmha97/test@v1.0.0/status",
       "status": "200"
     },
     {
@@ -166,7 +165,7 @@
         "en": "Postman Echo",
         "fa": "پست‌من اکو"
       },
-      "url": "postman-echo.com/status/200",
+      "url": "https://postman-echo.com/status/200",
       "status": "200"
     },
     {
@@ -174,7 +173,7 @@
         "en": "Google Translate",
         "fa": "مترجم گوگل"
       },
-      "url": "translate.google.com/?text=thegoogletranslatesiteisworkingproperly",
+      "url": "https://translate.google.com/?text=thegoogletranslatesiteisworkingproperly",
       "status": "thegoogletranslatesiteisworkingproperly"
     }
   ]

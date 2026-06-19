@@ -13,7 +13,7 @@
         "en": "English",
         "fa": "انگلیسی"
       },
-      "url": "en.wikipedia.org/w/index.php?title=User:Xmha97/status.js&action=raw&ctype=text/javascript",
+      "url": "https://en.wikipedia.org/w/index.php?title=User:Xmha97/status.js&action=raw&ctype=text/javascript",
       "shouldContain": "200"
     },
     {
@@ -21,7 +21,7 @@
         "en": "Arabic",
         "fa": "عربی"
       },
-      "url": "ar.wikipedia.org/w/index.php?title=User:Xmha97/status.js&action=raw&ctype=text/javascript",
+      "url": "https://ar.wikipedia.org/w/index.php?title=User:Xmha97/status.js&action=raw&ctype=text/javascript",
       "shouldContain": "200"
     },
     {
@@ -29,7 +29,7 @@
         "en": "Persian",
         "fa": "فارسی"
       },
-      "url": "fa.wikipedia.org/w/index.php?title=User:Xmha97/status.js&action=raw&ctype=text/javascript",
+      "url": "https://fa.wikipedia.org/w/index.php?title=User:Xmha97/status.js&action=raw&ctype=text/javascript",
       "shouldContain": "200"
     }
   ]
