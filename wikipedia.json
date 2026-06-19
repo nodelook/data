@@ -1,0 +1,36 @@
+{
+  "name": {
+    "en": "Wikipedia",
+    "fa": "ویکی‌پدیا"
+  },
+  "description": {
+    "en": "Wikipedia",
+    "fa": "ویکی‌پدیا"
+  },
+  "items": [
+    {
+      "name": {
+        "en": "English",
+        "fa": "انگلیسی"
+      },
+      "url": "https://en.wikipedia.org/w/index.php?title=User:Xmha97/status.js&action=raw&ctype=text/javascript",
+      "shouldContain": "200"
+    },
+    {
+      "name": {
+        "en": "Arabic",
+        "fa": "عربی"
+      },
+      "url": "https://ar.wikipedia.org/w/index.php?title=User:Xmha97/status.js&action=raw&ctype=text/javascript",
+      "shouldContain": "200"
+    },
+    {
+      "name": {
+        "en": "Persian",
+        "fa": "فارسی"
+      },
+      "url": "https://fa.wikipedia.org/w/index.php?title=User:Xmha97/status.js&action=raw&ctype=text/javascript",
+      "shouldContain": "200"
+    }
+  ]
+}

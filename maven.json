@@ -1,0 +1,36 @@
+{
+  "name": {
+    "en": "Maven",
+    "fa": "ماون"
+  },
+  "description": {
+    "en": "Maven Repository Mirrors",
+    "fa": "آینه‌های مخازن ماون"
+  },
+  "items": [
+    {
+      "name": {
+        "en": "[China] Aliyun",
+        "fa": "[چین] آلی‌یو‌ن"
+      },
+      "url": "https://maven.aliyun.com/repository/google/com/android/tools/build/gradle/maven-metadata.xml",
+      "shouldContain": "com.android.tools.build"
+    },
+    {
+      "name": {
+        "en": "[Iran] Abdollahzadeh",
+        "fa": "[ایران] عبدالله‌زاده"
+      },
+      "url": "https://pub-azs.ir/api/mavens/com/android/tools/build/gradle/maven-metadata.xml",
+      "shouldContain": "com.android.tools.build"
+    },
+    {
+      "name": {
+        "en": "[Iran] Myket",
+        "fa": "[ایران] مایکت"
+      },
+      "url": "https://maven.myket.ir/com/android/tools/build/gradle/maven-metadata.xml",
+      "shouldContain": "com.android.tools.build"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "name": {
+    "en": "Gaming",
+    "fa": "بازی‌محور"
+  },
+  "description": {
+    "en": "Gaming",
+    "fa": "بازی‌محور"
+  },
+  "items": [
+    {
+      "name": {
+        "en": "Twitch",
+        "fa": "توییچ"
+      },
+      "url": "https://www.twitch.tv/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "Kick Site",
+        "fa": "سایت کیک"
+      },
+      "url": "https://kick.com/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "Xbox",
+        "fa": "ایکس‌باکس"
+      },
+      "url": "https://www.xbox.com/en-us/Search/Results?q=thexboxsiteisworkingproperly",
+      "shouldContain": "thexboxsiteisworkingproperly"
+    },
+    {
+      "name": {
+        "en": "PlayStation",
+        "fa": "پلی‌استیشن"
+      },
+      "url": "https://store.playstation.com/en-us/search/theplaystationsiteisworkingproperly",
+      "shouldContain": "theplaystationsiteisworkingproperly"
+    },
+    {
+      "name": {
+        "en": "Steam",
+        "fa": "استیم"
+      },
+      "url": "https://store.steampowered.com/search?term=thesteamsiteisworkingproperly",
+      "shouldContain": "thesteamsiteisworkingproperly"
+    },
+    {
+      "name": {
+        "en": "Epic Games",
+        "fa": "اپیک گیمز"
+      },
+      "url": "https://store.epicgames.com/browse?q=theepicgamessiteisworkingproperly",
+      "shouldContain": "theepicgamessiteisworkingproperly"
+    },
+    {
+      "name": {
+        "en": "Biligame API",
+        "fa": "ای‌پی‌آی بیلی‌گیم"
+      },
+      "url": "https://api.biligame.com",
+      "shouldContain": "SUCCESS"
+    },
+    {
+      "name": {
+        "en": "Biligame API 1",
+        "fa": "ای‌پی‌آی ۱ بیلی‌گیم"
+      },
+      "url": "https://line1-h5-pc-api.biligame.com",
+      "shouldContain": "SUCCESS"
+    },
+    {
+      "name": {
+        "en": "Biligame API 3",
+        "fa": "ای‌پی‌آی ۳ بیلی‌گیم"
+      },
+      "url": "https://line3-h5-pc-api.biligame.com",
+      "shouldContain": "SUCCESS"
+    }
+  ]
+}
