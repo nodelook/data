@@ -26,14 +26,6 @@
     },
     {
       "name": {
-        "en": "Kick Search",
-        "fa": "جستجوی کیک"
-      },
-      "url": "https://search.kick.com/api/v1/search/enriched?query=thekickisworkingproperly",
-      "shouldContain": "thekickisworkingproperly"
-    },
-    {
-      "name": {
         "en": "Xbox",
         "fa": "ایکس‌باکس"
       },
