@@ -33,8 +33,11 @@
       "shouldContain": "theduckduckgosearchsiteisworkingproperly"
     },
     {
-        "name": "Zarebin",
-        "url": "zarebin.ir/search?q=thezarebinsiteisworkingproperly",
+      "name": {
+        "en": "[Iran] Zarebin",
+        "fa": "ذره‌بین [ایران]"
+      },
+        "url": "https://zarebin.ir/search?q=thezarebinsiteisworkingproperly",
         "shouldContain": "thezarebinsiteisworkingproperly"
     }
   ]
