@@ -14,7 +14,7 @@
         "fa": "سایت گیت‌هاب"
       },
       "url": "https://github.com/xmha97/test/blob/main/test",
-      "status": "thegithubsiteisworkingproperly"
+      "shouldContain": "thegithubsiteisworkingproperly"
     },
     {
       "name": {
@@ -22,7 +22,7 @@
         "fa": "ای‌پی‌آی گیت‌هاب"
       },
       "url": "https://api.github.com/octocat?s=thegithubapiisworkingproperly",
-      "status": "thegithubapiisworkingproperly"
+      "shouldContain": "thegithubapiisworkingproperly"
     },
     {
       "name": {
@@ -30,7 +30,7 @@
         "fa": "صفحه‌های گیت‌هاب"
       },
       "url": "https://xmha97.github.io/status",
-      "status": "200"
+      "shouldContain": "200"
     },
     {
       "name": {
@@ -38,7 +38,7 @@
         "fa": "گیست‌های گیت‌هاب"
       },
       "url": "https://gist.githubusercontent.com/xmha97/94f6ba425d9874179fdd73fc0e2dc899/raw/e3a7ca5109c651f711000b3a02b4e032bd1d695f/status",
-      "status": "200"
+      "shouldContain": "200"
     },
     {
       "name": {
@@ -46,7 +46,7 @@
         "fa": "مخزن گیت‌هاب"
       },
       "url": "https://raw.githubusercontent.com/xmha97/test/refs/heads/main/status",
-      "status": "200"
+      "shouldContain": "200"
     },
     {
       "name": {
@@ -54,7 +54,7 @@
         "fa": "رهانش‌های گیت‌هاب"
       },
       "url": "https://github.com/xmha97/test/releases/download/v1.0.0/status",
-      "status": "200"
+      "shouldContain": "200"
     },
     {
       "name": {
@@ -62,7 +62,7 @@
         "fa": "مخزن کدبرگ"
       },
       "url": "https://codeberg.org/xmha97/test/raw/branch/main/status",
-      "status": "200"
+      "shouldContain": "200"
     },
     {
       "name": {
@@ -70,7 +70,7 @@
         "fa": "رهانش‌های کدبرگ"
       },
       "url": "https://codeberg.org/xmha97/test/releases/download/v1.0.0/status",
-      "status": "200"
+      "shouldContain": "200"
     },
     {
       "name": {
@@ -78,7 +78,7 @@
         "fa": "گیت‌لب"
       },
       "url": "https://gitlab.com/xmha97/test/-/raw/master/status",
-      "status": "200"
+      "shouldContain": "200"
     },
     {
       "name": {
@@ -86,7 +86,7 @@
         "fa": "سایت دراپ‌باکس"
       },
       "url": "https://www.dropbox.com/robots.txt",
-      "status": "Disallow"
+      "shouldContain": "Disallow"
     },
     {
       "name": {
@@ -94,7 +94,7 @@
         "fa": "دراپ‌باکس"
       },
       "url": "https://www.dropbox.com/scl/fi/dovory2z1y9xnj6kxwyq7/status?rlkey=48kb8gpm3fjnx76oglv1bm3u0&st=hy5uz0th&dl=1",
-      "status": "200"
+      "shouldContain": "200"
     },
     {
       "name": {
@@ -102,7 +102,7 @@
         "fa": "پی‌کلاد"
       },
       "url": "https://www.pcloud.com/robots.txt",
-      "status": "Disallow"
+      "shouldContain": "Disallow"
     },
     {
       "name": {
@@ -110,7 +110,7 @@
         "fa": "وان‌درایو"
       },
       "url": "https://onedrive.live.com/robots.txt",
-      "status": "Disallow"
+      "shouldContain": "Disallow"
     },
     {
       "name": {
@@ -118,7 +118,7 @@
         "fa": "رانه‌ی گوگل"
       },
       "url": "https://drive.google.com/robots.txt",
-      "status": "Disallow"
+      "shouldContain": "Disallow"
     },
     {
       "name": {
@@ -126,7 +126,7 @@
         "fa": "بایکانی اینترنت"
       },
       "url": "https://archive.org/download/xmha97/status",
-      "status": "200"
+      "shouldContain": "200"
     },
     {
       "name": {
@@ -134,7 +134,7 @@
         "fa": "پیست‌بین"
       },
       "url": "https://pastebin.com/raw/ER5BRSx7",
-      "status": "200"
+      "shouldContain": "200"
     },
     {
       "name": {
@@ -142,7 +142,7 @@
         "fa": "تلگرام"
       },
       "url": "https://t.me/thetelegramsiteisworkingproperly",
-      "status": "thetelegramsiteisworkingproperly"
+      "shouldContain": "thetelegramsiteisworkingproperly"
     },
     {
       "name": {
@@ -150,7 +150,7 @@
         "fa": "جی‌اس-اُآرجی"
       },
       "url": "https://pad.js.org/status",
-      "status": "200"
+      "shouldContain": "200"
     },
     {
       "name": {
@@ -158,7 +158,7 @@
         "fa": "جی‌اس‌دلیور"
       },
       "url": "https://cdn.jsdelivr.net/gh/xmha97/test@v1.0.0/status",
-      "status": "200"
+      "shouldContain": "200"
     },
     {
       "name": {
@@ -166,7 +166,7 @@
         "fa": "پست‌من اکو"
       },
       "url": "https://postman-echo.com/status/200",
-      "status": "200"
+      "shouldContain": "200"
     },
     {
       "name": {
@@ -174,7 +174,7 @@
         "fa": "مترجم گوگل"
       },
       "url": "https://translate.google.com/?text=thegoogletranslatesiteisworkingproperly",
-      "status": "thegoogletranslatesiteisworkingproperly"
+      "shouldContain": "thegoogletranslatesiteisworkingproperly"
     }
   ]
 }

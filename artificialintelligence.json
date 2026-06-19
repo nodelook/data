@@ -14,7 +14,7 @@
         "fa": "کلاد"
       },
       "url": "https://claude.ai/robots.txt",
-      "status": "Disallow"
+      "shouldContain": "Disallow"
     },
     {
       "name": {
@@ -22,7 +22,7 @@
         "fa": "کوپایلت"
       },
       "url": "https://copilot.microsoft.com/robots.txt",
-      "status": "Disallow"
+      "shouldContain": "Disallow"
     },
     {
       "name": {
@@ -30,7 +30,7 @@
         "fa": "داک‌داک‌گو"
       },
       "url": "https://grok.com/robots.txt",
-      "status": "Disallow"
+      "shouldContain": "Disallow"
     },
     {
       "name": {
@@ -38,7 +38,7 @@
         "fa": "جمینای"
       },
       "url": "https://gemini.google.com/robots.txt",
-      "status": "Disallow"
+      "shouldContain": "Disallow"
     },
     {
       "name": {
@@ -46,7 +46,7 @@
         "fa": "چت‌جی‌پی‌تی"
       },
       "url": "https://chatgpt.com/robots.txt",
-      "status": "Disallow"
+      "shouldContain": "Disallow"
     }
   ]
 }

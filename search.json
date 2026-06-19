@@ -14,7 +14,7 @@
         "fa": "جستجوی گوگل"
       },
       "url": "https://google.com/search?q=thegooglesearchsiteisworkingproperly",
-      "status": "thegooglesearchsiteisworkingproperly"
+      "shouldContain": "thegooglesearchsiteisworkingproperly"
     },
     {
       "name": {
@@ -22,7 +22,7 @@
         "fa": "جستجوی بینگ"
       },
       "url": "https://www.bing.com/search?q=thebingsearchsiteisworkingproperly",
-      "status": "thebingsearchsiteisworkingproperly"
+      "shouldContain": "thebingsearchsiteisworkingproperly"
     },
     {
       "name": {
@@ -30,7 +30,7 @@
         "fa": "داک‌داک‌گو"
       },
       "url": "https://duckduckgo.com/?q=theduckduckgosearchsiteisworkingproperly",
-      "status": "theduckduckgosearchsiteisworkingproperly"
+      "shouldContain": "theduckduckgosearchsiteisworkingproperly"
     }
   ]
 }
