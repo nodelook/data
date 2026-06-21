@@ -4,8 +4,8 @@
     "fa": "آلپاین"
   },
   "description": {
-    "en": "Alpine Linux Mirrors",
-    "fa": "آینه‌های لینوکس آلپاین"
+    "en": "Alpine Linux Mirrors\nvi /etc/apk/repositories",
+    "fa": "آینه‌های لینوکس آلپاین\nvi /etc/apk/repositories"
   },
   "items": [
     {
