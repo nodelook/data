@@ -1,4 +1,5 @@
-﻿time.google.com, Google
+URL, EN, FA
+time.google.com, Google
 time1.google.com, Google 1
 time2.google.com, Google 2
 time3.google.com, Google 3
@@ -309,14 +310,14 @@ ntps1.pads.ufrj.br, BR
 ntp.shoa.cl, CL
 time.esa.int, INT 1
 time1.esa.int, INT 2
-ntp.time.ir, [Iran] Time
-ntp1.ir, [Iran] NTP 1
-ntp2.ir, [Iran] NTP 2
-ntp3.ir, [Iran] NTP 3
-ntp.day.ir, [Iran] Day
-ntp.meetbsd.ir, [Iran] Meet BSD
-public.ntp.asiatech.ir, [Iran] AsiaTech
-time1.iran.ir, [Iran] Iran
-ntp.server.ir, [Iran] Server
-ntp.irimo.ir, [Iran] IRIMO
-time.irip.ir, [Iran] IRIP
+ntp.time.ir, [Iran] Time, [ایران] تایم
+ntp1.ir, [Iran] NTP 1, [ایران] NTP 1
+ntp2.ir, [Iran] NTP 2, [ایران] NTP 2
+ntp3.ir, [Iran] NTP 3, [ایران] NTP 3
+ntp.day.ir, [Iran] Day, [ایران] دی
+ntp.meetbsd.ir, [Iran] Meet BSD, [ایران] Meet BSD
+public.ntp.asiatech.ir, [Iran] AsiaTech, [ایران] آسیاتک
+time1.iran.ir, [Iran] Iran, [ایران] ایران
+ntp.server.ir, [Iran] Server, [ایران] سرور
+ntp.irimo.ir, [Iran] IRIMO, [ایران] IRIMO
+time.irip.ir, [Iran] IRIP, [ایران] IRIP
