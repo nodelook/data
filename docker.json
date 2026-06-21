@@ -4,8 +4,8 @@
     "fa": "داکر"
   },
   "description": {
-    "en": "Docker Registry Mirrors",
-    "fa": "آینه‌های سیاهه‌ی داکر"
+    "en": "Docker Registry Mirrors\nsudo nano /etc/docker/daemon.json",
+    "fa": "آینه‌های سیاهه‌ی داکر\nsudo nano /etc/docker/daemon.json"
   },
   "items": [
     {
