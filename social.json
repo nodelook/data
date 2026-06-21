@@ -122,99 +122,139 @@
     },
     {
       "name": {
-        "en": "Bale: Site",
-        "fa": "بله: سایت"
+        "en": "[Iran] Bale: Site",
+        "fa": "[ایران] بله: سایت"
       },
       "url": "https://bale.ai/robots.txt",
       "shouldContain": "Disallow"
     },
     {
       "name": {
-        "en": "Bale: Web",
-        "fa": "بله: وب"
+        "en": "[Iran] Bale: Web",
+        "fa": "[ایران] بله: وب"
       },
       "url": "https://web.bale.ai/robots.txt",
       "shouldContain": "Disallow"
     },
     {
       "name": {
-        "en": "Bale: Web Beta",
-        "fa": "بله: وب بتا"
+        "en": "[Iran] Bale: Web Beta",
+        "fa": "[ایران] بله: وب بتا"
       },
       "url": "https://beta.bale.ai/robots.txt",
       "shouldContain": "Disallow"
     },
     {
       "name": {
-        "en": "Bale: API",
-        "fa": "بله: ای‌پی‌آی"
+        "en": "[Iran] Bale: API",
+        "fa": "[ایران] بله: ای‌پی‌آی"
       },
       "url": "https://assets.bale.ai/configs.json",
       "shouldContain": "bale"
     },
     {
       "name": {
-        "en": "Bale: Signaling Server 1",
-        "fa": "بله: سرور سیگنالینگ ۱"
+        "en": "[Iran] Bale: Signaling Server 1",
+        "fa": "[ایران] بله: سرور سیگنالینگ ۱"
       },
       "url": "https://meet-gwbm1.ble.ir/",
       "shouldContain": "OK"
     },
     {
       "name": {
-        "en": "Bale: Signaling Server 2",
-        "fa": "بله: سرور سیگنالینگ ۲"
+        "en": "[Iran] Bale: Signaling Server 2",
+        "fa": "[ایران] بله: سرور سیگنالینگ ۲"
       },
       "url": "https://meet-gwbm2.ble.ir/",
       "shouldContain": "OK"
     },
     {
       "name": {
-        "en": "Bale: Signaling Server 3",
-        "fa": "بله: سرور سیگنالینگ ۳"
+        "en": "[Iran] Bale: Signaling Server 3",
+        "fa": "[ایران] بله: سرور سیگنالینگ ۳"
       },
       "url": "https://meet-gwbm3.ble.ir/",
       "shouldContain": "OK"
     },
     {
       "name": {
-        "en": "Bale: Signaling Server 4",
-        "fa": "بله: سرور سیگنالینگ ۴"
+        "en": "[Iran] Bale: Signaling Server 4",
+        "fa": "[ایران] بله: سرور سیگنالینگ ۴"
       },
       "url": "https://meet-gwbm4.ble.ir/",
       "shouldContain": "OK"
     },
     {
       "name": {
-        "en": "Bale: Signaling Server 5",
-        "fa": "بله: سرور سیگنالینگ ۵"
+        "en": "[Iran] Bale: Signaling Server 5",
+        "fa": "[ایران] بله: سرور سیگنالینگ ۵"
       },
       "url": "https://meet-gwbm5.ble.ir/",
       "shouldContain": "OK"
     },
     {
       "name": {
-        "en": "Bale: Signaling Server 6",
-        "fa": "بله: سرور سیگنالینگ ۶"
+        "en": "[Iran] Bale: Signaling Server 6",
+        "fa": "[ایران] بله: سرور سیگنالینگ ۶"
       },
       "url": "https://meet-gwbm6.ble.ir/",
       "shouldContain": "OK"
     },
     {
       "name": {
-        "en": "Bale: TURN Server",
-        "fa": "بله: سرور ترن"
+        "en": "[Iran] Bale: TURN Server",
+        "fa": "[ایران] بله: سرور ترن"
       },
       "url": "https://meet-turn.ble.ir",
       "shouldContain": "OK"
     },
     {
       "name": {
-        "en": "Bale: Meet",
-        "fa": "بله: میت"
+        "en": "[Iran] Bale: Meet",
+        "fa": "[ایران] بله: میت"
       },
       "url": "https://meet.bale.ai/token",
       "shouldContain": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
+    },
+    {
+      "name": {
+        "en": "[Iran] MyDot",
+        "fa": "[ایران] مای‌دات"
+      },
+      "url": "https://api.mydot.one/mydot/api/health/",
+      "shouldContain": "ok"
+    },
+    {
+      "name": {
+        "en": "[Iran] Eitaa: Web",
+        "fa": "[ایران] ایتا: وب"
+      },
+      "url": "https://web.eitaa.com/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "[Iran] Eitaa: My",
+        "fa": "[ایران] ایتا: سایت"
+      },
+      "url": "https://my.eitaa.com/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "[Iran] Eitaa: Alireza",
+        "fa": "[ایران] ایتا: علیرضا"
+      },
+      "url": "https://alireza.eitaa.com/eitaa/",
+      "shouldContain": "INVALID_CONSTRUCTOR"
+    },
+    {
+      "name": {
+        "en": "[Iran] Eitaa: Majid",
+        "fa": "[ایران] ایتا: مجید"
+      },
+      "url": "https://majid.eitaa.com/eitaa/",
+      "shouldContain": "INVALID_CONSTRUCTOR"
     }
   ]
 }
