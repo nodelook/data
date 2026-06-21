@@ -4,8 +4,8 @@
     "fa": "اوبونتو"
   },
   "description": {
-    "en": "Ubuntu Linux Mirrors",
-    "fa": "آینه‌های لینوکس اوبونتو"
+    "en": "Ubuntu Linux Mirrors\nsudo nano /etc/apt/sources.list",
+    "fa": "آینه‌های لینوکس اوبونتو\nsudo nano /etc/apt/sources.list"
   },
   "items": [
     {
