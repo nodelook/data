@@ -4,8 +4,8 @@
     "fa": "ماون"
   },
   "description": {
-    "en": "Maven Repository Mirrors",
-    "fa": "آینه‌های مخازن ماون"
+    "en": "Maven Repository Mirrors\nnano ~/.m2/settings.xml",
+    "fa": "آینه‌های مخازن ماون\nnano ~/.m2/settings.xml"
   },
   "items": [
     {
