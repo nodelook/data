@@ -4,8 +4,8 @@
     "fa": "زمان"
   },
   "description": {
-    "en": "NTP Servers",
-    "fa": "سرورهای ان‌تی‌پی"
+    "en": "NTP Servers\nsudo nano /etc/systemd/timesyncd.conf",
+    "fa": "سرورهای ان‌تی‌پی\nsudo nano /etc/systemd/timesyncd.conf"
   },
   "items": [
     {
