@@ -1,0 +1,311 @@
+﻿time.google.com, Google
+time1.google.com, Google 1
+time2.google.com, Google 2
+time3.google.com, Google 3
+time4.google.com, Google 4
+time.android.com, Google Android
+time.aws.com, Amazon Web Services
+time.cloudflare.com, Cloudflare
+time.facebook.com, Facebook
+time1.facebook.com, Facebook 1
+time2.facebook.com, Facebook 2
+time3.facebook.com, Facebook 3
+time4.facebook.com, Facebook 4
+time5.facebook.com, Facebook 5
+time.windows.com, Microsoft Windows
+time.apple.com, Apple
+time-macos.apple.com, Apple MacOS
+time-ios.apple.com, Apple iOS
+time1.apple.com, Apple 1
+time2.apple.com, Apple 2
+time3.apple.com, Apple 3
+time4.apple.com, Apple 4
+time5.apple.com, Apple 5
+time6.apple.com, Apple 6
+time7.apple.com, Apple 7
+time.euro.apple.com, Apple Euro
+clepsydra.dec.com, HP 1
+clepsydra.labs.hp.com, HP 2
+clepsydra.hpl.hp.com, HP 3
+usno.labs.hp.com, HP 4
+time-a-g.nist.gov, NIST 01
+time-b-g.nist.gov, NIST 02
+time-c-g.nist.gov, NIST 03
+time-d-g.nist.gov, NIST 04
+time-a-wwv.nist.gov, NIST 05
+time-b-wwv.nist.gov, NIST 06
+time-c-wwv.nist.gov, NIST 07
+time-d-wwv.nist.gov, NIST 08
+time-a-b.nist.gov, NIST 09
+time-b-b.nist.gov, NIST 10
+time-c-b.nist.gov, NIST 11
+time-d-b.nist.gov, NIST 12
+time.nist.gov, NIST 13
+time-e-b.nist.gov, NIST 14
+time-e-g.nist.gov, NIST 15
+time-e-wwv.nist.gov, NIST 16
+time-nw.nist.gov, NIST 17
+time-a.nist.gov, NIST 18
+time-b.nist.gov, NIST 19
+utcnist.colorado.edu, NIST 20
+utcnist2.colorado.edu, NIST 21
+ntp1.vniiftri.ru, VNIIFTRI 01
+ntp2.vniiftri.ru, VNIIFTRI 02
+ntp3.vniiftri.ru, VNIIFTRI 03
+ntp4.vniiftri.ru, VNIIFTRI 04
+ntp.sstf.nsk.ru, VNIIFTRI 05
+ntp1.niiftri.irkutsk.ru, VNIIFTRI 06
+ntp2.niiftri.irkutsk.ru, VNIIFTRI 07
+vniiftri.khv.ru, VNIIFTRI 08
+vniiftri2.khv.ru, VNIIFTRI 09
+ntp21.vniiftri.ru, VNIIFTRI 10
+ntp.mobatime.ru, Mobatime
+ntp0.ntp-servers.net, NTP SERVERS 0
+ntp1.ntp-servers.net, NTP SERVERS 1
+ntp2.ntp-servers.net, NTP SERVERS 2
+ntp3.ntp-servers.net, NTP SERVERS 3
+ntp4.ntp-servers.net, NTP SERVERS 4
+ntp5.ntp-servers.net, NTP SERVERS 5
+ntp6.ntp-servers.net, NTP SERVERS 6
+ntp7.ntp-servers.net, NTP SERVERS 7
+ntp1.stratum1.ru, Stratum 1-1
+ntp2.stratum1.ru, Stratum 1-2
+ntp3.stratum1.ru, Stratum 1-3
+ntp4.stratum1.ru, Stratum 1-4
+ntp5.stratum1.ru, Stratum 1-5
+ntp1.stratum2.ru, Stratum 2-1
+ntp2.stratum2.ru, Stratum 2-2
+ntp3.stratum2.ru, Stratum 2-3
+ntp4.stratum2.ru, Stratum 2-4
+ntp5.stratum2.ru, Stratum 2-5
+stratum1.net, Stratum 1
+ntp.time.in.ua, time.in.ua 1
+ntp2.time.in.ua, time.in.ua 2
+ntp3.time.in.ua, time.in.ua 3
+ntp.ru, Company Delfa
+ts1.aco.net, ACO 1
+ts2.aco.net, ACO 2
+ntp1.net.berkeley.edu, Berkeley 1
+ntp2.net.berkeley.edu, Berkeley 2
+ntp.gsu.edu, Georgia State University
+tick.usask.ca, University of Saskatchewan 1
+tock.usask.ca, University of Saskatchewan 2
+ntp.nsu.ru, NSU
+ntp.psn.ru, ITAEC
+ntp.rsu.edu.ru, RSU
+ntp.nict.jp, National Institute of Information and Communications Technology
+x.ns.gin.ntt.net, NTT 1
+y.ns.gin.ntt.net, NTT 2
+clock.sjc.he.net, HE 1
+clock.fmt.he.net, HE 2
+clock.nyc.he.net, HE 3
+ntp.fiord.ru, TRC Fiord
+gbg1.ntp.se, Netnod Göteborg 1
+gbg2.ntp.se, Netnod Göteborg 2
+mmo1.ntp.se, Netnod Malmö 1
+mmo2.ntp.se, Netnod Malmö 2
+sth1.ntp.se, Netnod Stockholm 1
+sth2.ntp.se, Netnod Stockholm 2
+svl1.ntp.se, Netnod Sundsvall 1
+svl2.ntp.se, Netnod Sundsvall 2
+ntp.se, Netnod
+ntp.qix.ca, QiX
+ntp1.qix.ca, QiX 1
+ntp2.qix.ca, QiX 2
+ntp.yycix.ca, YYCIX
+ntp.ix.ru, MSK-IX
+ntp1.hetzner.de, Hetzner 1
+ntp2.hetzner.de, Hetzner 2
+ntp3.hetzner.de, Hetzner 3
+time-a.as43289.net, Trabia-Network 1
+time-b.as43289.net, Trabia-Network 2
+time-c.as43289.net, Trabia-Network 3
+ntp.ripe.net, RIPE
+clock.isc.org, Internet Systems Consortium 1
+ntp.isc.org, Internet Systems Consortium 2
+ntp.time.nl, TimeNL/SIDN Labs 1
+ntp1.time.nl, TimeNL/SIDN Labs 2
+ntp0.as34288.net, Kantonsschule Zug 0
+ntp1.as34288.net, Kantonsschule Zug 1
+ntp1.jst.mfeed.ad.jp, INTERNET MULTIFEED 1
+ntp2.jst.mfeed.ad.jp, INTERNET MULTIFEED 2
+ntp3.jst.mfeed.ad.jp, INTERNET MULTIFEED 3
+ntp.ntsc.ac.cn, Chinese Academy of Sciences Nation Time Service Center
+ntp.nat.ms, Nat Morris
+pool.ntp.org, NTP Pool
+0.pool.ntp.org, NTP Pool 0
+1.pool.ntp.org, NTP Pool 1
+2.pool.ntp.org, NTP Pool 2
+3.pool.ntp.org, NTP Pool 3
+amazon.pool.ntp.org, NTP Pool Amazon
+0.amazon.pool.ntp.org, NTP Pool Amazon 0
+1.amazon.pool.ntp.org, NTP Pool Amazon 1
+2.amazon.pool.ntp.org, NTP Pool Amazon 2
+3.amazon.pool.ntp.org, NTP Pool Amazon 3
+europe.pool.ntp.org, NTP Pool AA
+0.europe.pool.ntp.org, NTP Pool AB
+1.europe.pool.ntp.org, NTP Pool AC
+2.europe.pool.ntp.org, NTP Pool AD
+3.europe.pool.ntp.org, NTP Pool AE
+asia.pool.ntp.org, NTP Pool AF
+0.asia.pool.ntp.org, NTP Pool AG
+1.asia.pool.ntp.org, NTP Pool AH
+2.asia.pool.ntp.org, NTP Pool AI
+3.asia.pool.ntp.org, NTP Pool AJ
+ru.pool.ntp.org, NTP Pool AK
+0.ru.pool.ntp.org, NTP Pool AL
+1.ru.pool.ntp.org, NTP Pool AM
+2.ru.pool.ntp.org, NTP Pool AN
+3.ru.pool.ntp.org, NTP Pool AO
+north-america.pool.ntp.org, NTP Pool AO
+0.north-america.pool.ntp.org, NTP Pool AQ
+1.north-america.pool.ntp.org, NTP Pool AR
+2.north-america.pool.ntp.org, NTP Pool AS
+3.north-america.pool.ntp.org, NTP Pool AT
+0.gentoo.pool.ntp.org, NTP Pool AU
+1.gentoo.pool.ntp.org, NTP Pool AV
+2.gentoo.pool.ntp.org, NTP Pool AW
+3.gentoo.pool.ntp.org, NTP Pool AX
+0.arch.pool.ntp.org, NTP Pool AY
+1.arch.pool.ntp.org, NTP Pool AZ
+2.arch.pool.ntp.org, NTP Pool BA
+3.arch.pool.ntp.org, NTP Pool BB
+0.fedora.pool.ntp.org, NTP Pool BC
+1.fedora.pool.ntp.org, NTP Pool BD
+2.fedora.pool.ntp.org, NTP Pool BE
+3.fedora.pool.ntp.org, NTP Pool BF
+0.opensuse.pool.ntp.org, NTP Pool BG
+1.opensuse.pool.ntp.org, NTP Pool BH
+2.opensuse.pool.ntp.org, NTP Pool BI
+3.opensuse.pool.ntp.org, NTP Pool BJ
+0.centos.pool.ntp.org, NTP Pool BK
+1.centos.pool.ntp.org, NTP Pool BL
+2.centos.pool.ntp.org, NTP Pool BM
+3.centos.pool.ntp.org, NTP Pool BN
+0.debian.pool.ntp.org, NTP Pool BO
+1.debian.pool.ntp.org, NTP Pool BP
+2.debian.pool.ntp.org, NTP Pool BQ
+3.debian.pool.ntp.org, NTP Pool BR
+0.askozia.pool.ntp.org, NTP Pool BS
+1.askozia.pool.ntp.org, NTP Pool BT
+2.askozia.pool.ntp.org, NTP Pool BU
+3.askozia.pool.ntp.org, NTP Pool BV
+0.freebsd.pool.ntp.org, NTP Pool BW
+1.freebsd.pool.ntp.org, NTP Pool BX
+2.freebsd.pool.ntp.org, NTP Pool BY
+3.freebsd.pool.ntp.org, NTP Pool BZ
+0.netbsd.pool.ntp.org, NTP Pool CA
+1.netbsd.pool.ntp.org, NTP Pool CB
+2.netbsd.pool.ntp.org, NTP Pool CC
+3.netbsd.pool.ntp.org, NTP Pool CD
+0.openbsd.pool.ntp.org, NTP Pool CE
+1.openbsd.pool.ntp.org, NTP Pool CF
+2.openbsd.pool.ntp.org, NTP Pool CG
+3.openbsd.pool.ntp.org, NTP Pool CH
+0.dragonfly.pool.ntp.org, NTP Pool CI
+1.dragonfly.pool.ntp.org, NTP Pool CJ
+2.dragonfly.pool.ntp.org, NTP Pool CK
+3.dragonfly.pool.ntp.org, NTP Pool CL
+0.pfsense.pool.ntp.org, NTP Pool CM
+1.pfsense.pool.ntp.org, NTP Pool CN
+2.pfsense.pool.ntp.org, NTP Pool CO
+3.pfsense.pool.ntp.org, NTP Pool CP
+0.opnsense.pool.ntp.org, NTP Pool CQ
+1.opnsense.pool.ntp.org, NTP Pool CR
+2.opnsense.pool.ntp.org, NTP Pool CS
+3.opnsense.pool.ntp.org, NTP Pool CT
+0.smartos.pool.ntp.org, NTP Pool CU
+1.smartos.pool.ntp.org, NTP Pool CV
+2.smartos.pool.ntp.org, NTP Pool CW
+3.smartos.pool.ntp.org, NTP Pool CX
+0.android.pool.ntp.org, NTP Pool CY
+1.android.pool.ntp.org, NTP Pool CZ
+2.android.pool.ntp.org, NTP Pool DA
+3.android.pool.ntp.org, NTP Pool DB
+0.amazon.pool.ntp.org, NTP Pool DC
+1.amazon.pool.ntp.org, NTP Pool DD
+2.amazon.pool.ntp.org, NTP Pool DE
+3.amazon.pool.ntp.org, NTP Pool DF
+0.ubnt.pool.ntp.org, NTP Pool DG
+1.ubnt.pool.ntp.org, NTP Pool DH
+2.ubnt.pool.ntp.org, NTP Pool DI
+3.ubnt.pool.ntp.org, NTP Pool DJ
+tick.usno.navy.mil, mil 1
+tock.usno.navy.mil, mil 2
+ntp2.usno.navy.mil, mil 3
+utcnist.colorado.edu, edu 01
+utcnist2.colorado.edu, edu 02
+timekeeper.isi.edu, edu 03
+rackety.udel.edu, edu 04
+mizbeaver.udel.edu, edu 05
+otc1.psu.edu, edu 06
+gnomon.cc.columbia.edu, edu 07
+navobs1.gatech.edu, edu 08
+navobs1.wustl.edu, edu 09
+now.okstate.edu, edu 10
+ntp.colby.edu, edu 11
+ntp-s1.cise.ufl.edu, edu 12
+bonehed.lcs.mit.edu, edu 13
+level1e.cs.unc.edu, edu 14
+tick.ucla.edu, edu 15
+tick.uh.edu, edu 16
+ntpstm.netbone-digital.com, com 1
+nist1.symmetricom.com, com 2
+ntp.quintex.com, com 3
+ntp1.conectiv.com, com 4
+tock.usshc.com, com 5
+t2.timegps.net, net 1
+gps.layer42.net, net 2
+ntp-ca.stygium.net, net 3
+sesku.planeacion.net, net 4
+ntp0.nl.uu.net, net 5
+ntp1.nl.uu.net, net 6
+navobs1.oar.net, net 7
+ntp-galway.hea.net, net 8
+ntp1.ona.org, org 1
+ntp.your.org, org 2
+ntp.mrow.org, org 3
+time.fu-berlin.de, de 01
+ntps1-0.cs.tu-berlin.de, de 02
+ntps1-1.cs.tu-berlin.de, de 03
+ntps1-0.uni-erlangen.de, de 04
+ntps1-1.uni-erlangen.de, de 05
+ntp1.fau.de, de 06
+ntp2.fau.de, de 07
+ntp.dianacht.de, de 08
+zeit.fu-berlin.de, de 09
+ptbtime1.ptb.de, de 10
+ptbtime2.ptb.de, de 11
+rustime01.rus.uni-stuttgart.de, de 12
+rustime02.rus.uni-stuttgart.de, de 13
+chime1.surfnet.nl, NL 1
+ntp.vsl.nl, NL 2
+asynchronos.iiss.at, AT
+ntp.nic.cz, CZ 1
+time.ufe.cz, CZ 2
+ntp.fizyka.umk.pl, PL 1
+tempus1.gum.gov.pl, PL 2
+tempus2.gum.gov.pl, PL 3
+ntp1.usv.ro, RO 1
+ntp3.usv.ro, RO 2
+timehost.lysator.liu.se, SE 1
+time1.stupi.se, SE 2
+time.nrc.ca, CA 1
+clock.uregina.ca, CA 2
+cronos.cenam.mx, MX 1
+ntp.lcf.mx, MX 2
+hora.roa.es, ES 1
+minuto.roa.es, ES 2
+ntp1.inrim.it, IT 1
+ntp2.inrim.it, IT 2
+ntp1.oma.be, BE 1
+ntp2.oma.be, BE 2
+ntp.atomki.mta.hu, HU
+ntp.i2t.ehu.eus, EUS
+ntp.neel.ch, CH
+ntp.neu.edu.cn, CN
+ntp.nict.jp, JP
+ntps1.pads.ufrj.br, BR
+ntp.shoa.cl, CL
+time.esa.int, INT 1
+time1.esa.int , INT 2
