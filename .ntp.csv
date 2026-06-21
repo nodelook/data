@@ -308,4 +308,15 @@ ntp.nict.jp, JP
 ntps1.pads.ufrj.br, BR
 ntp.shoa.cl, CL
 time.esa.int, INT 1
-time1.esa.int , INT 2
+time1.esa.int, INT 2
+ntp.time.ir | [Iran] Time
+ntp1.ir | [Iran] NTP 1
+ntp2.ir | [Iran] NTP 2
+ntp3.ir | [Iran] NTP 3
+ntp.day.ir | [Iran] Day
+ntp.meetbsd.ir | [Iran] Meet BSD
+public.ntp.asiatech.ir | [Iran] AsiaTech
+time1.iran.ir | [Iran] Iran
+ntp.server.ir | [Iran] Server
+ntp.irimo.ir | [Iran] IRIMO
+time.irip.ir | [Iran] IRIP
