@@ -1,0 +1,1622 @@
+{
+  "name": {
+    "en": "Time",
+    "fa": "زمان"
+  },
+  "description": {
+    "en": "NTP Servers",
+    "fa": "سرورهای ان‌تی‌پی"
+  },
+  "items": [
+    {
+      "URL": "time.google.com",
+      "EN": "Google",
+      "FA": "گوگل"
+    },
+    {
+      "URL": "time1.google.com",
+      "EN": "Google 1",
+      "FA": "گوگل ۱"
+    },
+    {
+      "URL": "time2.google.com",
+      "EN": "Google 2",
+      "FA": "گوگل ۲"
+    },
+    {
+      "URL": "time3.google.com",
+      "EN": "Google 3",
+      "FA": "گوگل ۳"
+    },
+    {
+      "URL": "time4.google.com",
+      "EN": "Google 4",
+      "FA": "گوگل ۴"
+    },
+    {
+      "URL": "time.android.com",
+      "EN": "Android (Google)",
+      "FA": "اندروید (گوگل)"
+    },
+    {
+      "URL": "time.aws.com",
+      "EN": "Amazon Web Services",
+      "FA": "Amazon Web Services"
+    },
+    {
+      "URL": "time.cloudflare.com",
+      "EN": "Cloudflare",
+      "FA": "کلادفلر"
+    },
+    {
+      "URL": "time.facebook.com",
+      "EN": "Facebook",
+      "FA": "فیسبوک"
+    },
+    {
+      "URL": "time1.facebook.com",
+      "EN": "Facebook 1",
+      "FA": "فیسبوک ۱"
+    },
+    {
+      "URL": "time2.facebook.com",
+      "EN": "Facebook 2",
+      "FA": "فیسبوک ۲"
+    },
+    {
+      "URL": "time3.facebook.com",
+      "EN": "Facebook 3",
+      "FA": "فیسبوک ۳"
+    },
+    {
+      "URL": "time4.facebook.com",
+      "EN": "Facebook 4",
+      "FA": "فیسبوک ۴"
+    },
+    {
+      "URL": "time5.facebook.com",
+      "EN": "Facebook 5",
+      "FA": "فیسبوک ۵"
+    },
+    {
+      "URL": "time.windows.com",
+      "EN": "Microsoft Windows",
+      "FA": "Microsoft Windows"
+    },
+    {
+      "URL": "time.apple.com",
+      "EN": "Apple",
+      "FA": "Apple"
+    },
+    {
+      "URL": "time-macos.apple.com",
+      "EN": "Apple MacOS",
+      "FA": "Apple MacOS"
+    },
+    {
+      "URL": "time-ios.apple.com",
+      "EN": "Apple iOS",
+      "FA": "Apple iOS"
+    },
+    {
+      "URL": "time1.apple.com",
+      "EN": "Apple 1",
+      "FA": "Apple 1"
+    },
+    {
+      "URL": "time2.apple.com",
+      "EN": "Apple 2",
+      "FA": "Apple 2"
+    },
+    {
+      "URL": "time3.apple.com",
+      "EN": "Apple 3",
+      "FA": "Apple 3"
+    },
+    {
+      "URL": "time4.apple.com",
+      "EN": "Apple 4",
+      "FA": "Apple 4"
+    },
+    {
+      "URL": "time5.apple.com",
+      "EN": "Apple 5",
+      "FA": "Apple 5"
+    },
+    {
+      "URL": "time6.apple.com",
+      "EN": "Apple 6",
+      "FA": "Apple 6"
+    },
+    {
+      "URL": "time7.apple.com",
+      "EN": "Apple 7",
+      "FA": "Apple 7"
+    },
+    {
+      "URL": "time.euro.apple.com",
+      "EN": "Apple Euro",
+      "FA": "Apple Euro"
+    },
+    {
+      "URL": "clepsydra.dec.com",
+      "EN": "HP 1",
+      "FA": "HP 1"
+    },
+    {
+      "URL": "clepsydra.labs.hp.com",
+      "EN": "HP 2",
+      "FA": "HP 2"
+    },
+    {
+      "URL": "clepsydra.hpl.hp.com",
+      "EN": "HP 3",
+      "FA": "HP 3"
+    },
+    {
+      "URL": "usno.labs.hp.com",
+      "EN": "HP 4",
+      "FA": "HP 4"
+    },
+    {
+      "URL": "time-a-g.nist.gov",
+      "EN": "NIST 01",
+      "FA": "NIST 01"
+    },
+    {
+      "URL": "time-b-g.nist.gov",
+      "EN": "NIST 02",
+      "FA": "NIST 02"
+    },
+    {
+      "URL": "time-c-g.nist.gov",
+      "EN": "NIST 03",
+      "FA": "NIST 03"
+    },
+    {
+      "URL": "time-d-g.nist.gov",
+      "EN": "NIST 04",
+      "FA": "NIST 04"
+    },
+    {
+      "URL": "time-a-wwv.nist.gov",
+      "EN": "NIST 05",
+      "FA": "NIST 05"
+    },
+    {
+      "URL": "time-b-wwv.nist.gov",
+      "EN": "NIST 06",
+      "FA": "NIST 06"
+    },
+    {
+      "URL": "time-c-wwv.nist.gov",
+      "EN": "NIST 07",
+      "FA": "NIST 07"
+    },
+    {
+      "URL": "time-d-wwv.nist.gov",
+      "EN": "NIST 08",
+      "FA": "NIST 08"
+    },
+    {
+      "URL": "time-a-b.nist.gov",
+      "EN": "NIST 09",
+      "FA": "NIST 09"
+    },
+    {
+      "URL": "time-b-b.nist.gov",
+      "EN": "NIST 10",
+      "FA": "NIST 10"
+    },
+    {
+      "URL": "time-c-b.nist.gov",
+      "EN": "NIST 11",
+      "FA": "NIST 11"
+    },
+    {
+      "URL": "time-d-b.nist.gov",
+      "EN": "NIST 12",
+      "FA": "NIST 12"
+    },
+    {
+      "URL": "time.nist.gov",
+      "EN": "NIST 13",
+      "FA": "NIST 13"
+    },
+    {
+      "URL": "time-e-b.nist.gov",
+      "EN": "NIST 14",
+      "FA": "NIST 14"
+    },
+    {
+      "URL": "time-e-g.nist.gov",
+      "EN": "NIST 15",
+      "FA": "NIST 15"
+    },
+    {
+      "URL": "time-e-wwv.nist.gov",
+      "EN": "NIST 16",
+      "FA": "NIST 16"
+    },
+    {
+      "URL": "time-nw.nist.gov",
+      "EN": "NIST 17",
+      "FA": "NIST 17"
+    },
+    {
+      "URL": "time-a.nist.gov",
+      "EN": "NIST 18",
+      "FA": "NIST 18"
+    },
+    {
+      "URL": "time-b.nist.gov",
+      "EN": "NIST 19",
+      "FA": "NIST 19"
+    },
+    {
+      "URL": "utcnist.colorado.edu",
+      "EN": "NIST 20",
+      "FA": "NIST 20"
+    },
+    {
+      "URL": "utcnist2.colorado.edu",
+      "EN": "NIST 21",
+      "FA": "NIST 21"
+    },
+    {
+      "URL": "ntp1.vniiftri.ru",
+      "EN": "VNIIFTRI 01",
+      "FA": "VNIIFTRI 01"
+    },
+    {
+      "URL": "ntp2.vniiftri.ru",
+      "EN": "VNIIFTRI 02",
+      "FA": "VNIIFTRI 02"
+    },
+    {
+      "URL": "ntp3.vniiftri.ru",
+      "EN": "VNIIFTRI 03",
+      "FA": "VNIIFTRI 03"
+    },
+    {
+      "URL": "ntp4.vniiftri.ru",
+      "EN": "VNIIFTRI 04",
+      "FA": "VNIIFTRI 04"
+    },
+    {
+      "URL": "ntp.sstf.nsk.ru",
+      "EN": "VNIIFTRI 05",
+      "FA": "VNIIFTRI 05"
+    },
+    {
+      "URL": "ntp1.niiftri.irkutsk.ru",
+      "EN": "VNIIFTRI 06",
+      "FA": "VNIIFTRI 06"
+    },
+    {
+      "URL": "ntp2.niiftri.irkutsk.ru",
+      "EN": "VNIIFTRI 07",
+      "FA": "VNIIFTRI 07"
+    },
+    {
+      "URL": "vniiftri.khv.ru",
+      "EN": "VNIIFTRI 08",
+      "FA": "VNIIFTRI 08"
+    },
+    {
+      "URL": "vniiftri2.khv.ru",
+      "EN": "VNIIFTRI 09",
+      "FA": "VNIIFTRI 09"
+    },
+    {
+      "URL": "ntp21.vniiftri.ru",
+      "EN": "VNIIFTRI 10",
+      "FA": "VNIIFTRI 10"
+    },
+    {
+      "URL": "ntp.mobatime.ru",
+      "EN": "Mobatime",
+      "FA": "Mobatime"
+    },
+    {
+      "URL": "ntp0.ntp-servers.net",
+      "EN": "NTP SERVERS 0",
+      "FA": "NTP SERVERS 0"
+    },
+    {
+      "URL": "ntp1.ntp-servers.net",
+      "EN": "NTP SERVERS 1",
+      "FA": "NTP SERVERS 1"
+    },
+    {
+      "URL": "ntp2.ntp-servers.net",
+      "EN": "NTP SERVERS 2",
+      "FA": "NTP SERVERS 2"
+    },
+    {
+      "URL": "ntp3.ntp-servers.net",
+      "EN": "NTP SERVERS 3",
+      "FA": "NTP SERVERS 3"
+    },
+    {
+      "URL": "ntp4.ntp-servers.net",
+      "EN": "NTP SERVERS 4",
+      "FA": "NTP SERVERS 4"
+    },
+    {
+      "URL": "ntp5.ntp-servers.net",
+      "EN": "NTP SERVERS 5",
+      "FA": "NTP SERVERS 5"
+    },
+    {
+      "URL": "ntp6.ntp-servers.net",
+      "EN": "NTP SERVERS 6",
+      "FA": "NTP SERVERS 6"
+    },
+    {
+      "URL": "ntp7.ntp-servers.net",
+      "EN": "NTP SERVERS 7",
+      "FA": "NTP SERVERS 7"
+    },
+    {
+      "URL": "ntp1.stratum1.ru",
+      "EN": "Stratum 1-1",
+      "FA": "Stratum 1-1"
+    },
+    {
+      "URL": "ntp2.stratum1.ru",
+      "EN": "Stratum 1-2",
+      "FA": "Stratum 1-2"
+    },
+    {
+      "URL": "ntp3.stratum1.ru",
+      "EN": "Stratum 1-3",
+      "FA": "Stratum 1-3"
+    },
+    {
+      "URL": "ntp4.stratum1.ru",
+      "EN": "Stratum 1-4",
+      "FA": "Stratum 1-4"
+    },
+    {
+      "URL": "ntp5.stratum1.ru",
+      "EN": "Stratum 1-5",
+      "FA": "Stratum 1-5"
+    },
+    {
+      "URL": "ntp1.stratum2.ru",
+      "EN": "Stratum 2-1",
+      "FA": "Stratum 2-1"
+    },
+    {
+      "URL": "ntp2.stratum2.ru",
+      "EN": "Stratum 2-2",
+      "FA": "Stratum 2-2"
+    },
+    {
+      "URL": "ntp3.stratum2.ru",
+      "EN": "Stratum 2-3",
+      "FA": "Stratum 2-3"
+    },
+    {
+      "URL": "ntp4.stratum2.ru",
+      "EN": "Stratum 2-4",
+      "FA": "Stratum 2-4"
+    },
+    {
+      "URL": "ntp5.stratum2.ru",
+      "EN": "Stratum 2-5",
+      "FA": "Stratum 2-5"
+    },
+    {
+      "URL": "stratum1.net",
+      "EN": "Stratum 1",
+      "FA": "Stratum 1"
+    },
+    {
+      "URL": "ntp.time.in.ua",
+      "EN": "time.in.ua 1",
+      "FA": "time.in.ua 1"
+    },
+    {
+      "URL": "ntp2.time.in.ua",
+      "EN": "time.in.ua 2",
+      "FA": "time.in.ua 2"
+    },
+    {
+      "URL": "ntp3.time.in.ua",
+      "EN": "time.in.ua 3",
+      "FA": "time.in.ua 3"
+    },
+    {
+      "URL": "ntp.ru",
+      "EN": "Company Delfa",
+      "FA": "Company Delfa"
+    },
+    {
+      "URL": "ts1.aco.net",
+      "EN": "ACO 1",
+      "FA": "ACO 1"
+    },
+    {
+      "URL": "ts2.aco.net",
+      "EN": "ACO 2",
+      "FA": "ACO 2"
+    },
+    {
+      "URL": "ntp1.net.berkeley.edu",
+      "EN": "Berkeley 1",
+      "FA": "Berkeley 1"
+    },
+    {
+      "URL": "ntp2.net.berkeley.edu",
+      "EN": "Berkeley 2",
+      "FA": "Berkeley 2"
+    },
+    {
+      "URL": "ntp.gsu.edu",
+      "EN": "Georgia State University",
+      "FA": "Georgia State University"
+    },
+    {
+      "URL": "tick.usask.ca",
+      "EN": "University of Saskatchewan 1",
+      "FA": "University of Saskatchewan 1"
+    },
+    {
+      "URL": "tock.usask.ca",
+      "EN": "University of Saskatchewan 2",
+      "FA": "University of Saskatchewan 2"
+    },
+    {
+      "URL": "ntp.nsu.ru",
+      "EN": "NSU",
+      "FA": "NSU"
+    },
+    {
+      "URL": "ntp.psn.ru",
+      "EN": "ITAEC",
+      "FA": "ITAEC"
+    },
+    {
+      "URL": "ntp.rsu.edu.ru",
+      "EN": "RSU",
+      "FA": "RSU"
+    },
+    {
+      "URL": "ntp.nict.jp",
+      "EN": "National Institute of Information and Communications Technology",
+      "FA": "National Institute of Information and Communications Technology"
+    },
+    {
+      "URL": "x.ns.gin.ntt.net",
+      "EN": "NTT 1",
+      "FA": "NTT 1"
+    },
+    {
+      "URL": "y.ns.gin.ntt.net",
+      "EN": "NTT 2",
+      "FA": "NTT 2"
+    },
+    {
+      "URL": "clock.sjc.he.net",
+      "EN": "HE 1",
+      "FA": "HE 1"
+    },
+    {
+      "URL": "clock.fmt.he.net",
+      "EN": "HE 2",
+      "FA": "HE 2"
+    },
+    {
+      "URL": "clock.nyc.he.net",
+      "EN": "HE 3",
+      "FA": "HE 3"
+    },
+    {
+      "URL": "ntp.fiord.ru",
+      "EN": "TRC Fiord",
+      "FA": "TRC Fiord"
+    },
+    {
+      "URL": "gbg1.ntp.se",
+      "EN": "Netnod Göteborg 1",
+      "FA": "Netnod Göteborg 1"
+    },
+    {
+      "URL": "gbg2.ntp.se",
+      "EN": "Netnod Göteborg 2",
+      "FA": "Netnod Göteborg 2"
+    },
+    {
+      "URL": "mmo1.ntp.se",
+      "EN": "Netnod Malmö 1",
+      "FA": "Netnod Malmö 1"
+    },
+    {
+      "URL": "mmo2.ntp.se",
+      "EN": "Netnod Malmö 2",
+      "FA": "Netnod Malmö 2"
+    },
+    {
+      "URL": "sth1.ntp.se",
+      "EN": "Netnod Stockholm 1",
+      "FA": "Netnod Stockholm 1"
+    },
+    {
+      "URL": "sth2.ntp.se",
+      "EN": "Netnod Stockholm 2",
+      "FA": "Netnod Stockholm 2"
+    },
+    {
+      "URL": "svl1.ntp.se",
+      "EN": "Netnod Sundsvall 1",
+      "FA": "Netnod Sundsvall 1"
+    },
+    {
+      "URL": "svl2.ntp.se",
+      "EN": "Netnod Sundsvall 2",
+      "FA": "Netnod Sundsvall 2"
+    },
+    {
+      "URL": "ntp.se",
+      "EN": "Netnod",
+      "FA": "Netnod"
+    },
+    {
+      "URL": "ntp.qix.ca",
+      "EN": "QiX",
+      "FA": "QiX"
+    },
+    {
+      "URL": "ntp1.qix.ca",
+      "EN": "QiX 1",
+      "FA": "QiX 1"
+    },
+    {
+      "URL": "ntp2.qix.ca",
+      "EN": "QiX 2",
+      "FA": "QiX 2"
+    },
+    {
+      "URL": "ntp.yycix.ca",
+      "EN": "YYCIX",
+      "FA": "YYCIX"
+    },
+    {
+      "URL": "ntp.ix.ru",
+      "EN": "MSK-IX",
+      "FA": "MSK-IX"
+    },
+    {
+      "URL": "ntp1.hetzner.de",
+      "EN": "Hetzner 1",
+      "FA": "Hetzner 1"
+    },
+    {
+      "URL": "ntp2.hetzner.de",
+      "EN": "Hetzner 2",
+      "FA": "Hetzner 2"
+    },
+    {
+      "URL": "ntp3.hetzner.de",
+      "EN": "Hetzner 3",
+      "FA": "Hetzner 3"
+    },
+    {
+      "URL": "time-a.as43289.net",
+      "EN": "Trabia-Network 1",
+      "FA": "Trabia-Network 1"
+    },
+    {
+      "URL": "time-b.as43289.net",
+      "EN": "Trabia-Network 2",
+      "FA": "Trabia-Network 2"
+    },
+    {
+      "URL": "time-c.as43289.net",
+      "EN": "Trabia-Network 3",
+      "FA": "Trabia-Network 3"
+    },
+    {
+      "URL": "ntp.ripe.net",
+      "EN": "RIPE",
+      "FA": "RIPE"
+    },
+    {
+      "URL": "clock.isc.org",
+      "EN": "Internet Systems Consortium 1",
+      "FA": "Internet Systems Consortium 1"
+    },
+    {
+      "URL": "ntp.isc.org",
+      "EN": "Internet Systems Consortium 2",
+      "FA": "Internet Systems Consortium 2"
+    },
+    {
+      "URL": "ntp.time.nl",
+      "EN": "TimeNL/SIDN Labs 1",
+      "FA": "TimeNL/SIDN Labs 1"
+    },
+    {
+      "URL": "ntp1.time.nl",
+      "EN": "TimeNL/SIDN Labs 2",
+      "FA": "TimeNL/SIDN Labs 2"
+    },
+    {
+      "URL": "ntp0.as34288.net",
+      "EN": "Kantonsschule Zug 0",
+      "FA": "Kantonsschule Zug 0"
+    },
+    {
+      "URL": "ntp1.as34288.net",
+      "EN": "Kantonsschule Zug 1",
+      "FA": "Kantonsschule Zug 1"
+    },
+    {
+      "URL": "ntp1.jst.mfeed.ad.jp",
+      "EN": "INTERNET MULTIFEED 1",
+      "FA": "INTERNET MULTIFEED 1"
+    },
+    {
+      "URL": "ntp2.jst.mfeed.ad.jp",
+      "EN": "INTERNET MULTIFEED 2",
+      "FA": "INTERNET MULTIFEED 2"
+    },
+    {
+      "URL": "ntp3.jst.mfeed.ad.jp",
+      "EN": "INTERNET MULTIFEED 3",
+      "FA": "INTERNET MULTIFEED 3"
+    },
+    {
+      "URL": "ntp.ntsc.ac.cn",
+      "EN": "Chinese Academy of Sciences Nation Time Service Center",
+      "FA": "Chinese Academy of Sciences Nation Time Service Center"
+    },
+    {
+      "URL": "ntp.nat.ms",
+      "EN": "Nat Morris",
+      "FA": "Nat Morris"
+    },
+    {
+      "URL": "pool.ntp.org",
+      "EN": "NTP Pool",
+      "FA": "NTP Pool"
+    },
+    {
+      "URL": "0.pool.ntp.org",
+      "EN": "NTP Pool 0",
+      "FA": "NTP Pool 0"
+    },
+    {
+      "URL": "1.pool.ntp.org",
+      "EN": "NTP Pool 1",
+      "FA": "NTP Pool 1"
+    },
+    {
+      "URL": "2.pool.ntp.org",
+      "EN": "NTP Pool 2",
+      "FA": "NTP Pool 2"
+    },
+    {
+      "URL": "3.pool.ntp.org",
+      "EN": "NTP Pool 3",
+      "FA": "NTP Pool 3"
+    },
+    {
+      "URL": "amazon.pool.ntp.org",
+      "EN": "NTP Pool Amazon",
+      "FA": "NTP Pool Amazon"
+    },
+    {
+      "URL": "0.amazon.pool.ntp.org",
+      "EN": "NTP Pool Amazon 0",
+      "FA": "NTP Pool Amazon 0"
+    },
+    {
+      "URL": "1.amazon.pool.ntp.org",
+      "EN": "NTP Pool Amazon 1",
+      "FA": "NTP Pool Amazon 1"
+    },
+    {
+      "URL": "2.amazon.pool.ntp.org",
+      "EN": "NTP Pool Amazon 2",
+      "FA": "NTP Pool Amazon 2"
+    },
+    {
+      "URL": "3.amazon.pool.ntp.org",
+      "EN": "NTP Pool Amazon 3",
+      "FA": "NTP Pool Amazon 3"
+    },
+    {
+      "URL": "europe.pool.ntp.org",
+      "EN": "NTP Pool AA",
+      "FA": "NTP Pool AA"
+    },
+    {
+      "URL": "0.europe.pool.ntp.org",
+      "EN": "NTP Pool AB",
+      "FA": "NTP Pool AB"
+    },
+    {
+      "URL": "1.europe.pool.ntp.org",
+      "EN": "NTP Pool AC",
+      "FA": "NTP Pool AC"
+    },
+    {
+      "URL": "2.europe.pool.ntp.org",
+      "EN": "NTP Pool AD",
+      "FA": "NTP Pool AD"
+    },
+    {
+      "URL": "3.europe.pool.ntp.org",
+      "EN": "NTP Pool AE",
+      "FA": "NTP Pool AE"
+    },
+    {
+      "URL": "asia.pool.ntp.org",
+      "EN": "NTP Pool AF",
+      "FA": "NTP Pool AF"
+    },
+    {
+      "URL": "0.asia.pool.ntp.org",
+      "EN": "NTP Pool AG",
+      "FA": "NTP Pool AG"
+    },
+    {
+      "URL": "1.asia.pool.ntp.org",
+      "EN": "NTP Pool AH",
+      "FA": "NTP Pool AH"
+    },
+    {
+      "URL": "2.asia.pool.ntp.org",
+      "EN": "NTP Pool AI",
+      "FA": "NTP Pool AI"
+    },
+    {
+      "URL": "3.asia.pool.ntp.org",
+      "EN": "NTP Pool AJ",
+      "FA": "NTP Pool AJ"
+    },
+    {
+      "URL": "ru.pool.ntp.org",
+      "EN": "NTP Pool AK",
+      "FA": "NTP Pool AK"
+    },
+    {
+      "URL": "0.ru.pool.ntp.org",
+      "EN": "NTP Pool AL",
+      "FA": "NTP Pool AL"
+    },
+    {
+      "URL": "1.ru.pool.ntp.org",
+      "EN": "NTP Pool AM",
+      "FA": "NTP Pool AM"
+    },
+    {
+      "URL": "2.ru.pool.ntp.org",
+      "EN": "NTP Pool AN",
+      "FA": "NTP Pool AN"
+    },
+    {
+      "URL": "3.ru.pool.ntp.org",
+      "EN": "NTP Pool AO",
+      "FA": "NTP Pool AO"
+    },
+    {
+      "URL": "north-america.pool.ntp.org",
+      "EN": "NTP Pool AO",
+      "FA": "NTP Pool AO"
+    },
+    {
+      "URL": "0.north-america.pool.ntp.org",
+      "EN": "NTP Pool AQ",
+      "FA": "NTP Pool AQ"
+    },
+    {
+      "URL": "1.north-america.pool.ntp.org",
+      "EN": "NTP Pool AR",
+      "FA": "NTP Pool AR"
+    },
+    {
+      "URL": "2.north-america.pool.ntp.org",
+      "EN": "NTP Pool AS",
+      "FA": "NTP Pool AS"
+    },
+    {
+      "URL": "3.north-america.pool.ntp.org",
+      "EN": "NTP Pool AT",
+      "FA": "NTP Pool AT"
+    },
+    {
+      "URL": "0.gentoo.pool.ntp.org",
+      "EN": "NTP Pool AU",
+      "FA": "NTP Pool AU"
+    },
+    {
+      "URL": "1.gentoo.pool.ntp.org",
+      "EN": "NTP Pool AV",
+      "FA": "NTP Pool AV"
+    },
+    {
+      "URL": "2.gentoo.pool.ntp.org",
+      "EN": "NTP Pool AW",
+      "FA": "NTP Pool AW"
+    },
+    {
+      "URL": "3.gentoo.pool.ntp.org",
+      "EN": "NTP Pool AX",
+      "FA": "NTP Pool AX"
+    },
+    {
+      "URL": "0.arch.pool.ntp.org",
+      "EN": "NTP Pool AY",
+      "FA": "NTP Pool AY"
+    },
+    {
+      "URL": "1.arch.pool.ntp.org",
+      "EN": "NTP Pool AZ",
+      "FA": "NTP Pool AZ"
+    },
+    {
+      "URL": "2.arch.pool.ntp.org",
+      "EN": "NTP Pool BA",
+      "FA": "NTP Pool BA"
+    },
+    {
+      "URL": "3.arch.pool.ntp.org",
+      "EN": "NTP Pool BB",
+      "FA": "NTP Pool BB"
+    },
+    {
+      "URL": "0.fedora.pool.ntp.org",
+      "EN": "NTP Pool BC",
+      "FA": "NTP Pool BC"
+    },
+    {
+      "URL": "1.fedora.pool.ntp.org",
+      "EN": "NTP Pool BD",
+      "FA": "NTP Pool BD"
+    },
+    {
+      "URL": "2.fedora.pool.ntp.org",
+      "EN": "NTP Pool BE",
+      "FA": "NTP Pool BE"
+    },
+    {
+      "URL": "3.fedora.pool.ntp.org",
+      "EN": "NTP Pool BF",
+      "FA": "NTP Pool BF"
+    },
+    {
+      "URL": "0.opensuse.pool.ntp.org",
+      "EN": "NTP Pool BG",
+      "FA": "NTP Pool BG"
+    },
+    {
+      "URL": "1.opensuse.pool.ntp.org",
+      "EN": "NTP Pool BH",
+      "FA": "NTP Pool BH"
+    },
+    {
+      "URL": "2.opensuse.pool.ntp.org",
+      "EN": "NTP Pool BI",
+      "FA": "NTP Pool BI"
+    },
+    {
+      "URL": "3.opensuse.pool.ntp.org",
+      "EN": "NTP Pool BJ",
+      "FA": "NTP Pool BJ"
+    },
+    {
+      "URL": "0.centos.pool.ntp.org",
+      "EN": "NTP Pool BK",
+      "FA": "NTP Pool BK"
+    },
+    {
+      "URL": "1.centos.pool.ntp.org",
+      "EN": "NTP Pool BL",
+      "FA": "NTP Pool BL"
+    },
+    {
+      "URL": "2.centos.pool.ntp.org",
+      "EN": "NTP Pool BM",
+      "FA": "NTP Pool BM"
+    },
+    {
+      "URL": "3.centos.pool.ntp.org",
+      "EN": "NTP Pool BN",
+      "FA": "NTP Pool BN"
+    },
+    {
+      "URL": "0.debian.pool.ntp.org",
+      "EN": "NTP Pool BO",
+      "FA": "NTP Pool BO"
+    },
+    {
+      "URL": "1.debian.pool.ntp.org",
+      "EN": "NTP Pool BP",
+      "FA": "NTP Pool BP"
+    },
+    {
+      "URL": "2.debian.pool.ntp.org",
+      "EN": "NTP Pool BQ",
+      "FA": "NTP Pool BQ"
+    },
+    {
+      "URL": "3.debian.pool.ntp.org",
+      "EN": "NTP Pool BR",
+      "FA": "NTP Pool BR"
+    },
+    {
+      "URL": "0.askozia.pool.ntp.org",
+      "EN": "NTP Pool BS",
+      "FA": "NTP Pool BS"
+    },
+    {
+      "URL": "1.askozia.pool.ntp.org",
+      "EN": "NTP Pool BT",
+      "FA": "NTP Pool BT"
+    },
+    {
+      "URL": "2.askozia.pool.ntp.org",
+      "EN": "NTP Pool BU",
+      "FA": "NTP Pool BU"
+    },
+    {
+      "URL": "3.askozia.pool.ntp.org",
+      "EN": "NTP Pool BV",
+      "FA": "NTP Pool BV"
+    },
+    {
+      "URL": "0.freebsd.pool.ntp.org",
+      "EN": "NTP Pool BW",
+      "FA": "NTP Pool BW"
+    },
+    {
+      "URL": "1.freebsd.pool.ntp.org",
+      "EN": "NTP Pool BX",
+      "FA": "NTP Pool BX"
+    },
+    {
+      "URL": "2.freebsd.pool.ntp.org",
+      "EN": "NTP Pool BY",
+      "FA": "NTP Pool BY"
+    },
+    {
+      "URL": "3.freebsd.pool.ntp.org",
+      "EN": "NTP Pool BZ",
+      "FA": "NTP Pool BZ"
+    },
+    {
+      "URL": "0.netbsd.pool.ntp.org",
+      "EN": "NTP Pool CA",
+      "FA": "NTP Pool CA"
+    },
+    {
+      "URL": "1.netbsd.pool.ntp.org",
+      "EN": "NTP Pool CB",
+      "FA": "NTP Pool CB"
+    },
+    {
+      "URL": "2.netbsd.pool.ntp.org",
+      "EN": "NTP Pool CC",
+      "FA": "NTP Pool CC"
+    },
+    {
+      "URL": "3.netbsd.pool.ntp.org",
+      "EN": "NTP Pool CD",
+      "FA": "NTP Pool CD"
+    },
+    {
+      "URL": "0.openbsd.pool.ntp.org",
+      "EN": "NTP Pool CE",
+      "FA": "NTP Pool CE"
+    },
+    {
+      "URL": "1.openbsd.pool.ntp.org",
+      "EN": "NTP Pool CF",
+      "FA": "NTP Pool CF"
+    },
+    {
+      "URL": "2.openbsd.pool.ntp.org",
+      "EN": "NTP Pool CG",
+      "FA": "NTP Pool CG"
+    },
+    {
+      "URL": "3.openbsd.pool.ntp.org",
+      "EN": "NTP Pool CH",
+      "FA": "NTP Pool CH"
+    },
+    {
+      "URL": "0.dragonfly.pool.ntp.org",
+      "EN": "NTP Pool CI",
+      "FA": "NTP Pool CI"
+    },
+    {
+      "URL": "1.dragonfly.pool.ntp.org",
+      "EN": "NTP Pool CJ",
+      "FA": "NTP Pool CJ"
+    },
+    {
+      "URL": "2.dragonfly.pool.ntp.org",
+      "EN": "NTP Pool CK",
+      "FA": "NTP Pool CK"
+    },
+    {
+      "URL": "3.dragonfly.pool.ntp.org",
+      "EN": "NTP Pool CL",
+      "FA": "NTP Pool CL"
+    },
+    {
+      "URL": "0.pfsense.pool.ntp.org",
+      "EN": "NTP Pool CM",
+      "FA": "NTP Pool CM"
+    },
+    {
+      "URL": "1.pfsense.pool.ntp.org",
+      "EN": "NTP Pool CN",
+      "FA": "NTP Pool CN"
+    },
+    {
+      "URL": "2.pfsense.pool.ntp.org",
+      "EN": "NTP Pool CO",
+      "FA": "NTP Pool CO"
+    },
+    {
+      "URL": "3.pfsense.pool.ntp.org",
+      "EN": "NTP Pool CP",
+      "FA": "NTP Pool CP"
+    },
+    {
+      "URL": "0.opnsense.pool.ntp.org",
+      "EN": "NTP Pool CQ",
+      "FA": "NTP Pool CQ"
+    },
+    {
+      "URL": "1.opnsense.pool.ntp.org",
+      "EN": "NTP Pool CR",
+      "FA": "NTP Pool CR"
+    },
+    {
+      "URL": "2.opnsense.pool.ntp.org",
+      "EN": "NTP Pool CS",
+      "FA": "NTP Pool CS"
+    },
+    {
+      "URL": "3.opnsense.pool.ntp.org",
+      "EN": "NTP Pool CT",
+      "FA": "NTP Pool CT"
+    },
+    {
+      "URL": "0.smartos.pool.ntp.org",
+      "EN": "NTP Pool CU",
+      "FA": "NTP Pool CU"
+    },
+    {
+      "URL": "1.smartos.pool.ntp.org",
+      "EN": "NTP Pool CV",
+      "FA": "NTP Pool CV"
+    },
+    {
+      "URL": "2.smartos.pool.ntp.org",
+      "EN": "NTP Pool CW",
+      "FA": "NTP Pool CW"
+    },
+    {
+      "URL": "3.smartos.pool.ntp.org",
+      "EN": "NTP Pool CX",
+      "FA": "NTP Pool CX"
+    },
+    {
+      "URL": "0.android.pool.ntp.org",
+      "EN": "NTP Pool CY",
+      "FA": "NTP Pool CY"
+    },
+    {
+      "URL": "1.android.pool.ntp.org",
+      "EN": "NTP Pool CZ",
+      "FA": "NTP Pool CZ"
+    },
+    {
+      "URL": "2.android.pool.ntp.org",
+      "EN": "NTP Pool DA",
+      "FA": "NTP Pool DA"
+    },
+    {
+      "URL": "3.android.pool.ntp.org",
+      "EN": "NTP Pool DB",
+      "FA": "NTP Pool DB"
+    },
+    {
+      "URL": "0.amazon.pool.ntp.org",
+      "EN": "NTP Pool DC",
+      "FA": "NTP Pool DC"
+    },
+    {
+      "URL": "1.amazon.pool.ntp.org",
+      "EN": "NTP Pool DD",
+      "FA": "NTP Pool DD"
+    },
+    {
+      "URL": "2.amazon.pool.ntp.org",
+      "EN": "NTP Pool DE",
+      "FA": "NTP Pool DE"
+    },
+    {
+      "URL": "3.amazon.pool.ntp.org",
+      "EN": "NTP Pool DF",
+      "FA": "NTP Pool DF"
+    },
+    {
+      "URL": "0.ubnt.pool.ntp.org",
+      "EN": "NTP Pool DG",
+      "FA": "NTP Pool DG"
+    },
+    {
+      "URL": "1.ubnt.pool.ntp.org",
+      "EN": "NTP Pool DH",
+      "FA": "NTP Pool DH"
+    },
+    {
+      "URL": "2.ubnt.pool.ntp.org",
+      "EN": "NTP Pool DI",
+      "FA": "NTP Pool DI"
+    },
+    {
+      "URL": "3.ubnt.pool.ntp.org",
+      "EN": "NTP Pool DJ",
+      "FA": "NTP Pool DJ"
+    },
+    {
+      "URL": "tick.usno.navy.mil",
+      "EN": "mil 1",
+      "FA": "mil 1"
+    },
+    {
+      "URL": "tock.usno.navy.mil",
+      "EN": "mil 2",
+      "FA": "mil 2"
+    },
+    {
+      "URL": "ntp2.usno.navy.mil",
+      "EN": "mil 3",
+      "FA": "mil 3"
+    },
+    {
+      "URL": "utcnist.colorado.edu",
+      "EN": "edu 01",
+      "FA": "edu 01"
+    },
+    {
+      "URL": "utcnist2.colorado.edu",
+      "EN": "edu 02",
+      "FA": "edu 02"
+    },
+    {
+      "URL": "timekeeper.isi.edu",
+      "EN": "edu 03",
+      "FA": "edu 03"
+    },
+    {
+      "URL": "rackety.udel.edu",
+      "EN": "edu 04",
+      "FA": "edu 04"
+    },
+    {
+      "URL": "mizbeaver.udel.edu",
+      "EN": "edu 05",
+      "FA": "edu 05"
+    },
+    {
+      "URL": "otc1.psu.edu",
+      "EN": "edu 06",
+      "FA": "edu 06"
+    },
+    {
+      "URL": "gnomon.cc.columbia.edu",
+      "EN": "edu 07",
+      "FA": "edu 07"
+    },
+    {
+      "URL": "navobs1.gatech.edu",
+      "EN": "edu 08",
+      "FA": "edu 08"
+    },
+    {
+      "URL": "navobs1.wustl.edu",
+      "EN": "edu 09",
+      "FA": "edu 09"
+    },
+    {
+      "URL": "now.okstate.edu",
+      "EN": "edu 10",
+      "FA": "edu 10"
+    },
+    {
+      "URL": "ntp.colby.edu",
+      "EN": "edu 11",
+      "FA": "edu 11"
+    },
+    {
+      "URL": "ntp-s1.cise.ufl.edu",
+      "EN": "edu 12",
+      "FA": "edu 12"
+    },
+    {
+      "URL": "bonehed.lcs.mit.edu",
+      "EN": "edu 13",
+      "FA": "edu 13"
+    },
+    {
+      "URL": "level1e.cs.unc.edu",
+      "EN": "edu 14",
+      "FA": "edu 14"
+    },
+    {
+      "URL": "tick.ucla.edu",
+      "EN": "edu 15",
+      "FA": "edu 15"
+    },
+    {
+      "URL": "tick.uh.edu",
+      "EN": "edu 16",
+      "FA": "edu 16"
+    },
+    {
+      "URL": "ntpstm.netbone-digital.com",
+      "EN": "com 1",
+      "FA": "com 1"
+    },
+    {
+      "URL": "nist1.symmetricom.com",
+      "EN": "com 2",
+      "FA": "com 2"
+    },
+    {
+      "URL": "ntp.quintex.com",
+      "EN": "com 3",
+      "FA": "com 3"
+    },
+    {
+      "URL": "ntp1.conectiv.com",
+      "EN": "com 4",
+      "FA": "com 4"
+    },
+    {
+      "URL": "tock.usshc.com",
+      "EN": "com 5",
+      "FA": "com 5"
+    },
+    {
+      "URL": "t2.timegps.net",
+      "EN": "net 1",
+      "FA": "net 1"
+    },
+    {
+      "URL": "gps.layer42.net",
+      "EN": "net 2",
+      "FA": "net 2"
+    },
+    {
+      "URL": "ntp-ca.stygium.net",
+      "EN": "net 3",
+      "FA": "net 3"
+    },
+    {
+      "URL": "sesku.planeacion.net",
+      "EN": "net 4",
+      "FA": "net 4"
+    },
+    {
+      "URL": "ntp0.nl.uu.net",
+      "EN": "net 5",
+      "FA": "net 5"
+    },
+    {
+      "URL": "ntp1.nl.uu.net",
+      "EN": "net 6",
+      "FA": "net 6"
+    },
+    {
+      "URL": "navobs1.oar.net",
+      "EN": "net 7",
+      "FA": "net 7"
+    },
+    {
+      "URL": "ntp-galway.hea.net",
+      "EN": "net 8",
+      "FA": "net 8"
+    },
+    {
+      "URL": "ntp1.ona.org",
+      "EN": "org 1",
+      "FA": "org 1"
+    },
+    {
+      "URL": "ntp.your.org",
+      "EN": "org 2",
+      "FA": "org 2"
+    },
+    {
+      "URL": "ntp.mrow.org",
+      "EN": "org 3",
+      "FA": "org 3"
+    },
+    {
+      "URL": "time.fu-berlin.de",
+      "EN": "de 01",
+      "FA": "de 01"
+    },
+    {
+      "URL": "ntps1-0.cs.tu-berlin.de",
+      "EN": "de 02",
+      "FA": "de 02"
+    },
+    {
+      "URL": "ntps1-1.cs.tu-berlin.de",
+      "EN": "de 03",
+      "FA": "de 03"
+    },
+    {
+      "URL": "ntps1-0.uni-erlangen.de",
+      "EN": "de 04",
+      "FA": "de 04"
+    },
+    {
+      "URL": "ntps1-1.uni-erlangen.de",
+      "EN": "de 05",
+      "FA": "de 05"
+    },
+    {
+      "URL": "ntp1.fau.de",
+      "EN": "de 06",
+      "FA": "de 06"
+    },
+    {
+      "URL": "ntp2.fau.de",
+      "EN": "de 07",
+      "FA": "de 07"
+    },
+    {
+      "URL": "ntp.dianacht.de",
+      "EN": "de 08",
+      "FA": "de 08"
+    },
+    {
+      "URL": "zeit.fu-berlin.de",
+      "EN": "de 09",
+      "FA": "de 09"
+    },
+    {
+      "URL": "ptbtime1.ptb.de",
+      "EN": "de 10",
+      "FA": "de 10"
+    },
+    {
+      "URL": "ptbtime2.ptb.de",
+      "EN": "de 11",
+      "FA": "de 11"
+    },
+    {
+      "URL": "rustime01.rus.uni-stuttgart.de",
+      "EN": "de 12",
+      "FA": "de 12"
+    },
+    {
+      "URL": "rustime02.rus.uni-stuttgart.de",
+      "EN": "de 13",
+      "FA": "de 13"
+    },
+    {
+      "URL": "chime1.surfnet.nl",
+      "EN": "NL 1",
+      "FA": "NL 1"
+    },
+    {
+      "URL": "ntp.vsl.nl",
+      "EN": "NL 2",
+      "FA": "NL 2"
+    },
+    {
+      "URL": "asynchronos.iiss.at",
+      "EN": "AT",
+      "FA": "AT"
+    },
+    {
+      "URL": "ntp.nic.cz",
+      "EN": "CZ 1",
+      "FA": "CZ 1"
+    },
+    {
+      "URL": "time.ufe.cz",
+      "EN": "CZ 2",
+      "FA": "CZ 2"
+    },
+    {
+      "URL": "ntp.fizyka.umk.pl",
+      "EN": "PL 1",
+      "FA": "PL 1"
+    },
+    {
+      "URL": "tempus1.gum.gov.pl",
+      "EN": "PL 2",
+      "FA": "PL 2"
+    },
+    {
+      "URL": "tempus2.gum.gov.pl",
+      "EN": "PL 3",
+      "FA": "PL 3"
+    },
+    {
+      "URL": "ntp1.usv.ro",
+      "EN": "RO 1",
+      "FA": "RO 1"
+    },
+    {
+      "URL": "ntp3.usv.ro",
+      "EN": "RO 2",
+      "FA": "RO 2"
+    },
+    {
+      "URL": "timehost.lysator.liu.se",
+      "EN": "SE 1",
+      "FA": "SE 1"
+    },
+    {
+      "URL": "time1.stupi.se",
+      "EN": "SE 2",
+      "FA": "SE 2"
+    },
+    {
+      "URL": "time.nrc.ca",
+      "EN": "CA 1",
+      "FA": "CA 1"
+    },
+    {
+      "URL": "clock.uregina.ca",
+      "EN": "CA 2",
+      "FA": "CA 2"
+    },
+    {
+      "URL": "cronos.cenam.mx",
+      "EN": "MX 1",
+      "FA": "MX 1"
+    },
+    {
+      "URL": "ntp.lcf.mx",
+      "EN": "MX 2",
+      "FA": "MX 2"
+    },
+    {
+      "URL": "hora.roa.es",
+      "EN": "ES 1",
+      "FA": "ES 1"
+    },
+    {
+      "URL": "minuto.roa.es",
+      "EN": "ES 2",
+      "FA": "ES 2"
+    },
+    {
+      "URL": "ntp1.inrim.it",
+      "EN": "IT 1",
+      "FA": "IT 1"
+    },
+    {
+      "URL": "ntp2.inrim.it",
+      "EN": "IT 2",
+      "FA": "IT 2"
+    },
+    {
+      "URL": "ntp1.oma.be",
+      "EN": "BE 1",
+      "FA": "BE 1"
+    },
+    {
+      "URL": "ntp2.oma.be",
+      "EN": "BE 2",
+      "FA": "BE 2"
+    },
+    {
+      "URL": "ntp.atomki.mta.hu",
+      "EN": "HU",
+      "FA": "HU"
+    },
+    {
+      "URL": "ntp.i2t.ehu.eus",
+      "EN": "EUS",
+      "FA": "EUS"
+    },
+    {
+      "URL": "ntp.neel.ch",
+      "EN": "CH",
+      "FA": "CH"
+    },
+    {
+      "URL": "ntp.neu.edu.cn",
+      "EN": "CN",
+      "FA": "CN"
+    },
+    {
+      "URL": "ntp.nict.jp",
+      "EN": "JP",
+      "FA": "JP"
+    },
+    {
+      "URL": "ntps1.pads.ufrj.br",
+      "EN": "BR",
+      "FA": "BR"
+    },
+    {
+      "URL": "ntp.shoa.cl",
+      "EN": "CL",
+      "FA": "CL"
+    },
+    {
+      "URL": "time.esa.int",
+      "EN": "INT 1",
+      "FA": "INT 1"
+    },
+    {
+      "URL": "time1.esa.int",
+      "EN": "INT 2",
+      "FA": "INT 2"
+    },
+    {
+      "URL": "ntp.time.ir",
+      "EN": "[Iran] Time",
+      "FA": "[ایران] تایم"
+    },
+    {
+      "URL": "ntp1.ir",
+      "EN": "[Iran] NTP 1",
+      "FA": "[ایران] NTP 1"
+    },
+    {
+      "URL": "ntp2.ir",
+      "EN": "[Iran] NTP 2",
+      "FA": "[ایران] NTP 2"
+    },
+    {
+      "URL": "ntp3.ir",
+      "EN": "[Iran] NTP 3",
+      "FA": "[ایران] NTP 3"
+    },
+    {
+      "URL": "ntp.day.ir",
+      "EN": "[Iran] Day",
+      "FA": "[ایران] دی"
+    },
+    {
+      "URL": "ntp.meetbsd.ir",
+      "EN": "[Iran] Meet BSD",
+      "FA": "[ایران] Meet BSD"
+    },
+    {
+      "URL": "public.ntp.asiatech.ir",
+      "EN": "[Iran] AsiaTech",
+      "FA": "[ایران] آسیاتک"
+    },
+    {
+      "URL": "time1.iran.ir",
+      "EN": "[Iran] Iran",
+      "FA": "[ایران] ایران"
+    },
+    {
+      "URL": "ntp.server.ir",
+      "EN": "[Iran] Server",
+      "FA": "[ایران] سرور"
+    },
+    {
+      "URL": "ntp.irimo.ir",
+      "EN": "[Iran] IRIMO",
+      "FA": "[ایران] IRIMO"
+    },
+    {
+      "URL": "time.irip.ir",
+      "EN": "[Iran] IRIP",
+      "FA": "[ایران] IRIP"
+    }
+  ]
+}
