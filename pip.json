@@ -63,6 +63,14 @@
       },
       "url": "https://mirror.abrha.net/repository/pypi/simple/simpleindex/",
       "shouldContain": "api-version"
+    },
+    {
+      "name": {
+        "en": "[Iran] DevNeeds",
+        "fa": "[ایران] دونیدز"
+      },
+      "url": "https://pypi.devneeds.ir/simple/simpleindex/",
+      "shouldContain": "api-version"
     }
   ]
 }
