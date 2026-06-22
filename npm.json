@@ -1,0 +1,36 @@
+{
+  "name": {
+    "en": "NPM",
+    "fa": "ان‌پی‌ام"
+  },
+  "description": {
+    "en": "NPM Mirrors",
+    "fa": "آینه‌های ان‌پی‌ام"
+  },
+  "items": [
+    {
+      "name": {
+        "en": "NPM",
+        "fa": "ان‌پی‌ام"
+      },
+      "url": "https://registry.npmjs.org/lodash",
+      "shouldContain": "lodash"
+    },
+    {
+      "name": {
+        "en": "[Iran] Runflare",
+        "fa": "[ایران] رانفلر"
+      },
+      "url": "https://mirror-npm.runflare.com/lodash",
+      "shouldContain": "lodash"
+    },
+    {
+      "name": {
+        "en": "[Iran] Liara",
+        "fa": "[ایران] لیارا"
+      },
+      "url": "https://package-mirror.liara.ir/repository/npm/lodash",
+      "shouldContain": "lodash"
+    }
+  ]
+}
