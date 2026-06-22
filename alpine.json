@@ -7,6 +7,7 @@
     "en": "Alpine Linux Mirrors\nvi /etc/apk/repositories",
     "fa": "آینه‌های لینوکس آلپاین\nvi /etc/apk/repositories"
   },
+  "color": "#4285f4",
   "items": [
     {
       "name": {

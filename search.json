@@ -7,6 +7,7 @@
     "en": "Search Engines",
     "fa": "موتورهای جستجو"
   },
+  "color": "#FFFFFF",
   "items": [
     {
       "name": {
@@ -37,8 +38,8 @@
         "en": "[Iran] Zarebin",
         "fa": "ذره‌بین [ایران]"
       },
-        "url": "https://zarebin.ir/search?q=thezarebinsiteisworkingproperly",
-        "shouldContain": "thezarebinsiteisworkingproperly"
+      "url": "https://zarebin.ir/search?q=thezarebinsiteisworkingproperly",
+      "shouldContain": "thezarebinsiteisworkingproperly"
     }
   ]
 }

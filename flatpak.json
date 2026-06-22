@@ -7,6 +7,7 @@
     "en": "Flatpak Repositories\nflatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo",
     "fa": "مخزن‌های فلت‌پک\nflatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo"
   },
+  "color": "#FFFFFF",
   "items": [
     {
       "name": {

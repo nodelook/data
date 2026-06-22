@@ -7,6 +7,7 @@
     "en": "Python Package Index Mirrors\nnano ~/.config/pip/pip.conf",
     "fa": "آینه‌های مخزن بسته‌های پایتون\nnano ~/.config/pip/pip.conf"
   },
+  "color": "#4285f4",
   "items": [
     {
       "name": {

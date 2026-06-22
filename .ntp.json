@@ -7,6 +7,7 @@
     "en": "NTP Servers\nsudo nano /etc/systemd/timesyncd.conf",
     "fa": "سرورهای ان‌تی‌پی\nsudo nano /etc/systemd/timesyncd.conf"
   },
+  "color": "#FFFFFF",
   "items": [
     {
       "URL": "time.google.com",

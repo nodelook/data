@@ -7,6 +7,7 @@
     "en": "Maven Repository Mirrors\nnano ~/.m2/settings.xml",
     "fa": "آینه‌های مخازن ماون\nnano ~/.m2/settings.xml"
   },
+  "color": "#4285f4",
   "items": [
     {
       "name": {
