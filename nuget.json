@@ -47,6 +47,14 @@
       },
       "url": "https://mirror.abrha.net/repository/nuget/index.json",
       "shouldContain": "nuget"
+    },
+    {
+      "name": {
+        "en": "[Iran] DevNeeds",
+        "fa": "[ایران] دونیدز"
+      },
+      "url": "https://nuget.devneeds.ir/repository/nuget/index.json",
+      "shouldContain": "NuGet"
     }
   ]
 }
