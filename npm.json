@@ -31,6 +31,14 @@
       },
       "url": "https://package-mirror.liara.ir/repository/npm/lodash",
       "shouldContain": "lodash"
+    },
+    {
+      "name": {
+        "en": "[Iran] DevNeeds",
+        "fa": "[ایران] دونیدز"
+      },
+      "url": "https://npm.devneeds.ir/repository/npm/lodash",
+      "shouldContain": "lodash"
     }
   ]
 }
