@@ -7,7 +7,7 @@
     "en": "Ubuntu Linux Mirrors\nsudo nano /etc/apt/sources.list",
     "fa": "آینه‌های لینوکس اوبونتو\nsudo nano /etc/apt/sources.list"
   },
-  "color": "#FF4285F4",
+  "color": "#34A853FF",
   "items": [
     {
       "name": {

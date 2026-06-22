@@ -7,7 +7,7 @@
     "en": "Docker Registry Mirrors\nsudo nano /etc/docker/daemon.json",
     "fa": "آینه‌های سیاهه‌ی داکر\nsudo nano /etc/docker/daemon.json"
   },
-  "color": "#FF4285F4",
+  "color": "#34A853FF",
   "items": [
     {
       "name": {
