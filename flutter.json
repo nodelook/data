@@ -7,7 +7,7 @@
     "en": "Flutter Mirrors\nexport FLUTTER_STORAGE_BASE_URL=https://storage.googleapis.com/",
     "fa": "آینه‌های فلاتر\nexport FLUTTER_STORAGE_BASE_URL=https://storage.googleapis.com/"
   },
-  "color": "#34A853FF",
+  "color": "#FF34A853",
   "items": [
     {
       "name": {
