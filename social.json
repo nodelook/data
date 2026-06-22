@@ -226,32 +226,32 @@
     },
     {
       "name": {
-        "en": "[Iran] Eitaa: Web",
-        "fa": "[ایران] ایتا: وب"
+        "en": "[Iran] Eitaa: Site",
+        "fa": "[ایران] ایتا: سایت"
       },
-      "url": "https://web.eitaa.com/robots.txt",
+      "url": "https://eitaa.com/robots.txt",
       "shouldContain": "Disallow"
     },
     {
       "name": {
         "en": "[Iran] Eitaa: My",
-        "fa": "[ایران] ایتا: سایت"
+        "fa": "[ایران] ایتا: من"
       },
       "url": "https://my.eitaa.com/robots.txt",
       "shouldContain": "Disallow"
     },
     {
       "name": {
-        "en": "[Iran] Eitaa: Alireza",
-        "fa": "[ایران] ایتا: علیرضا"
+        "en": "[Iran] Eitaa: Alireza Server",
+        "fa": "[ایران] ایتا: سرور علیرضا"
       },
       "url": "https://alireza.eitaa.com/eitaa/",
       "shouldContain": "INVALID_CONSTRUCTOR"
     },
     {
       "name": {
-        "en": "[Iran] Eitaa: Majid",
-        "fa": "[ایران] ایتا: مجید"
+        "en": "[Iran] Eitaa: Majid Server",
+        "fa": "[ایران] ایتا: سرور مجید"
       },
       "url": "https://majid.eitaa.com/eitaa/",
       "shouldContain": "INVALID_CONSTRUCTOR"
