@@ -1,0 +1,68 @@
+{
+  "name": {
+    "en": "PyPI",
+    "fa": "پای‌پی"
+  },
+  "description": {
+    "en": "Python Package Index Mirrors\nnano ~/.config/pip/pip.conf",
+    "fa": "آینه‌های مخزن بسته‌های پایتون\nnano ~/.config/pip/pip.conf"
+  },
+  "items": [
+    {
+      "name": {
+        "en": "PyPI",
+        "fa": "پای‌پی"
+      },
+      "url": "https://pypi.org/simple/simpleindex/",
+      "shouldContain": "pypi:repository-version"
+    },
+    {
+      "name": {
+        "en": "[China] University of Science and Technology of China",
+        "fa": "[چین] دانشگاه علم و فناوری چین"
+      },
+      "url": "https://mirrors.ustc.edu.cn/pypi/simple/simpleindex/",
+      "shouldContain": "pypi:repository-version"
+    },
+    {
+      "name": {
+        "en": "[China] Tsinghua University",
+        "fa": "[چین] دانشگاه تسینگهوا"
+      },
+      "url": "https://pypi.tuna.tsinghua.edu.cn/simple/simpleindex/",
+      "shouldContain": "pypi:repository-version"
+    },
+    {
+      "name": {
+        "en": "[China] Huawei Cloud",
+        "fa": "[چین] ابر هوآوی"
+      },
+      "url": "https://repo.huaweicloud.com/repository/pypi/simple/simpleindex/",
+      "shouldContain": "api-version"
+    },
+    {
+      "name": {
+        "en": "[China] Alibaba Cloud",
+        "fa": "[چین] ابر علی‌بابا"
+      },
+      "url": "https://mirrors.aliyun.com/pypi/simple/simpleindex/",
+      "shouldContain": "pypi:repository-version"
+    },
+    {
+      "name": {
+        "en": "[Iran] Runflare",
+        "fa": "[ایران] رانفلر"
+      },
+      "url": "https://mirror-pypi.runflare.com/simple/simpleindex/",
+      "shouldContain": "pypi:repository-version"
+    },
+    {
+      "name": {
+        "en": "[Iran] Abrha",
+        "fa": "[ایران] ابرها"
+      },
+      "url": "https://mirror.abrha.net/repository/pypi/simple/simpleindex/",
+      "shouldContain": "api-version"
+    }
+  ]
+}

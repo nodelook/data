@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "NuGet",
+    "fa": "نوگت"
+  },
+  "description": {
+    "en": "NuGet Mirrors",
+    "fa": "آینه‌های نوگت"
+  },
+  "items": [
+    {
+      "name": {
+        "en": "NuGet",
+        "fa": "نوگت"
+      },
+      "url": "https://api.nuget.org/v3/index.json",
+      "shouldContain": "NuGet"
+    },
+    {
+      "name": {
+        "en": "[China] Huawei Cloud",
+        "fa": "[چین] ابر هواوی"
+      },
+      "url": "https://repo.huaweicloud.com/repository/nuget/v3/index.json",
+      "shouldContain": "NuGet"
+    },
+    {
+      "name": {
+        "en": "[Iran] Runflare",
+        "fa": "[ایران] رانفلر"
+      },
+      "url": "https://mirror-nuget.runflare.com/v3/index.json",
+      "shouldContain": "NuGet"
+    },
+    {
+      "name": {
+        "en": "[Iran] Chabokan",
+        "fa": "[ایران] چابکان"
+      },
+      "url": "https://mirror2.chabokan.net/nuget/v3/index.json",
+      "shouldContain": "NuGet"
+    },
+    {
+      "name": {
+        "en": "[Iran] Abrha",
+        "fa": "[ایران] ابرها"
+      },
+      "url": "https://mirror.abrha.net/repository/nuget/index.json",
+      "shouldContain": "nuget"
+    }
+  ]
+}
