@@ -39,6 +39,14 @@
       },
       "url": "https://mirror-gcs.runflare.com/flutter_infra_release/releases/releases_linux.json",
       "shouldContain": "flutter_infra_release"
+    },
+    {
+      "name": {
+        "en": "[Iran] DevNeeds",
+        "fa": "[ایران] دونیدز"
+      },
+      "url": "https://flutter.devneeds.ir/flutter_infra_release/releases/releases_linux.json",
+      "shouldContain": "flutter_infra_release"
     }
   ]
 }
