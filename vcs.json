@@ -59,6 +59,14 @@
     },
     {
       "name": {
+        "en": "GitHub App",
+        "fa": "اپ گیت‌هاب"
+      },
+      "url": "githubapp.com",
+      "shouldContain": "OK"
+    },
+    {
+      "name": {
         "en": "Codeberg Repository",
         "fa": "مخزن کدبرگ"
       },
