@@ -11,18 +11,10 @@
   "items": [
     {
       "name": {
-        "en": "[China] Aliyun",
-        "fa": "[چین] آلی‌یو‌ن"
+        "en": "[China] Alibaba Cloud",
+        "fa": "[چین] ابر علی‌بابا"
       },
       "url": "https://maven.aliyun.com/repository/google/com/android/tools/build/gradle/maven-metadata.xml",
-      "shouldContain": "com.android.tools.build"
-    },
-    {
-      "name": {
-        "en": "[Iran] Abdollahzadeh",
-        "fa": "[ایران] عبدالله‌زاده"
-      },
-      "url": "https://pub-azs.ir/api/mavens/com/android/tools/build/gradle/maven-metadata.xml",
       "shouldContain": "com.android.tools.build"
     },
     {
