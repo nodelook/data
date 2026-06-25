@@ -62,7 +62,7 @@
         "en": "GitHub App",
         "fa": "اپ گیت‌هاب"
       },
-      "url": "githubapp.com",
+      "url": "https://githubapp.com",
       "shouldContain": "OK"
     },
     {
