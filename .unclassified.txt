@@ -1,14 +1,25 @@
 "[Encyclopedia] Fandom: Site", "www.fandom.com/robots.txt", "200"
+
 "[Software Repos] Snapcraft", "api.snapcraft.io/", "snapcraft"
 "[Software Repos] Flathub", "flathub.org/api/v2/status", "OK"
+
 "[Music] Spotify: Site", "www.spotify.com/robots.txt", "Disallow"
 "[Music] Spotify: Web", "open.spotify.com/robots.txt", "Disallow"
 "[Music] Spotify: API", "api.spotify.com/v1/me", "No token provided"
 "[Music] YouTube Music", "music.youtube.com/robots.txt", "Disallow"
 "[Music] Anghami", "play.anghami.com/robots.txt", "Disallow"
+
 "[Video] Aparat", "www.aparat.com/robots.txt", "Disallow"
 "[Video] Netflix", "www.netflix.com/robots.txt", "Disallow"
-"[Video] YouTube", "www.youtube.com/robots.txt", "Disallow"
+
+"[Video] YouTube", "https://www.youtube.com/robots.txt", "Disallow"
+"[Video] YouTube", "https://youtu.be/robots.txt", "Disallow"
+"[Video] YouTube Kids", "https://www.youtubekids.com/robots.txt", "Disallow"
+"[Video] Youtube Education", "https://www.youtubeeducation.com/robots.txt", "Disallow"
+"[Video] YouTube", "https://youtube.googleapis.com/robots.txt", "Disallow"
+"[Video] YouTube", "https://www.youtube-nocookie.com/robots.txt", "Disallow"
+
+
 "[Video] BiliBili: API", "api.bilibili.com/x/web-interface/nav", "false"
 "[Video] BiliBili: Image", "archive.biliimg.com", "OK"
 "[Video] BiliBili: bimp", "bimp.hdslb.com", "OK"
@@ -18,21 +29,25 @@
 "[Video] BiliBili: s1", "s1.hdslb.com", "OK"
 "[Video] BiliBili: s2", "s2.hdslb.com", "OK"
 "[Video] BiliBili: s3", "s3.hdslb.com", "OK"
+
 "[Shopping] Amazon: Canada", "www.amazon.ca/robots.txt", "Disallow"
 "[Shopping] Amazon: US", "www.amazon.com/robots.txt", "Disallow"
 "[Shopping] Amazon: UK", "www.amazon.co.uk/robots.txt", "Disallow"
 "[Shopping] OpenSooq: Türkiye", "tr.opensooq.com/robots.txt", "Disallow"
 "[Shopping] OpenSooq: UAE", "ae.opensooq.com/robots.txt", "Disallow"
+
 "[Test] Postman Echo", "postman-echo.com/status/200", "200"
 "[Test] Firefox DetectPortal", "detectportal.firefox.com/success.txt", "success"
 "[Test] Fast", "fast.com/robots.txt", "Disallow"
 "[Test] Speedtest", "www.speedtest.net/robots.txt", "Disallow"
+
 "[Adult] PornHub", "www.pornhub.com/passkey/preflight", "false"
 "[Adult] Fuq", "www.fuq.com/robots.txt", "Disallow"
 "[Adult] xHamster", "xhamster.com/robots.txt", "Disallow"
 "[Adult] XNXX", "www.xnxx.com/robots.txt", "Disallow"
 "[Adult] RedGifs", "www.redgifs.com/robots.txt", "Disallow"
 "[Adult] Stripchat", "stripchat.com/robots.txt", "Disallow"
+
 "[Other] Docker Hub", "hub.docker.com/search?q=thedockerhubsiteisworkingproperly", "thedockerhubsiteisworkingproperly"
     {
         "name": {
