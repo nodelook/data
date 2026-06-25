@@ -147,14 +147,6 @@
     },
     {
       "name": {
-        "en": "Facebook: Messenger",
-        "fa": "فیسبوک: پیام‌رسان"
-      },
-      "url": "https://www.messenger.com/robots.txt",
-      "shouldContain": "Disallow"
-    },
-    {
-      "name": {
         "en": "Instagram",
         "fa": "اینستاگرام"
       },
@@ -235,14 +227,6 @@
     },
     {
       "name": {
-        "en": "[Iran] Bale: Signaling Server 1",
-        "fa": "[ایران] بله: سرور سیگنالینگ ۱"
-      },
-      "url": "https://meet-gwbm1.ble.ir/",
-      "shouldContain": "OK"
-    },
-    {
-      "name": {
         "en": "[Iran] Bale: Signaling Server 2",
         "fa": "[ایران] بله: سرور سیگنالینگ ۲"
       },
@@ -279,14 +263,6 @@
         "fa": "[ایران] بله: سرور سیگنالینگ ۶"
       },
       "url": "https://meet-gwbm6.ble.ir/",
-      "shouldContain": "OK"
-    },
-    {
-      "name": {
-        "en": "[Iran] Bale: TURN Server",
-        "fa": "[ایران] بله: سرور ترن"
-      },
-      "url": "https://meet-turn.ble.ir",
       "shouldContain": "OK"
     },
     {
@@ -330,7 +306,7 @@
       "shouldContain": "INVALID_CONSTRUCTOR"
     },
     {
-      "name": {
+      "name": {site
         "en": "[Iran] Eitaa: Majid Server",
         "fa": "[ایران] ایتا: سرور مجید"
       },
