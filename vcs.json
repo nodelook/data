@@ -120,14 +120,6 @@
       },
       "url": "https://git.mred.ir/xmha97/test/raw/branch/main/status",
       "shouldContain": "200"
-    },
-    {
-      "name": {
-        "en": "[Iran] Paragraph (Forgejo)",
-        "fa": "پاراگراف (فورج‌جو) [ایران]"
-      },
-      "url": "https://git.prgph.fun/xmha97/test/raw/branch/main/status",
-      "shouldContain": "200"
     }
   ]
 }
