@@ -11,6 +11,14 @@
   "items": [
     {
       "name": {
+        "en": "Telegram API",
+        "fa": "ای‌پی‌آی تلگرام"
+      },
+      "url": "https://api.telegram.org/bot8800291172:AAERUk1GJw6KYWQ4LyaA7Gxh-jCuFcUdcLE/getMe",
+      "shouldContain": "thetgapiisworkingproperlybot"
+    },
+    {
+      "name": {
         "en": "Telegram",
         "fa": "تلگرام"
       },
