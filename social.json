@@ -14,8 +14,80 @@
         "en": "Telegram",
         "fa": "تلگرام"
       },
-      "url": "https://t.me/thetelegramsiteisworkingproperly",
-      "shouldContain": "thetelegramsiteisworkingproperly"
+      "url": "https://telegram.me/_websync_",
+      "shouldContain": "true"
+    },
+    {
+      "name": {
+        "en": "Telegaone",
+        "fa": "تلگاوان"
+      },
+      "url": "https://telega.one/_websync_",
+      "shouldContain": "true"
+    },
+    {
+      "name": {
+        "en": "TX",
+        "fa": "تی‌ایکس"
+      },
+      "url": "https://tx.me/_websync_",
+      "shouldContain": "true"
+    },
+    {
+      "name": {
+        "en": "Telegram (Shortener Link)",
+        "fa": "(پیوند کوتاه‌شده) تلگرام"
+      },
+      "url": "https://t.me/_websync_",
+      "shouldContain": "true"
+    },
+    {
+      "name": {
+        "en": "Telegram Dog",
+        "fa": "تلگرام سگ"
+      },
+      "url": "https://telegram.dog/_websync_",
+      "shouldContain": "true"
+    },
+    {
+      "name": {
+        "en": "Telegraph",
+        "fa": "تلگراف"
+      },
+      "url": "https://edit.telegra.ph/check",
+      "shouldContain": "Access denied"
+    },
+    {
+      "name": {
+        "en": "Telegraph (Graph)",
+        "fa": "تلگراف (گراف)"
+      },
+      "url": "https://edit.graph.org/check",
+      "shouldContain": "Access denied"
+    },
+    {
+      "name": {
+        "en": "Telegraph (leGraph)",
+        "fa": "تلگراف (له‌گراف)"
+      },
+      "url": "https://edit.legra.ph/check",
+      "shouldContain": "Access denied"
+    },
+    {
+      "name": {
+        "en": "Telescope",
+        "fa": "تلسکوپ"
+      },
+      "url": "https://telesco.pe/telegram",
+      "shouldContain": "Telegram News"
+    },
+    {
+      "name": {
+        "en": "Telescope (Telegram Space)",
+        "fa": "تلسکوپ (فضای تلگرام)"
+      },
+      "url": "https://telegram.space/telegram",
+      "shouldContain": "Telegram News"
     },
     {
       "name": {
