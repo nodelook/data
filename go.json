@@ -1,0 +1,69 @@
+{
+  "name": {
+    "en": "Go",
+    "fa": "گو"
+  },
+  "description": {
+    "en": "Go Module Proxies\nexport GOPROXY=https://proxy.golang.org,direct",
+    "fa": "پروکسی‌های ماژول گو\nexport GOPROXY=https://proxy.golang.org,direct"
+  },
+  "color": "#FF34A853",
+  "items": [
+    {
+      "name": {
+        "en": "Golang",
+        "fa": "گو‌لنگ"
+      },
+      "url": "https://proxy.golang.org/github.com/golang/protobuf/@latest",
+      "shouldContain": "Version"
+    },
+    {
+      "name": {
+        "en": "GoProxy",
+        "fa": "گو‌پراکسی"
+      },
+      "url": "https://goproxy.io/github.com/golang/protobuf/@latest",
+      "shouldContain": "Version"
+    },
+    {
+      "name": {
+        "en": "[China] GoProxy",
+        "fa": "[چین] گو‌پراکسی"
+      },
+      "url": "https://goproxy.cn/github.com/golang/protobuf/@latest",
+      "shouldContain": "Version"
+    },
+    {
+      "name": {
+        "en": "[Iran] Liara",
+        "fa": "[ایران] لیارا"
+      },
+      "url": "https://package-mirror.liara.ir/repository/go/github.com/golang/protobuf/@latest",
+      "shouldContain": "Version"
+    },
+    {
+      "name": {
+        "en": "[Iran] Runflare",
+        "fa": "[ایران] رانفلر"
+      },
+      "url": "https://mirror-go.runflare.com/github.com/golang/protobuf/@latest",
+      "shouldContain": "Version"
+    },
+    {
+      "name": {
+        "en": "[Iran] ParsPack",
+        "fa": "[ایران] پارس‌پک"
+      },
+      "url": "https://mirror.abrha.net/repository/go/github.com/golang/protobuf/@latest",
+      "shouldContain": "Version"
+    },
+    {
+      "name": {
+        "en": "[Iran] DevNeeds",
+        "fa": "[ایران] دونیدز"
+      },
+      "url": "https://go.devneeds.ir/github.com/golang/protobuf/@latest",
+      "shouldContain": "Version"
+    }
+  ]
+}
