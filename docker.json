@@ -67,8 +67,8 @@
     },
     {
       "name": {
-        "en": "[Iran] Abrha",
-        "fa": "[ایران] ابرها"
+        "en": "[Iran] ParsPack",
+        "fa": "[ایران] پارس‌پک"
       },
       "url": "https://docker.abrha.net/v2/jc21/nginx-proxy-manager/manifests/latest",
       "shouldContain": "application/vnd.oci.image.index.v1+json"

@@ -43,8 +43,8 @@
     },
     {
       "name": {
-        "en": "[Iran] Abrha",
-        "fa": "[ایران] ابرها"
+        "en": "[Iran] ParsPack",
+        "fa": "[ایران] پارس‌پک"
       },
       "url": "https://mirror.abrha.net/repository/nuget/index.json",
       "shouldContain": "nuget"

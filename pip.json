@@ -59,8 +59,8 @@
     },
     {
       "name": {
-        "en": "[Iran] Abrha",
-        "fa": "[ایران] ابرها"
+        "en": "[Iran] ParsPack",
+        "fa": "[ایران] پارس‌پک"
       },
       "url": "https://mirror.abrha.net/repository/pypi/simple/simpleindex/",
       "shouldContain": "api-version"
