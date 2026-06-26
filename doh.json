@@ -1,0 +1,237 @@
+{
+  "name": {
+    "en": "DoH",
+    "fa": "دی‌او‌اچ"
+  },
+  "description": {
+    "en": "DNS over HTTPS (DoH)",
+    "fa": "دی‌ان‌اس روی اچ‌تی‌تی‌پی‌اس (دی‌او‌اچ)"
+  },
+  "color": "#FF4285F4",
+  "items": [
+    {
+      "name": {
+        "en": "Cloudflare",
+        "fa": "Cloudflare"
+      },
+      "url": "https://cloudflare-dns.com/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "Google Public DNS",
+        "fa": "Google Public DNS"
+      },
+      "url": "https://dns.google/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "OpenDNS",
+        "fa": "OpenDNS"
+      },
+      "url": "https://doh.opendns.com/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "Quad9",
+        "fa": "Quad9"
+      },
+      "url": "https://dns.quad9.net/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "AdGuard DNS",
+        "fa": "AdGuard DNS"
+      },
+      "url": "https://dns.adguard.com/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "CleanBrowsing",
+        "fa": "CleanBrowsing"
+      },
+      "url": "https://doh.cleanbrowsing.org/doh/family-filter?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "Comodo Secure DNS",
+        "fa": "Comodo Secure DNS"
+      },
+      "url": "https://dns.comodo.com/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "DNS.WATCH",
+        "fa": "DNS.WATCH"
+      },
+      "url": "https://dns.watch/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "Yandex DNS",
+        "fa": "Yandex DNS"
+      },
+      "url": "https://common.dot.dns.yandex.net?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "UncensoredDNS",
+        "fa": "UncensoredDNS"
+      },
+      "url": "https://unicast.uncensoreddns.org/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "Shecan",
+        "fa": "Shecan"
+      },
+      "url": "https://free.shecan.ir/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "Electro",
+        "fa": "Electro"
+      },
+      "url": "https://dns.electrotm.org/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "Yandex DNS Safe",
+        "fa": "Yandex DNS Safe"
+      },
+      "url": "https://safe.dot.dns.yandex.net?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "Yandex DNS Family",
+        "fa": "Yandex DNS Family"
+      },
+      "url": "https://family.dot.dns.yandex.net?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "OpenDNS Family",
+        "fa": "OpenDNS Family"
+      },
+      "url": "https://doh.opendns.com/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "AdGuard Unfiltered",
+        "fa": "AdGuard Unfiltered"
+      },
+      "url": "https://unfiltered.adguard-dns.com/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "Cloudflare Security",
+        "fa": "Cloudflare Security"
+      },
+      "url": "https://security.cloudflare-dns.com/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "Cloudflare Family",
+        "fa": "Cloudflare Family"
+      },
+      "url": "https://family.cloudflare-dns.com/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "Cisco Umbrella",
+        "fa": "Cisco Umbrella"
+      },
+      "url": "https://doh.umbrella.com/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "Mozilla DNS",
+        "fa": "Mozilla DNS"
+      },
+      "url": "https://mozilla.cloudflare-dns.com/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "Mullvad DNS",
+        "fa": "Mullvad DNS"
+      },
+      "url": "https://doh.mullvad.net/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "AliDNS",
+        "fa": "AliDNS"
+      },
+      "url": "https://dns.alidns.com/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "DNS4EU Unfiltered",
+        "fa": "DNS4EU Unfiltered"
+      },
+      "url": "https://unfiltered.joindns4.eu/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "DNS4EU Protective",
+        "fa": "DNS4EU Protective"
+      },
+      "url": "https://protective.joindns4.eu/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "Control D (Free)",
+        "fa": "Control D (Free)"
+      },
+      "url": "https://freedns.controld.com/p0?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "Avast (Default)",
+        "fa": "Avast (Default)"
+      },
+      "url": "https://secure.avastdns.com/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "ComSS",
+        "fa": "ComSS"
+      },
+      "url": "https://dns.comss.one/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    },
+    {
+      "name": {
+        "en": "Nord DNS",
+        "fa": "Nord DNS"
+      },
+      "url": "https://dns1.nordvpn.com/dns-query?name=google.com&type=A",
+      "shouldContain": "Answer"
+    }
+  ]
+}
