@@ -1,0 +1,53 @@
+{
+  "name": {
+    "en": "F-Droid Repositories",
+    "fa": "مخازن اف-دروید"
+  },
+  "description": {
+    "en": "F-Droid Repositories\nhttps://fdroid.link/#https://f-droid.org/repo",
+    "fa": "مخازن اف-دروید\nhttps://fdroid.link/#https://f-droid.org/repo"
+  },
+  "color": "#FF4285F4",
+  "items": [
+    {
+      "name": {
+        "en": "F-Droid",
+        "fa": "اف-دروید"
+      },
+      "url": "https://f-droid.org/repo/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "IzzyOnDroid",
+        "fa": "ایزی‌آن‌دروید"
+      },
+      "url": "https://apt.izzysoft.de/fdroid/repo/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "SimpleX",
+        "fa": "سیمپل‌ایکس"
+      },
+      "url": "https://app.simplex.chat/fdroid/repo/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "Bitwarden",
+        "fa": "بیت‌وارن"
+      },
+      "url": "https://mobileapp.bitwarden.com/fdroid/repo/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "KDE",
+        "fa": "کی‌دی‌ای"
+      },
+      "url": "https://cdn.kde.org/android/stable-releases/fdroid/repo/entry.json",
+      "shouldContain": "/index-v2.json"
+    }
+  ]
+}
