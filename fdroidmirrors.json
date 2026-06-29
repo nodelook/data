@@ -1,11 +1,11 @@
 {
   "name": {
-    "en": "F-Droid",
-    "fa": "اف-دروید"
+    "en": "F-Droid Mirrors",
+    "fa": "آینه‌های اف-دروید"
   },
   "description": {
-    "en": "F-Droid Repository Mirrors\nhttps://fdroid.link/#https://f-droid.org/repo",
-    "fa": "آینه‌های مخازن اف-دروید\nhttps://fdroid.link/#https://f-droid.org/repo"
+    "en": "F-Droid Mirrors\nhttps://fdroid.link/#https://f-droid.org/repo",
+    "fa": "آینه‌های اف-دروید\nhttps://fdroid.link/#https://f-droid.org/repo"
   },
   "color": "#FF34A853",
   "items": [
