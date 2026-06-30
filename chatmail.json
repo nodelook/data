@@ -1,0 +1,229 @@
+{
+  "name": {
+    "en": "Chatmail",
+    "fa": "چت‌میل"
+  },
+  "description": {
+    "en": "Chatmail Relays",
+    "fa": "رله‌های چت‌میل"
+  },
+  "color": "#FF4285F4",
+  "items": [
+    {
+      "name": {
+        "en": "TestRun",
+        "fa": "تست‌ران"
+      },
+      "url": "https://nine.t‍estrun.org/",
+      "shouldContain": "DCACCOUNT:https://nine.testrun.org/new"
+    },
+    {
+      "name": {
+        "en": "[United States of America] sweetfern",
+        "fa": "[ایالات متحده آمریکا] sweetfern"
+      },
+      "url": "https://sweetfern.net/",
+      "shouldContain": "DCACCOUNT:https://sweetfern.net/new"
+    },
+    {
+      "name": {
+        "en": "[United States of America] uninterest",
+        "fa": "[ایالات متحده آمریکا] uninterest"
+      },
+      "url": "https://uninterest.ing/",
+      "shouldContain": "DCACCOUNT:https://uninterest.ing/new"
+    },
+    {
+      "name": {
+        "en": "[United States of America] aangat",
+        "fa": "[ایالات متحده آمریکا] aangat"
+      },
+      "url": "https://chika.aangat.lahat.computer/",
+      "shouldContain": "DCACCOUNT:https://chika.aangat.lahat.computer/new"
+    },
+    {
+      "name": {
+        "en": "[Germany] mehl",
+        "fa": "[آلمان] mehl"
+      },
+      "url": "https://mehl.cloud/",
+      "shouldContain": "DCACCOUNT:https://mehl.cloud/new"
+    },
+    {
+      "name": {
+        "en": "[Germany] adminforge",
+        "fa": "[آلمان] adminforge"
+      },
+      "url": "https://chat.adminforge.de/",
+      "shouldContain": "DCACCOUNT:https://chat.adminforge.de/new"
+    },
+    {
+      "name": {
+        "en": "[Germany] vim",
+        "fa": "[آلمان] vim"
+      },
+      "url": "https://chat.vim.wtf/",
+      "shouldContain": "DCACCOUNT:https://chat.vim.wtf/new"
+    },
+    {
+      "name": {
+        "en": "[Germany] in-the.eu",
+        "fa": "[آلمان] in-the.eu"
+      },
+      "url": "https://chat.in-the.eu/",
+      "shouldContain": "DCACCOUNT:https://chat.in-the.eu/new"
+    },
+    {
+      "name": {
+        "en": "[Germany] tarpit",
+        "fa": "[آلمان] tarpit"
+      },
+      "url": "https://tarpit.fun/",
+      "shouldContain": "DCACCOUNT:https://tarpit.fun/new"
+    },
+    {
+      "name": {
+        "en": "[Australia] chatmail",
+        "fa": "[استرالیا] chatmail"
+      },
+      "url": "https://chatmail.au/",
+      "shouldContain": "DCACCOUNT:https://chatmail.au/new"
+    },
+    {
+      "name": {
+        "en": "[France] thelab",
+        "fa": "[فرانسه] thelab"
+      },
+      "url": "https://delta.thelab.uno/",
+      "shouldContain": "DCACCOUNT:https://delta.thelab.uno/new"
+    },
+    {
+      "name": {
+        "en": "[France] gaufr",
+        "fa": "[فرانسه] gaufr"
+      },
+      "url": "https://d.gaufr.es/",
+      "shouldContain": "DCACCOUNT:https://d.gaufr.es/new"
+    },
+    {
+      "name": {
+        "en": "[Finland] danneskjold",
+        "fa": "[فنلاند] danneskjold"
+      },
+      "url": "https://danneskjold.de/",
+      "shouldContain": "DCACCOUNT:https://danneskjold.de/new"
+    },
+    {
+      "name": {
+        "en": "[India] privittytech",
+        "fa": "[هند] privittytech"
+      },
+      "url": "https://chat.privittytech.com/",
+      "shouldContain": "DCACCOUNT:https://chat.privittytech.com/new"
+    },
+    {
+      "name": {
+        "en": "[South Africa] sus",
+        "fa": "[آفریقای جنوبی] sus"
+      },
+      "url": "https://chat.sus.fr/",
+      "shouldContain": "DCACCOUNT:https://chat.sus.fr/new"
+    },
+    {
+      "name": {
+        "en": "[South Africa] e2ee",
+        "fa": "[آفریقای جنوبی] e2ee"
+      },
+      "url": "https://e2ee.wang/",
+      "shouldContain": "DCACCOUNT:https://e2ee.wang/new"
+    },
+    {
+      "name": {
+        "en": "[Ukraine] zashm",
+        "fa": "[اوکراین] zashm"
+      },
+      "url": "https://chat.zashm.org/",
+      "shouldContain": "DCACCOUNT:https://chat.zashm.org/new"
+    },
+    {
+      "name": {
+        "en": "[Switzerland] nibblehole",
+        "fa": "[سوئیس] nibblehole"
+      },
+      "url": "https://nibblehole.com/",
+      "shouldContain": "DCACCOUNT:https://nibblehole.com/new"
+    },
+    {
+      "name": {
+        "en": "[Czech Republic] nuvon",
+        "fa": "[جمهوری چک] nuvon"
+      },
+      "url": "https://chat.nuvon.app/",
+      "shouldContain": "DCACCOUNT:https://chat.nuvon.app/new"
+    },
+    {
+      "name": {
+        "en": "[Poland] chatmail",
+        "fa": "[لهستان] chatmail"
+      },
+      "url": "https://chatmail.email/",
+      "shouldContain": "DCACCOUNT:https://chatmail.email/new"
+    },
+    {
+      "name": {
+        "en": "[Poland] mailchat",
+        "fa": "[لهستان] mailchat"
+      },
+      "url": "https://mailchat.pl/",
+      "shouldContain": "DCACCOUNT:https://mailchat.pl/new"
+    },
+    {
+      "name": {
+        "en": "[Romania] e2ee",
+        "fa": "[رومانی] e2ee"
+      },
+      "url": "https://e2ee.im/",
+      "shouldContain": "DCACCOUNT:https://e2ee.im/new"
+    },
+    {
+      "name": {
+        "en": "[Canada] chtml",
+        "fa": "[کانادا] chtml"
+      },
+      "url": "https://chtml.ca/",
+      "shouldContain": "DCACCOUNT:https://chtml.ca/new"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] disobey",
+        "fa": "[هلند] disobey"
+      },
+      "url": "https://delta.disobey.net/",
+      "shouldContain": "DCACCOUNT:https://delta.disobey.net/new"
+    },
+    {
+      "name": {
+        "en": "[Italy] woodpeckersnest",
+        "fa": "[ایتالیا] woodpeckersnest"
+      },
+      "url": "https://chatmail.woodpeckersnest.space/",
+      "shouldContain": "DCACCOUNT:https://chatmail.woodpeckersnest.space/new"
+    },
+    {
+      "name": {
+        "en": "[Italy] culturanerd",
+        "fa": "[ایتالیا] culturanerd"
+      },
+      "url": "https://chatmail.culturanerd.it/",
+      "shouldContain": "DCACCOUNT:https://chatmail.culturanerd.it/new"
+    },
+    {
+      "name": {
+        "en": "[Iran] PaperWing",
+        "fa": "[ایران] پیپروینگ"
+      },
+      "url": "https://dfgr.paperwing.xyz/",
+      "shouldContain": "DCACCOUNT:https://dfgr.paperwing.xyz/new"
+    }
+  ]
+}
