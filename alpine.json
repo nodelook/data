@@ -4,8 +4,8 @@
     "fa": "آلپاین"
   },
   "description": {
-    "en": "Alpine Linux Mirrors\nvi /etc/apk/repositories",
-    "fa": "آینه‌های لینوکس آلپاین\nvi /etc/apk/repositories"
+    "en": "Alpine Linux Mirrors\nsudo nano /etc/apk/repositories",
+    "fa": "آینه‌های لینوکس آلپاین\nsudo nano /etc/apk/repositories"
   },
   "color": "#FF34A853",
   "items": [
