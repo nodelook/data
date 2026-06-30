@@ -123,14 +123,6 @@
     },
     {
       "name": {
-        "en": "[South Africa] sus",
-        "fa": "[آفریقای جنوبی] sus"
-      },
-      "url": "https://chat.sus.fr/",
-      "shouldContain": "DCACCOUNT:https://chat.sus.fr/new"
-    },
-    {
-      "name": {
         "en": "[South Africa] e2ee",
         "fa": "[آفریقای جنوبی] e2ee"
       },
@@ -200,14 +192,6 @@
       },
       "url": "https://delta.disobey.net/",
       "shouldContain": "DCACCOUNT:https://delta.disobey.net/new"
-    },
-    {
-      "name": {
-        "en": "[Italy] woodpeckersnest",
-        "fa": "[ایتالیا] woodpeckersnest"
-      },
-      "url": "https://chatmail.woodpeckersnest.space/",
-      "shouldContain": "DCACCOUNT:https://chatmail.woodpeckersnest.space/new"
     },
     {
       "name": {
