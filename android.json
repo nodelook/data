@@ -1,0 +1,29 @@
+{
+  "name": {
+    "en": "Android",
+    "fa": "اندروید"
+  },
+  "description": {
+    "en": "Android SDK Repository",
+    "fa": "مخزن اس‌دی‌کای اندروید"
+  },
+  "color": "#FF34A853",
+  "items": [
+    {
+      "name": {
+        "en": "Google",
+        "fa": "گوگل"
+      },
+      "url": "https://dl.google.ir/android/repository.xml",
+      "shouldContain": "platform-tools"
+    },
+    {
+      "name": {
+        "en": "[Iran] DevNeeds",
+        "fa": "[ایران] دونیدز"
+      },
+      "url": "https://dl.devneeds.ir/android/repository.xml",
+      "shouldContain": "platform-tools"
+    }
+  ]
+}
