@@ -14,7 +14,7 @@
         "en": "Google",
         "fa": "گوگل"
       },
-      "url": "https://dl.google.ir/android/repository.xml",
+      "url": "https://dl.google.com/android/repository/repository.xml",
       "shouldContain": "platform-tools"
     },
     {
