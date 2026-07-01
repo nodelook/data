@@ -4,8 +4,8 @@
     "fa": "اندروید"
   },
   "description": {
-    "en": "Android SDK Repository",
-    "fa": "مخزن اس‌دی‌کای اندروید"
+    "en": "Android SDK Repository\nexport SDK_TEST_BASE_URL="https://dl.devneeds.ir/android/",
+    "fa": "مخزن اس‌دی‌کای اندروید\nexport SDK_TEST_BASE_URL="https://dl.devneeds.ir/android/"
   },
   "color": "#FF34A853",
   "items": [
