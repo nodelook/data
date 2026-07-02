@@ -483,23 +483,23 @@
     },
     {
       "name": {
-        "en": "[China] edu mirror",
-        "fa": "[چین] edu mirror"
+        "en": "[China] edu nyist mirror",
+        "fa": "[چین] edu nyist mirror"
       },
       "url": "https://mirror.nyist.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
       "shouldContain": "alpine"
     },
     {
       "name": {
-        "en": "[China] edu mirrors",
-        "fa": "[چین] edu mirrors"
+        "en": "[China] edu tsinghua tuna mirrors",
+        "fa": "[چین] edu tsinghua tuna mirrors"
       },
       "url": "https://mirrors.tuna.tsinghua.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
       "shouldContain": "alpine"
     },
     {
       "name": {
-        "en": "[China] edu mirrors",
+        "en": "[China] edu ustc mirrors",
         "fa": "[چین] edu mirrors"
       },
       "url": "https://mirrors.ustc.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
@@ -507,48 +507,48 @@
     },
     {
       "name": {
-        "en": "[China] edu mirrors",
-        "fa": "[چین] edu mirrors"
+        "en": "[China] edu nju mirrors",
+        "fa": "[چین] edu nju mirrors"
       },
       "url": "https://mirrors.nju.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
       "shouldContain": "alpine"
     },
     {
       "name": {
-        "en": "[China] edu mirrors",
-        "fa": "[چین] edu mirrors"
+        "en": "[China] edu sjtu sjtug mirrors",
+        "fa": "[چین] edu sjtu sjtug mirrors"
       },
       "url": "https://mirrors.sjtug.sjtu.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
       "shouldContain": "alpine"
     },
     {
       "name": {
-        "en": "[China] edu mirrors",
-        "fa": "[چین] edu mirrors"
+        "en": "[China] edu neusoft mirrors",
+        "fa": "[چین] edu neusoft mirrors"
       },
       "url": "https://mirrors.neusoft.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
       "shouldContain": "alpine"
     },
     {
       "name": {
-        "en": "[China] edu mirrors",
-        "fa": "[چین] edu mirrors"
+        "en": "[China] edu hust mirrors",
+        "fa": "[چین] edu hust mirrors"
       },
       "url": "https://mirrors.hust.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
       "shouldContain": "alpine"
     },
     {
       "name": {
-        "en": "[China] edu mirrors",
-        "fa": "[چین] edu mirrors"
+        "en": "[China] edu sdu mirrors",
+        "fa": "[چین] edu sdu mirrors"
       },
       "url": "https://mirrors.sdu.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
       "shouldContain": "alpine"
     },
     {
       "name": {
-        "en": "CZ cvut mirror",
-        "fa": "CZ cvut mirror"
+        "en": "CZ cvut fel mirror",
+        "fa": "CZ cvut fel mirror"
       },
       "url": "https://mirror.fel.cvut.cz/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
       "shouldContain": "alpine"
