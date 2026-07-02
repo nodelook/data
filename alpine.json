@@ -171,16 +171,16 @@
     },
     {
       "name": {
-        "en": "COM silicloud mirrors",
-        "fa": "COM silicloud mirrors"
+        "en": "COM silicloud lax mirrors",
+        "fa": "COM silicloud lax mirrors"
       },
       "url": "https://mirrors.lax.silicloud.com/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
       "shouldContain": "alpine"
     },
     {
       "name": {
-        "en": "COM silicloud mirrors",
-        "fa": "COM silicloud mirrors"
+        "en": "COM silicloud tyo mirrors",
+        "fa": "COM silicloud tyo mirrors"
       },
       "url": "https://mirrors.tyo.silicloud.com/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
       "shouldContain": "alpine"
