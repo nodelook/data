@@ -160,6 +160,14 @@
       },
       "url": "https://mirror.level66.services/fdroid/repo/entry.json",
       "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "F-Droid (Tor)",
+        "fa": "اف-دروید (تور)"
+      },
+      "url": "http://fdroidorg6cooksyluodepej4erfctzk7rrjpjbbr6wx24jh3lqyfwyd.onion/repo/entry.json",
+      "shouldContain": "/index-v2.json"
     }
   ]
 }

@@ -5,7 +5,7 @@
   },
   "description": {
     "en": "Tor Network Services",
-    "fa": "سرویس‌هایی شبکه‌ی تور"
+    "fa": "سرویس‌های شبکه‌ی تور"
   },
   "color": "#FF4285F4",
   "items": [
@@ -16,6 +16,14 @@
       },
       "url": "http://archivep75mbjunhxc6x4j5mwjmomyxb573v42baldlqu56ruil2oiad.onion/download/xmha97/status",
       "shouldContain": "200"
+    },
+    {
+      "name": {
+        "en": "F-Droid Repository",
+        "fa": "اف-دروید"
+      },
+      "url": "http://fdroidorg6cooksyluodepej4erfctzk7rrjpjbbr6wx24jh3lqyfwyd.onion/repo/entry.json",
+      "shouldContain": "/index-v2.json"
     }
   ]
 }
