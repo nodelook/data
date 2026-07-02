@@ -827,16 +827,16 @@
     },
     {
       "name": {
-        "en": "TW edu alpine",
-        "fa": "TW edu alpine"
+        "en": "[Taiwan] edu nycu cs alpine",
+        "fa": "[تایوان] edu nycu cs alpine"
       },
       "url": "https://alpine.cs.nycu.edu.tw/latest-stable/releases/x86_64/latest-releases.yaml",
       "shouldContain": "alpine"
     },
     {
       "name": {
-        "en": "TW edu alpine",
-        "fa": "TW edu alpine"
+        "en": "[Taiwan] edu ncku ccns alpine",
+        "fa": "[تایوان] edu ncku ccns alpine"
       },
       "url": "https://alpine.ccns.ncku.edu.tw/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
       "shouldContain": "alpine"
