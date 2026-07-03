@@ -4,8 +4,8 @@
     "fa": "دارت"
   },
   "description": {
-    "en": "Dart Pub Mirrors\nPOSIX Shells:\nexport PUB_HOSTED_URL=\"https://pub.dev/\"\n\nCommand Prompt:\nset PUB_HOSTED_URL=https://pub.dev\n\nPowerShell:\n$$env:PUB_HOSTED_URL=\"https://pub.dev/\"",
-    "fa": "آینه‌های پاب دارت\nشل‌های پازیکس:\nexport PUB_HOSTED_URL=\"https://pub.dev/\"\n\nخط فرمان:\nset PUB_HOSTED_URL=https://pub.dev\n\nپاورشل:\n$$env:PUB_HOSTED_URL=\"https://pub.dev/\""
+    "en": "Dart Pub Mirrors\n\nPOSIX Shells:\nexport PUB_HOSTED_URL=\"https://pub.dev/\"\n\nCommand Prompt:\nset PUB_HOSTED_URL=https://pub.dev\n\nPowerShell:\n$env:PUB_HOSTED_URL=\"https://pub.dev/\"",
+    "fa": "آینه‌های پاب دارت\n\nشل‌های پازیکس:\nexport PUB_HOSTED_URL=\"https://pub.dev/\"\n\nخط فرمان:\nset PUB_HOSTED_URL=https://pub.dev\n\nپاورشل:\n$env:PUB_HOSTED_URL=\"https://pub.dev/\""
   },
   "color": "#FF4285F4",
   "items": [
