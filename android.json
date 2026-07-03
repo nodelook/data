@@ -19,6 +19,14 @@
     },
     {
       "name": {
+        "en": "Google (SSL)",
+        "fa": "گوگل (اس‌اس‌ال)"
+      },
+      "url": "https://dl-ssl.google.com/android/repository/repository.xml",
+      "shouldContain": "platform-tools"
+    },
+    {
+      "name": {
         "en": "[Iran] DevNeeds",
         "fa": "[ایران] دونیدز"
       },
