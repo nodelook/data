@@ -4,7 +4,7 @@
     "fa": "دارت"
   },
   "description": {
-    "en": "Dart Pub Mirrors\nPOSIX Shells:\nexport PUB_HOSTED_URL=\"https://pub.dev/\"\n\nCommand Prompt:\nset PUB_HOSTED_URL=https://pub.dev\n\nPowerShell:\n$env:PUB_HOSTED_URL=\"https://pub.dev/\"",
+    "en": "Dart Pub Mirrors\nPOSIX Shells:\nexport PUB_HOSTED_URL=\"https://pub.dev/\"\n\nCommand Prompt:\nset PUB_HOSTED_URL=https://pub.dev\n\nPowerShell:\n$$env:PUB_HOSTED_URL=\"https://pub.dev/\"",
     "fa": "آینه‌های پاب دارت"
   },
   "color": "#FF4285F4",
