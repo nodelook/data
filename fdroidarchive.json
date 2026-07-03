@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
   "name": {
     "en": "F-Droid Archive",
     "fa": "بایگانی اف-دروید"

@@ -1,333 +1,334 @@
 {
-    "name": {
-        "en": "Veloren",
-        "fa": "ولورن"
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "Veloren",
+    "fa": "ولورن"
+  },
+  "description": {
+    "en": "Veloren Servers",
+    "fa": "کارسازهای ولورن"
+  },
+  "color": "#FF34A853",
+  "items": [
+    {
+      "name": {
+        "en": "[DE] Veloren Project Official Server (EU-1)",
+        "fa": "[DE] Veloren Project Official Server (EU-1)"
+      },
+      "url": "http://server.veloren.net:14004",
+      "shouldContain": "VELOREN"
     },
-    "description": {
-        "en": "Veloren Servers",
-        "fa": "کارسازهای ولورن"
+    {
+      "name": {
+        "en": "[BR] Veloren SA",
+        "fa": "[BR] Veloren SA"
+      },
+      "url": "http://play.veloren.net.br:14004",
+      "shouldContain": "VELOREN"
     },
-    "color": "#FF34A853",
-    "items": [
-        {
-            "name": {
-                "en": "[DE] Veloren Project Official Server (EU-1)",
-                "fa": "[DE] Veloren Project Official Server (EU-1)"
-            },
-            "url": "http://server.veloren.net:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[BR] Veloren SA",
-                "fa": "[BR] Veloren SA"
-            },
-            "url": "http://play.veloren.net.br:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[US] HostEZ.io Veloren Community",
-                "fa": "[US] HostEZ.io Veloren Community"
-            },
-            "url": "http://veloren.hostez.io:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[US] Heresy Gaming Veloren",
-                "fa": "[US] Heresy Gaming Veloren"
-            },
-            "url": "http://heresygaming.redirectme.net:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[RU] OGR---Russia-Veloren",
-                "fa": "[RU] OGR---Russia-Veloren"
-            },
-            "url": "http://78.107.237.169:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[AU] The Riotous Rooster Veloren Server",
-                "fa": "[AU] The Riotous Rooster Veloren Server"
-            },
-            "url": "http://riotousrooster.com:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[US] Open Veloren Server - US West",
-                "fa": "[US] Open Veloren Server - US West"
-            },
-            "url": "http://veloren.onlinux.org:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[CL] Pow4Ever.com | Veloren",
-                "fa": "[CL] Pow4Ever.com | Veloren"
-            },
-            "url": "http://veloren.pow4ever.com:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[BR] Realm of Echoes",
-                "fa": "[BR] Realm of Echoes"
-            },
-            "url": "http://kawaiidesu.yukon.ar:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[BR] Veloren na Jamanta",
-                "fa": "[BR] Veloren na Jamanta"
-            },
-            "url": "http://jogar.servidorjamanta.com.br:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[RU] Elbrus e2k server",
-                "fa": "[RU] Elbrus e2k server"
-            },
-            "url": "http://83.102.204.31:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[TR] CRUD Yazılım Veloren Türkiye",
-                "fa": "[TR] CRUD Yazılım Veloren Türkiye"
-            },
-            "url": "http://veloren.crudyazilim.com:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[SG] Endcube",
-                "fa": "[SG] Endcube"
-            },
-            "url": "http://veloren.endcube.net:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[FR] Veloren ES",
-                "fa": "[FR] Veloren ES"
-            },
-            "url": "http://server.veloren.es:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[US] Ravengard (US East)",
-                "fa": "[US] Ravengard (US East)"
-            },
-            "url": "http://play.rvn.gg:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[CL] Aincrad LATAM Network",
-                "fa": "[CL] Aincrad LATAM Network"
-            },
-            "url": "http://veloren.aincradlatam.net:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[US] Veloren WestUS",
-                "fa": "[US] Veloren WestUS"
-            },
-            "url": "http://joeisthebest.mooo.com:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[MX] Veloren Latino",
-                "fa": "[MX] Veloren Latino"
-            },
-            "url": "http://play.velorenla.com:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[CA] Canada Plays Veloren - Skwad Media",
-                "fa": "[CA] Canada Plays Veloren - Skwad Media"
-            },
-            "url": "http://play.skwad.media:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[AU] ShadowGaming-PVP-NEW-200Slots",
-                "fa": "[AU] ShadowGaming-PVP-NEW-200Slots"
-            },
-            "url": "http://1.159.228.1:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[US] konataClub",
-                "fa": "[US] konataClub"
-            },
-            "url": "http://v.konata.club:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[AU] AUS-RASHMELON",
-                "fa": "[AU] AUS-RASHMELON"
-            },
-            "url": "http://aus.rashmelon.com:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[PR] Comunidad Latina",
-                "fa": "[PR] Comunidad Latina"
-            },
-            "url": "http://veloren.prggz.net:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[SE] Sweplox Veloren",
-                "fa": "[SE] Sweplox Veloren"
-            },
-            "url": "http://veloren1.sweplox.net:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[FR] LinuxOS",
-                "fa": "[FR] LinuxOS"
-            },
-            "url": "http://veloren.ynh.ovh:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[FR] Evo-Gaming",
-                "fa": "[FR] Evo-Gaming"
-            },
-            "url": "http://play.evo-gaming.fr:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[KR] Dramatik",
-                "fa": "[KR] Dramatik"
-            },
-            "url": "http://dramatik.me:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[DE] Isse's experimental server",
-                "fa": "[DE] Isse's experimental server"
-            },
-            "url": "http://veloren.isse.rs:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[AR] AETeam Middle East [UAE]",
-                "fa": "[AR] AETeam Middle East [UAE]"
-            },
-            "url": "http://uae.zapto.org:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[DE] PL Stumilowy Las",
-                "fa": "[DE] PL Stumilowy Las"
-            },
-            "url": "http://188.245.171.146:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[SE] Nort-sun",
-                "fa": "[SE] Nort-sun"
-            },
-            "url": "http://game.nort-sun.com:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[DE] EU The Old Guard",
-                "fa": "[DE] EU The Old Guard"
-            },
-            "url": "http://188.40.131.14:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[UA] Nyxthorn Realm",
-                "fa": "[UA] Nyxthorn Realm"
-            },
-            "url": "http://veloren.nyxre.pp.ua:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[AU] Icey's Retro World",
-                "fa": "[AU] Icey's Retro World"
-            },
-            "url": "http://209.25.142.98:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[ES] MxtAppz Veloren Server",
-                "fa": "[ES] MxtAppz Veloren Server"
-            },
-            "url": "http://mxtappz.duckdns.org:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[CN] Veloren Server 维洛伦服务器",
-                "fa": "[CN] Veloren Server 维洛伦服务器"
-            },
-            "url": "http://veloren.hgxds.cn:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[RO] Veloren Romania",
-                "fa": "[RO] Veloren Romania"
-            },
-            "url": "http://velo.inewb.ro:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[CA] QC-FR Azria Gaming - 24/7 - MMO",
-                "fa": "[CA] QC-FR Azria Gaming - 24/7 - MMO"
-            },
-            "url": "http://51.222.110.159:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[PL] Stumilowylas",
-                "fa": "[PL] Stumilowylas"
-            },
-            "url": "http://194.110.4.97:14004",
-            "shouldContain": "VELOREN"
-        },
-        {
-            "name": {
-                "en": "[FR] TeamKit FR — Veloren (EU)",
-                "fa": "[FR] TeamKit FR — Veloren (EU)"
-            },
-            "url": "http://amp.teamkit.fr:14004",
-            "shouldContain": "VELOREN"
-        }
-    ]
+    {
+      "name": {
+        "en": "[US] HostEZ.io Veloren Community",
+        "fa": "[US] HostEZ.io Veloren Community"
+      },
+      "url": "http://veloren.hostez.io:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[US] Heresy Gaming Veloren",
+        "fa": "[US] Heresy Gaming Veloren"
+      },
+      "url": "http://heresygaming.redirectme.net:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[RU] OGR---Russia-Veloren",
+        "fa": "[RU] OGR---Russia-Veloren"
+      },
+      "url": "http://78.107.237.169:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[AU] The Riotous Rooster Veloren Server",
+        "fa": "[AU] The Riotous Rooster Veloren Server"
+      },
+      "url": "http://riotousrooster.com:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[US] Open Veloren Server - US West",
+        "fa": "[US] Open Veloren Server - US West"
+      },
+      "url": "http://veloren.onlinux.org:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[CL] Pow4Ever.com | Veloren",
+        "fa": "[CL] Pow4Ever.com | Veloren"
+      },
+      "url": "http://veloren.pow4ever.com:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[BR] Realm of Echoes",
+        "fa": "[BR] Realm of Echoes"
+      },
+      "url": "http://kawaiidesu.yukon.ar:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[BR] Veloren na Jamanta",
+        "fa": "[BR] Veloren na Jamanta"
+      },
+      "url": "http://jogar.servidorjamanta.com.br:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[RU] Elbrus e2k server",
+        "fa": "[RU] Elbrus e2k server"
+      },
+      "url": "http://83.102.204.31:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[TR] CRUD Yazılım Veloren Türkiye",
+        "fa": "[TR] CRUD Yazılım Veloren Türkiye"
+      },
+      "url": "http://veloren.crudyazilim.com:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[SG] Endcube",
+        "fa": "[SG] Endcube"
+      },
+      "url": "http://veloren.endcube.net:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[FR] Veloren ES",
+        "fa": "[FR] Veloren ES"
+      },
+      "url": "http://server.veloren.es:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[US] Ravengard (US East)",
+        "fa": "[US] Ravengard (US East)"
+      },
+      "url": "http://play.rvn.gg:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[CL] Aincrad LATAM Network",
+        "fa": "[CL] Aincrad LATAM Network"
+      },
+      "url": "http://veloren.aincradlatam.net:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[US] Veloren WestUS",
+        "fa": "[US] Veloren WestUS"
+      },
+      "url": "http://joeisthebest.mooo.com:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[MX] Veloren Latino",
+        "fa": "[MX] Veloren Latino"
+      },
+      "url": "http://play.velorenla.com:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[CA] Canada Plays Veloren - Skwad Media",
+        "fa": "[CA] Canada Plays Veloren - Skwad Media"
+      },
+      "url": "http://play.skwad.media:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[AU] ShadowGaming-PVP-NEW-200Slots",
+        "fa": "[AU] ShadowGaming-PVP-NEW-200Slots"
+      },
+      "url": "http://1.159.228.1:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[US] konataClub",
+        "fa": "[US] konataClub"
+      },
+      "url": "http://v.konata.club:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[AU] AUS-RASHMELON",
+        "fa": "[AU] AUS-RASHMELON"
+      },
+      "url": "http://aus.rashmelon.com:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[PR] Comunidad Latina",
+        "fa": "[PR] Comunidad Latina"
+      },
+      "url": "http://veloren.prggz.net:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[SE] Sweplox Veloren",
+        "fa": "[SE] Sweplox Veloren"
+      },
+      "url": "http://veloren1.sweplox.net:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[FR] LinuxOS",
+        "fa": "[FR] LinuxOS"
+      },
+      "url": "http://veloren.ynh.ovh:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[FR] Evo-Gaming",
+        "fa": "[FR] Evo-Gaming"
+      },
+      "url": "http://play.evo-gaming.fr:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[KR] Dramatik",
+        "fa": "[KR] Dramatik"
+      },
+      "url": "http://dramatik.me:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[DE] Isse's experimental server",
+        "fa": "[DE] Isse's experimental server"
+      },
+      "url": "http://veloren.isse.rs:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[AR] AETeam Middle East [UAE]",
+        "fa": "[AR] AETeam Middle East [UAE]"
+      },
+      "url": "http://uae.zapto.org:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[DE] PL Stumilowy Las",
+        "fa": "[DE] PL Stumilowy Las"
+      },
+      "url": "http://188.245.171.146:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[SE] Nort-sun",
+        "fa": "[SE] Nort-sun"
+      },
+      "url": "http://game.nort-sun.com:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[DE] EU The Old Guard",
+        "fa": "[DE] EU The Old Guard"
+      },
+      "url": "http://188.40.131.14:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[UA] Nyxthorn Realm",
+        "fa": "[UA] Nyxthorn Realm"
+      },
+      "url": "http://veloren.nyxre.pp.ua:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[AU] Icey's Retro World",
+        "fa": "[AU] Icey's Retro World"
+      },
+      "url": "http://209.25.142.98:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[ES] MxtAppz Veloren Server",
+        "fa": "[ES] MxtAppz Veloren Server"
+      },
+      "url": "http://mxtappz.duckdns.org:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[CN] Veloren Server 维洛伦服务器",
+        "fa": "[CN] Veloren Server 维洛伦服务器"
+      },
+      "url": "http://veloren.hgxds.cn:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[RO] Veloren Romania",
+        "fa": "[RO] Veloren Romania"
+      },
+      "url": "http://velo.inewb.ro:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[CA] QC-FR Azria Gaming - 24/7 - MMO",
+        "fa": "[CA] QC-FR Azria Gaming - 24/7 - MMO"
+      },
+      "url": "http://51.222.110.159:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[PL] Stumilowylas",
+        "fa": "[PL] Stumilowylas"
+      },
+      "url": "http://194.110.4.97:14004",
+      "shouldContain": "VELOREN"
+    },
+    {
+      "name": {
+        "en": "[FR] TeamKit FR — Veloren (EU)",
+        "fa": "[FR] TeamKit FR — Veloren (EU)"
+      },
+      "url": "http://amp.teamkit.fr:14004",
+      "shouldContain": "VELOREN"
+    }
+  ]
 }
