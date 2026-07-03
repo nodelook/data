@@ -19,8 +19,8 @@
     },
     {
       "name": {
-        "en": "Kick Site",
-        "fa": "سایت کیک"
+        "en": "Kick",
+        "fa": "کیک"
       },
       "url": "https://kick.com/robots.txt",
       "shouldContain": "Disallow"
