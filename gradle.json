@@ -40,7 +40,7 @@
       },
       "url": "https://maven.myket.ir/gradle/distributions/gradle-8.0.1-src.zip.sha256",
       "shouldContain": "b91e9f1f2b4c781973be908de4ef9d91fce593c82735ee7a9faa7546e7842fe2"
-    }
+    },
     {
       "name": {
         "en": "[Iran] Hesabix (Myket Mirror)",
