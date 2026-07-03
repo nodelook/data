@@ -1,0 +1,72 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/nodelook/data/.schema.json",
+  "title": "NodeLook Group",
+  "description": "Schema for NodeLook Android data group files",
+  "type": "object",
+  "required": ["name", "description", "color", "items"],
+  "additionalProperties": false,
+  "properties": {
+    "name": {
+      "description": "The display name of the group",
+      "$ref": "#/definitions/localizedString"
+    },
+    "description": {
+      "description": "A short description of the group",
+      "$ref": "#/definitions/localizedString"
+    },
+    "color": {
+      "description": "ARGB hex color code for the group (e.g. #FF4285F4)",
+      "type": "string",
+      "pattern": "^#[0-9A-Fa-f]{8}$"
+    },
+    "items": {
+      "description": "List of services/endpoints to check",
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/definitions/item"
+      }
+    }
+  },
+  "definitions": {
+    "localizedString": {
+      "type": "object",
+      "required": ["en", "fa"],
+      "additionalProperties": false,
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1,
+          "description": "English text"
+        },
+        "fa": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Persian text"
+        }
+      }
+    },
+    "item": {
+      "type": "object",
+      "required": ["name", "url", "shouldContain"],
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "description": "Display name of the service or endpoint",
+          "$ref": "#/definitions/localizedString"
+        },
+        "url": {
+          "description": "The URL to send a request to",
+          "type": "string",
+          "format": "uri"
+        },
+        "shouldContain": {
+          "description": "A string that the response body must contain for the check to pass",
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    }
+  }
+}
