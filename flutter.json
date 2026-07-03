@@ -4,8 +4,8 @@
     "fa": "فلاتر"
   },
   "description": {
-    "en": "Flutter Mirrors\nexport FLUTTER_STORAGE_BASE_URL=https://storage.googleapis.com/",
-    "fa": "آینه‌های فلاتر\nexport FLUTTER_STORAGE_BASE_URL=https://storage.googleapis.com/"
+    "en": "Flutter Mirrors\n\nPOSIX Shells:\nexport FLUTTER_STORAGE_BASE_URL=\"https://storage.googleapis.com/\"\n\nCommand Prompt:\nset FLUTTER_STORAGE_BASE_URL=https://pub.dev\n\nPowerShell:\n$env:FLUTTER_STORAGE_BASE_URL=\"https://storage.googleapis.com/\"",
+    "fa": "آینه‌های فلاتر\n\nشل‌های پازیکس:\nexport FLUTTER_STORAGE_BASE_URL=\"https://storage.googleapis.com/\"\n\nخط فرمان:\nset FLUTTER_STORAGE_BASE_URL=https://pub.dev\n\nپاورشل:\n$env:FLUTTER_STORAGE_BASE_URL=\"https://storage.googleapis.com/\""
   },
   "color": "#FF34A853",
   "items": [
