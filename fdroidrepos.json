@@ -19,6 +19,14 @@
     },
     {
       "name": {
+        "en": "F-Droid Archive",
+        "fa": "بایگانی اف-دروید"
+      },
+      "url": "https://f-droid.org/archive/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
         "en": "IzzyOnDroid",
         "fa": "ایزی‌آن‌دروید"
       },

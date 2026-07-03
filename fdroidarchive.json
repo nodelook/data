@@ -1,0 +1,133 @@
+{
+  "name": {
+    "en": "F-Droid Archive",
+    "fa": "بایگانی اف-دروید"
+  },
+  "description": {
+    "en": "F-Droid Archive Mirrors\nhttps://fdroid.link/#https://f-droid.org/repo",
+    "fa": "آینه‌های بایگانی اف-دروید\nhttps://fdroid.link/#https://f-droid.org/repo"
+  },
+  "color": "#FF34A853",
+  "items": [
+    {
+      "name": {
+        "en": "F-Droid",
+        "fa": "اف-دروید"
+      },
+      "url": "https://f-droid.org/archive/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "DE Agdsn",
+        "fa": "DE Agdsn"
+      },
+      "url": "https://ftp.agdsn.de/fdroid/archive/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "DE Fau",
+        "fa": "DE Fau"
+      },
+      "url": "https://ftp.fau.de/fdroid/archive/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "DE Gwdg",
+        "fa": "DE Gwdg"
+      },
+      "url": "https://ftp.gwdg.de/pub/android/fdroid/archive/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "SE Liu",
+        "fa": "SE Liu"
+      },
+      "url": "https://ftp.lysator.liu.se/pub/fdroid/archive/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "ORG Dotsrc",
+        "fa": "ORG Dotsrc"
+      },
+      "url": "https://mirrors.dotsrc.org/fdroid/archive/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "ORG freedif",
+        "fa": "ORG freedif"
+      },
+      "url": "https://mirror.freedif.org/fdroid/archive/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "NET Fcix",
+        "fa": "NET Fcix"
+      },
+      "url": "https://mirror.fcix.net/fdroid/archive/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "SYSTEMS kumi",
+        "fa": "SYSTEMS kumi"
+      },
+      "url": "https://mirror.kumi.systems/fdroid/archive/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "[China] Tsinghua University (HTTPS)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی‌اس)"
+      },
+      "url": "https://tuna.tsinghua.edu.cn/fdroid/archive/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "[China] Tsinghua University (HTTPS) (IPv4)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی‌اس) (آی‌پی‌وی۴)"
+      },
+      "url": "https://mirrors4.tuna.tsinghua.edu.cn/fdroid/archive/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "[China] Tsinghua University (HTTPS) (IPv6)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی‌اس) (آی‌پی‌وی۶)"
+      },
+      "url": "https://mirrors6.tuna.tsinghua.edu.cn/fdroid/archive/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "[China] Tsinghua University (HTTP)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://tuna.tsinghua.edu.cn/fdroid/archive/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "[China] Tsinghua University (HTTP) (IPv4)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی) (آی‌پی‌وی۴)"
+      },
+      "url": "http://mirrors4.tuna.tsinghua.edu.cn/fdroid/archive/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "[China] Tsinghua University (HTTP) (IPv6)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی) (آی‌پی‌وی۶)"
+      },
+      "url": "http://mirrors6.tuna.tsinghua.edu.cn/fdroid/archive/entry.json",
+      "shouldContain": "/index-v2.json"
+    }
+  ]
+}

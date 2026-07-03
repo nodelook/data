@@ -33,5 +33,13 @@
       "url": "https://pub-azs.ir/api/mavens/com/android/tools/build/gradle/maven-metadata.xml",
       "shouldContain": "com.android.tools.build"
     },
+    {
+      "name": {
+        "en": "[Iran] Hesabix (Myket Mirror)",
+        "fa": "[ایران] حسابیکس (آینه‌ی مایکت)"
+      },
+      "url": "https://gradle.mirror.hesabix.ir/android/maven2/com/android/tools/build/gradle/maven-metadata.xml",
+      "shouldContain": "com.android.tools.build"
+    }
   ]
 }

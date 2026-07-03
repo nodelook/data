@@ -1,0 +1,53 @@
+{
+  "name": {
+    "en": "Gradle",
+    "fa": "گریدل"
+  },
+  "description": {
+    "en": "Gradle Distribution Mirrors",
+    "fa": "آینه‌های توزیع گریدل"
+  },
+  "color": "#FF34A853",
+  "items": [
+    {
+      "name": {
+        "en": "Gradle",
+        "fa": "گریدل"
+      },
+      "url": "https://services.gradle.org/distributions/gradle-8.0.1-src.zip.sha256",
+      "shouldContain": "b91e9f1f2b4c781973be908de4ef9d91fce593c82735ee7a9faa7546e7842fe2"
+    },
+    {
+      "name": {
+        "en": "[China] Huawei Cloud",
+        "fa": "[چین] ابر هوآوی"
+      },
+      "url": "https://repo.huaweicloud.com/gradle/gradle-8.0.1-src.zip.sha256",
+      "shouldContain": "b91e9f1f2b4c781973be908de4ef9d91fce593c82735ee7a9faa7546e7842fe2"
+    },
+    {
+      "name": {
+        "en": "[China] Tencent Cloud",
+        "fa": "[چین] ابر تنسنت"
+      },
+      "url": "https://mirrors.cloud.tencent.com/gradle/gradle-8.0.1-src.zip.sha256",
+      "shouldContain": "b91e9f1f2b4c781973be908de4ef9d91fce593c82735ee7a9faa7546e7842fe2"
+    },
+    {
+      "name": {
+        "en": "[Iran] Myket",
+        "fa": "[ایران] مایکت"
+      },
+      "url": "https://maven.myket.ir/gradle/distributions/gradle-8.0.1-src.zip.sha256",
+      "shouldContain": "b91e9f1f2b4c781973be908de4ef9d91fce593c82735ee7a9faa7546e7842fe2"
+    }
+    {
+      "name": {
+        "en": "[Iran] Hesabix (Myket Mirror)",
+        "fa": "[ایران] حسابیکس (آینه‌ی مایکت)"
+      },
+      "url": "https://gradle.mirror.hesabix.ir/distributions/gradle-8.0.1-src.zip.sha256",
+      "shouldContain": "b91e9f1f2b4c781973be908de4ef9d91fce593c82735ee7a9faa7546e7842fe2"
+    }
+  ]
+}

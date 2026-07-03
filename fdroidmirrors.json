@@ -163,10 +163,114 @@
     },
     {
       "name": {
-        "en": "F-Droid (Tor)",
-        "fa": "اف-دروید (تور)"
+        "en": "[China] Tsinghua University (HTTPS)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی‌اس)"
       },
-      "url": "http://fdroidorg6cooksyluodepej4erfctzk7rrjpjbbr6wx24jh3lqyfwyd.onion/repo/entry.json",
+      "url": "https://tuna.tsinghua.edu.cn/fdroid/repo/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "[China] Tsinghua University (HTTPS) (IPv4)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی‌اس) (آی‌پی‌وی۴)"
+      },
+      "url": "https://mirrors4.tuna.tsinghua.edu.cn/fdroid/repo/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "[China] Tsinghua University (HTTPS) (IPv6)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی‌اس) (آی‌پی‌وی۶)"
+      },
+      "url": "https://mirrors6.tuna.tsinghua.edu.cn/fdroid/repo/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "[China] Tsinghua University (HTTP)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://tuna.tsinghua.edu.cn/fdroid/repo/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "[China] Tsinghua University (HTTP) (IPv4)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی) (آی‌پی‌وی۴)"
+      },
+      "url": "http://mirrors4.tuna.tsinghua.edu.cn/fdroid/repo/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "[China] Tsinghua University (HTTP) (IPv6)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی) (آی‌پی‌وی۶)"
+      },
+      "url": "http://mirrors6.tuna.tsinghua.edu.cn/fdroid/repo/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "[China] Nanyang Technological University (HTTPS)",
+        "fa": "[چین] دانشگاه فناوری نانیانگ (اچ‌تی‌تی‌پی‌اس)"
+      },
+      "url": "https://nyist.edu.cn/fdroid/repo/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "[China] Nanyang Technological University (HTTPS) (IPv4)",
+        "fa": "[چین] دانشگاه فناوری نانیانگ (اچ‌تی‌تی‌پی‌اس) (آی‌پی‌وی۴)"
+      },
+      "url": "https://mirror4.nyist.edu.cn/fdroid/repo/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "[China] Nanyang Technological University (HTTPS) (IPv6)",
+        "fa": "[چین] دانشگاه فناوری نانیانگ (اچ‌تی‌تی‌پی‌اس) (آی‌پی‌وی۶)"
+      },
+      "url": "https://mirror6.nyist.edu.cn/fdroid/repo/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "[China] Nanyang Technological University (HTTP)",
+        "fa": "[چین] دانشگاه فناوری نانیانگ (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://nyist.edu.cn/fdroid/repo/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "[China] Nanyang Technological University (HTTP) (IPv4)",
+        "fa": "[چین] دانشگاه فناوری نانیانگ (اچ‌تی‌تی‌پی) (آی‌پی‌وی۴)"
+      },
+      "url": "http://mirror4.nyist.edu.cn/fdroid/repo/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "[China] Nanyang Technological University (HTTP) (IPv6)",
+        "fa": "[چین] دانشگاه فناوری نانیانگ (اچ‌تی‌تی‌پی) (آی‌پی‌وی۶)"
+      },
+      "url": "http://mirror6.nyist.edu.cn/fdroid/repo/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "[Taiwan] Taiwan Digital Streaming Company",
+        "fa": "[تایوان] شرکت جریان‌سازی دیجیتال تایوان"
+      },
+      "url": "https://mirror.twds.com.tw/fdroid/repo/entry.json",
+      "shouldContain": "/index-v2.json"
+    },
+    {
+      "name": {
+        "en": "[United States] Purdue University",
+        "fa": "[ایالات متحده] دانشگاه پردو"
+      },
+      "url": "https://plug-mirror.rcac.purdue.edu/fdroid/repo/entry.json",
       "shouldContain": "/index-v2.json"
     }
   ]

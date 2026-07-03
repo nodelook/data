@@ -28,7 +28,7 @@
     {
       "name": {
         "en": "[China] Tsinghua University",
-        "fa": "[چین] دانشگاه تسینگهوا"
+        "fa": "[چین] دانشگاه تسینگ‌هوا"
       },
       "url": "https://pypi.tuna.tsinghua.edu.cn/simple/simpleindex/",
       "shouldContain": "pypi:repository-version"
