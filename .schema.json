@@ -4,9 +4,18 @@
   "title": "NodeLook Group",
   "description": "Schema for NodeLook Android data group files",
   "type": "object",
-  "required": ["name", "description", "color", "items"],
+  "required": [
+    "name",
+    "description",
+    "color",
+    "items"
+  ],
   "additionalProperties": false,
   "properties": {
+    "$schema": {
+      "type": "string",
+      "format": "uri"
+    },
     "name": {
       "description": "The display name of the group",
       "$ref": "#/definitions/localizedString"
@@ -32,7 +41,10 @@
   "definitions": {
     "localizedString": {
       "type": "object",
-      "required": ["en", "fa"],
+      "required": [
+        "en",
+        "fa"
+      ],
       "additionalProperties": false,
       "properties": {
         "en": {
@@ -49,7 +61,11 @@
     },
     "item": {
       "type": "object",
-      "required": ["name", "url", "shouldContain"],
+      "required": [
+        "name",
+        "url",
+        "shouldContain"
+      ],
       "additionalProperties": false,
       "properties": {
         "name": {
