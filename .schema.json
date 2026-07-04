@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/nodelook/data/.schema.json",
+  "$id": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
   "title": "NodeLook Group",
   "description": "Schema for NodeLook Android data group files",
   "type": "object",
