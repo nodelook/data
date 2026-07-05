@@ -220,7 +220,15 @@
     },
     {
       "name": {
-        "en": "[Iran] Bale: API",
+        "en": "Bale API",
+        "fa": "ای‌پی‌آی بله"
+      },
+      "url": "https://tapi.bale.ai/bot1386825326:9faNYe7VeDn-n_O7RspmMF4zj7Vfu3MxPq4/getMe",
+      "shouldContain": "thetgapiisworkingproperlybot"
+    },
+    {
+      "name": {
+        "en": "[Iran] Bale: Static",
         "fa": "[ایران] بله: ای‌پی‌آی"
       },
       "url": "https://assets.bale.ai/configs.json",
