@@ -1,0 +1,4950 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "Arch",
+    "fa": "آرچ"
+  },
+  "description": {
+    "en": "Arch Linux Repository Mirrors\nsudo nano /etc/apt/sources.list",
+    "fa": "آینه‌های مخزن لینوکس آرچ\nsudo nano /etc/apt/sources.list"
+  },
+  "color": "#FF34A853",
+  "items": [
+    {
+      "name": {
+        "en": "[Worldwide] 1",
+        "fa": "[Worldwide] 1"
+      },
+      "url": "https://fastly.mirror.pkgbuild.com/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Worldwide] 2",
+        "fa": "[Worldwide] 2"
+      },
+      "url": "https://geo.mirror.pkgbuild.com/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Worldwide] 3",
+        "fa": "[Worldwide] 3"
+      },
+      "url": "https://ftpmirror.infania.net/mirror/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Albania] 1",
+        "fa": "[Albania] 1"
+      },
+      "url": "https://al.arch.niranjan.co/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Australia] 1",
+        "fa": "[Australia] 1"
+      },
+      "url": "https://mirror.aarnet.edu.au/pub/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Australia] 2",
+        "fa": "[Australia] 2"
+      },
+      "url": "http://au.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Australia] 3",
+        "fa": "[Australia] 3"
+      },
+      "url": "https://au.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Australia] 4",
+        "fa": "[Australia] 4"
+      },
+      "url": "http://gsl-syd.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Australia] 5",
+        "fa": "[Australia] 5"
+      },
+      "url": "https://gsl-syd.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Australia] 6",
+        "fa": "[Australia] 6"
+      },
+      "url": "https://au.arch.niranjan.co/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Australia] 7",
+        "fa": "[Australia] 7"
+      },
+      "url": "http://ftp.swin.edu.au/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Austria] 1",
+        "fa": "[Austria] 1"
+      },
+      "url": "http://mirror.alwyzon.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Austria] 2",
+        "fa": "[Austria] 2"
+      },
+      "url": "https://mirror.alwyzon.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Austria] 3",
+        "fa": "[Austria] 3"
+      },
+      "url": "http://at.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Austria] 4",
+        "fa": "[Austria] 4"
+      },
+      "url": "https://at.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Austria] 5",
+        "fa": "[Austria] 5"
+      },
+      "url": "https://at.arch.mirror.kescher.at/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Austria] 6",
+        "fa": "[Austria] 6"
+      },
+      "url": "https://at.arch.niranjan.co/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Austria] 7",
+        "fa": "[Austria] 7"
+      },
+      "url": "https://at-vie.soulharsh007.dev/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Bangladesh] 1",
+        "fa": "[Bangladesh] 1"
+      },
+      "url": "http://mirror.limda.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Bangladesh] 2",
+        "fa": "[Bangladesh] 2"
+      },
+      "url": "https://mirror.limda.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Bangladesh] 3",
+        "fa": "[Bangladesh] 3"
+      },
+      "url": "http://mirror.xeonbd.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Bangladesh] 4",
+        "fa": "[Bangladesh] 4"
+      },
+      "url": "https://mirror.xeonbd.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Belarus] 1",
+        "fa": "[Belarus] 1"
+      },
+      "url": "http://ftp.byfly.by/pub/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Belarus] 2",
+        "fa": "[Belarus] 2"
+      },
+      "url": "http://mirror.datacenter.by/pub/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Belgium] 1",
+        "fa": "[Belgium] 1"
+      },
+      "url": "http://mirror.1ago.be/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Belgium] 2",
+        "fa": "[Belgium] 2"
+      },
+      "url": "https://mirror.1ago.be/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Belgium] 3",
+        "fa": "[Belgium] 3"
+      },
+      "url": "http://mirror.jonas-prz.be/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Belgium] 4",
+        "fa": "[Belgium] 4"
+      },
+      "url": "https://mirror.jonas-prz.be/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Belgium] 5",
+        "fa": "[Belgium] 5"
+      },
+      "url": "https://archlinux.mirror-services.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Belgium] 6",
+        "fa": "[Belgium] 6"
+      },
+      "url": "http://mirror.tiguinet.net/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Belgium] 7",
+        "fa": "[Belgium] 7"
+      },
+      "url": "https://mirror.tiguinet.net/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Brazil] 1",
+        "fa": "[Brazil] 1"
+      },
+      "url": "http://archlinux.c3sl.ufpr.br/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Brazil] 2",
+        "fa": "[Brazil] 2"
+      },
+      "url": "https://archlinux.c3sl.ufpr.br/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Brazil] 3",
+        "fa": "[Brazil] 3"
+      },
+      "url": "http://br.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Brazil] 4",
+        "fa": "[Brazil] 4"
+      },
+      "url": "https://br.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Brazil] 5",
+        "fa": "[Brazil] 5"
+      },
+      "url": "http://mirror.ufam.edu.br/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Brazil] 6",
+        "fa": "[Brazil] 6"
+      },
+      "url": "http://mirror.ufscar.br/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Brazil] 7",
+        "fa": "[Brazil] 7"
+      },
+      "url": "https://mirror.ufscar.br/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Brazil] 8",
+        "fa": "[Brazil] 8"
+      },
+      "url": "http://mirrors.ic.unicamp.br/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Brazil] 9",
+        "fa": "[Brazil] 9"
+      },
+      "url": "https://mirrors.ic.unicamp.br/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Bulgaria] 1",
+        "fa": "[Bulgaria] 1"
+      },
+      "url": "http://mirror.telepoint.bg/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Bulgaria] 2",
+        "fa": "[Bulgaria] 2"
+      },
+      "url": "https://mirror.telepoint.bg/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Cambodia] 1",
+        "fa": "[Cambodia] 1"
+      },
+      "url": "http://mirror.sabay.com.kh/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Cambodia] 2",
+        "fa": "[Cambodia] 2"
+      },
+      "url": "https://mirror.sabay.com.kh/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Canada] 1",
+        "fa": "[Canada] 1"
+      },
+      "url": "http://mirror.0xem.ma/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Canada] 2",
+        "fa": "[Canada] 2"
+      },
+      "url": "https://mirror.0xem.ma/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Canada] 3",
+        "fa": "[Canada] 3"
+      },
+      "url": "https://arch.mirror.winslow.cloud/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Canada] 4",
+        "fa": "[Canada] 4"
+      },
+      "url": "http://ca.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Canada] 5",
+        "fa": "[Canada] 5"
+      },
+      "url": "https://ca.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Canada] 6",
+        "fa": "[Canada] 6"
+      },
+      "url": "http://mirror.csclub.uwaterloo.ca/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Canada] 7",
+        "fa": "[Canada] 7"
+      },
+      "url": "https://mirror.csclub.uwaterloo.ca/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Canada] 8",
+        "fa": "[Canada] 8"
+      },
+      "url": "http://mirror2.evolution-host.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Canada] 9",
+        "fa": "[Canada] 9"
+      },
+      "url": "https://mirror2.evolution-host.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Canada] 10",
+        "fa": "[Canada] 10"
+      },
+      "url": "https://stygian.failzero.net/mirror/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Canada] 11",
+        "fa": "[Canada] 11"
+      },
+      "url": "https://ca.mirrors.mk/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Canada] 12",
+        "fa": "[Canada] 12"
+      },
+      "url": "http://muug.ca/mirror/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Canada] 13",
+        "fa": "[Canada] 13"
+      },
+      "url": "https://muug.ca/mirror/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Canada] 14",
+        "fa": "[Canada] 14"
+      },
+      "url": "http://mirrors.pablonara.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Canada] 15",
+        "fa": "[Canada] 15"
+      },
+      "url": "https://mirrors.pablonara.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Canada] 16",
+        "fa": "[Canada] 16"
+      },
+      "url": "https://upstream-1.pablonara.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Canada] 17",
+        "fa": "[Canada] 17"
+      },
+      "url": "http://archlinux.mirror.rafal.ca/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Canada] 18",
+        "fa": "[Canada] 18"
+      },
+      "url": "http://mirror.xenyth.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Canada] 19",
+        "fa": "[Canada] 19"
+      },
+      "url": "https://mirror.xenyth.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Chile] 1",
+        "fa": "[Chile] 1"
+      },
+      "url": "http://elmirror.cl/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Chile] 2",
+        "fa": "[Chile] 2"
+      },
+      "url": "https://elmirror.cl/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Chile] 3",
+        "fa": "[Chile] 3"
+      },
+      "url": "http://mirror.hnd.cl/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Chile] 4",
+        "fa": "[Chile] 4"
+      },
+      "url": "https://mirror.hnd.cl/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 1",
+        "fa": "[China] 1"
+      },
+      "url": "http://mirrors.bfsu.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 2",
+        "fa": "[China] 2"
+      },
+      "url": "https://mirrors.bfsu.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 3",
+        "fa": "[China] 3"
+      },
+      "url": "http://mirrors.cqu.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 4",
+        "fa": "[China] 4"
+      },
+      "url": "https://mirrors.cqu.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 5",
+        "fa": "[China] 5"
+      },
+      "url": "http://mirrors.hit.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 6",
+        "fa": "[China] 6"
+      },
+      "url": "https://mirrors.hit.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 7",
+        "fa": "[China] 7"
+      },
+      "url": "http://mirrors.hust.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 8",
+        "fa": "[China] 8"
+      },
+      "url": "https://mirrors.hust.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 9",
+        "fa": "[China] 9"
+      },
+      "url": "http://mirrors.jcut.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 10",
+        "fa": "[China] 10"
+      },
+      "url": "https://mirrors.jcut.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 11",
+        "fa": "[China] 11"
+      },
+      "url": "http://mirrors.jlu.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 12",
+        "fa": "[China] 12"
+      },
+      "url": "https://mirrors.jlu.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 13",
+        "fa": "[China] 13"
+      },
+      "url": "http://mirrors.jxust.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 14",
+        "fa": "[China] 14"
+      },
+      "url": "https://mirrors.jxust.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 15",
+        "fa": "[China] 15"
+      },
+      "url": "http://mirror.lzu.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 16",
+        "fa": "[China] 16"
+      },
+      "url": "http://mirrors.neusoft.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 17",
+        "fa": "[China] 17"
+      },
+      "url": "https://mirrors.neusoft.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 18",
+        "fa": "[China] 18"
+      },
+      "url": "http://mirrors.nju.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 19",
+        "fa": "[China] 19"
+      },
+      "url": "https://mirrors.nju.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 20",
+        "fa": "[China] 20"
+      },
+      "url": "http://mirror.nyist.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 21",
+        "fa": "[China] 21"
+      },
+      "url": "https://mirror.nyist.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 22",
+        "fa": "[China] 22"
+      },
+      "url": "https://mirrors.qlu.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 23",
+        "fa": "[China] 23"
+      },
+      "url": "https://mirrors.sjtug.sjtu.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 24",
+        "fa": "[China] 24"
+      },
+      "url": "http://mirrors.tuna.tsinghua.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 25",
+        "fa": "[China] 25"
+      },
+      "url": "https://mirrors.tuna.tsinghua.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 26",
+        "fa": "[China] 26"
+      },
+      "url": "http://mirrors.ustc.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 27",
+        "fa": "[China] 27"
+      },
+      "url": "https://mirrors.ustc.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 28",
+        "fa": "[China] 28"
+      },
+      "url": "http://mirrors.wsyu.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 29",
+        "fa": "[China] 29"
+      },
+      "url": "https://mirrors.wsyu.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[China] 30",
+        "fa": "[China] 30"
+      },
+      "url": "http://mirrors.zju.edu.cn/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Colombia] 1",
+        "fa": "[Colombia] 1"
+      },
+      "url": "http://mirrors.atlas.net.co/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Colombia] 2",
+        "fa": "[Colombia] 2"
+      },
+      "url": "https://mirrors.atlas.net.co/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Colombia] 3",
+        "fa": "[Colombia] 3"
+      },
+      "url": "http://edgeuno-bog2.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Colombia] 4",
+        "fa": "[Colombia] 4"
+      },
+      "url": "https://edgeuno-bog2.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Czechia] 1",
+        "fa": "[Czechia] 1"
+      },
+      "url": "http://mirror.dkm.cz/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Czechia] 2",
+        "fa": "[Czechia] 2"
+      },
+      "url": "https://mirror.dkm.cz/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Czechia] 3",
+        "fa": "[Czechia] 3"
+      },
+      "url": "http://ftp.fi.muni.cz/pub/linux/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Czechia] 4",
+        "fa": "[Czechia] 4"
+      },
+      "url": "http://ftp.linux.cz/pub/linux/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Czechia] 5",
+        "fa": "[Czechia] 5"
+      },
+      "url": "http://gluttony.sin.cvut.cz/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Czechia] 6",
+        "fa": "[Czechia] 6"
+      },
+      "url": "https://gluttony.sin.cvut.cz/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Czechia] 7",
+        "fa": "[Czechia] 7"
+      },
+      "url": "http://mirror.it4i.cz/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Czechia] 8",
+        "fa": "[Czechia] 8"
+      },
+      "url": "https://mirror.it4i.cz/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Czechia] 9",
+        "fa": "[Czechia] 9"
+      },
+      "url": "http://archlinux.nic.cz/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Czechia] 10",
+        "fa": "[Czechia] 10"
+      },
+      "url": "https://archlinux.nic.cz/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Czechia] 11",
+        "fa": "[Czechia] 11"
+      },
+      "url": "http://ftp.sh.cvut.cz/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Czechia] 12",
+        "fa": "[Czechia] 12"
+      },
+      "url": "https://ftp.sh.cvut.cz/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Czechia] 13",
+        "fa": "[Czechia] 13"
+      },
+      "url": "http://mirror.vpsfree.cz/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Denmark] 1",
+        "fa": "[Denmark] 1"
+      },
+      "url": "http://mirrors.dotsrc.org/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Denmark] 2",
+        "fa": "[Denmark] 2"
+      },
+      "url": "https://mirrors.dotsrc.org/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Denmark] 3",
+        "fa": "[Denmark] 3"
+      },
+      "url": "http://mirror.group.one/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Denmark] 4",
+        "fa": "[Denmark] 4"
+      },
+      "url": "https://mirror.group.one/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Denmark] 5",
+        "fa": "[Denmark] 5"
+      },
+      "url": "https://mirror.it-privat.dk/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Ecuador] 1",
+        "fa": "[Ecuador] 1"
+      },
+      "url": "http://mirror.cedia.org.ec/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Estonia] 1",
+        "fa": "[Estonia] 1"
+      },
+      "url": "http://mirror.cspacehostings.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Estonia] 2",
+        "fa": "[Estonia] 2"
+      },
+      "url": "https://mirror.cspacehostings.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Estonia] 3",
+        "fa": "[Estonia] 3"
+      },
+      "url": "http://repo.br.ee/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Estonia] 4",
+        "fa": "[Estonia] 4"
+      },
+      "url": "https://repo.br.ee/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Estonia] 5",
+        "fa": "[Estonia] 5"
+      },
+      "url": "http://mirrors.xtom.ee/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Estonia] 6",
+        "fa": "[Estonia] 6"
+      },
+      "url": "https://mirrors.xtom.ee/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Finland] 1",
+        "fa": "[Finland] 1"
+      },
+      "url": "https://archlinux.doridian.net/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Finland] 2",
+        "fa": "[Finland] 2"
+      },
+      "url": "http://cdnmirror.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Finland] 3",
+        "fa": "[Finland] 3"
+      },
+      "url": "https://cdnmirror.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Finland] 4",
+        "fa": "[Finland] 4"
+      },
+      "url": "https://mirror.falcao.org/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Finland] 5",
+        "fa": "[Finland] 5"
+      },
+      "url": "http://arch.mirror.far.fi/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Finland] 6",
+        "fa": "[Finland] 6"
+      },
+      "url": "http://mirror.5i.fi/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Finland] 7",
+        "fa": "[Finland] 7"
+      },
+      "url": "https://mirror.5i.fi/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Finland] 8",
+        "fa": "[Finland] 8"
+      },
+      "url": "https://mirror.srv.fail/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Finland] 9",
+        "fa": "[Finland] 9"
+      },
+      "url": "http://mirror.wuki.li/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Finland] 10",
+        "fa": "[Finland] 10"
+      },
+      "url": "https://mirror.wuki.li/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Finland] 11",
+        "fa": "[Finland] 11"
+      },
+      "url": "http://arch.yhtez.xyz/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Finland] 12",
+        "fa": "[Finland] 12"
+      },
+      "url": "https://arch.yhtez.xyz/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 1",
+        "fa": "[France] 1"
+      },
+      "url": "http://mirror.archlinux.ikoula.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 2",
+        "fa": "[France] 2"
+      },
+      "url": "http://mirror.bakertelekom.fr/Arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 3",
+        "fa": "[France] 3"
+      },
+      "url": "https://mirror.bakertelekom.fr/Arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 4",
+        "fa": "[France] 4"
+      },
+      "url": "http://mirror.fr.cdn-perfprod.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 5",
+        "fa": "[France] 5"
+      },
+      "url": "https://mirror.fr.cdn-perfprod.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 6",
+        "fa": "[France] 6"
+      },
+      "url": "http://fr.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 7",
+        "fa": "[France] 7"
+      },
+      "url": "https://fr.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 8",
+        "fa": "[France] 8"
+      },
+      "url": "https://mirror.cosmiclinux.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 9",
+        "fa": "[France] 9"
+      },
+      "url": "http://mirror.cyberbits.eu/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 10",
+        "fa": "[France] 10"
+      },
+      "url": "https://mirror.cyberbits.eu/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 11",
+        "fa": "[France] 11"
+      },
+      "url": "http://archlinux.datagr.am/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 12",
+        "fa": "[France] 12"
+      },
+      "url": "http://mirrors.gandi.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 13",
+        "fa": "[France] 13"
+      },
+      "url": "https://mirrors.gandi.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 14",
+        "fa": "[France] 14"
+      },
+      "url": "http://mirror.its-tps.fr/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 15",
+        "fa": "[France] 15"
+      },
+      "url": "https://mirror.its-tps.fr/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 16",
+        "fa": "[France] 16"
+      },
+      "url": "https://mirrors.jtremesay.org/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 17",
+        "fa": "[France] 17"
+      },
+      "url": "http://mirror.lastmikoi.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 18",
+        "fa": "[France] 18"
+      },
+      "url": "http://archlinux.mailtunnel.eu/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 19",
+        "fa": "[France] 19"
+      },
+      "url": "https://archlinux.mailtunnel.eu/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 20",
+        "fa": "[France] 20"
+      },
+      "url": "http://f.matthieul.dev/mirror/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 21",
+        "fa": "[France] 21"
+      },
+      "url": "https://f.matthieul.dev/mirror/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 22",
+        "fa": "[France] 22"
+      },
+      "url": "http://mir.archlinux.fr/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 23",
+        "fa": "[France] 23"
+      },
+      "url": "http://mirror.oldsql.cc/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 24",
+        "fa": "[France] 24"
+      },
+      "url": "https://mirror.oldsql.cc/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 25",
+        "fa": "[France] 25"
+      },
+      "url": "http://mirror.peeres-telecom.fr/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 26",
+        "fa": "[France] 26"
+      },
+      "url": "https://mirror.peeres-telecom.fr/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 27",
+        "fa": "[France] 27"
+      },
+      "url": "http://mirror.rznet.fr/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 28",
+        "fa": "[France] 28"
+      },
+      "url": "https://mirror.rznet.fr/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 29",
+        "fa": "[France] 29"
+      },
+      "url": "http://arch.syxpi.fr/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 30",
+        "fa": "[France] 30"
+      },
+      "url": "https://arch.syxpi.fr/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 31",
+        "fa": "[France] 31"
+      },
+      "url": "http://mirror.theo546.fr/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 32",
+        "fa": "[France] 32"
+      },
+      "url": "https://mirror.theo546.fr/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 33",
+        "fa": "[France] 33"
+      },
+      "url": "http://mirror.trap.moe/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 34",
+        "fa": "[France] 34"
+      },
+      "url": "https://mirror.trap.moe/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 35",
+        "fa": "[France] 35"
+      },
+      "url": "http://ftp.u-strasbg.fr/linux/distributions/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 36",
+        "fa": "[France] 36"
+      },
+      "url": "https://ftp.u-strasbg.fr/linux/distributions/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[France] 37",
+        "fa": "[France] 37"
+      },
+      "url": "https://mirror.wormhole.eu/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 1",
+        "fa": "[Germany] 1"
+      },
+      "url": "http://mirror.23m.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 2",
+        "fa": "[Germany] 2"
+      },
+      "url": "https://mirror.23m.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 3",
+        "fa": "[Germany] 3"
+      },
+      "url": "http://ftp.agdsn.de/pub/mirrors/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 4",
+        "fa": "[Germany] 4"
+      },
+      "url": "https://ftp.agdsn.de/pub/mirrors/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 5",
+        "fa": "[Germany] 5"
+      },
+      "url": "http://mirrors.aminvakil.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 6",
+        "fa": "[Germany] 6"
+      },
+      "url": "https://mirrors.aminvakil.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 7",
+        "fa": "[Germany] 7"
+      },
+      "url": "http://artfiles.org/archlinux.org/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 8",
+        "fa": "[Germany] 8"
+      },
+      "url": "https://mirror.bethselamin.de/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 9",
+        "fa": "[Germany] 9"
+      },
+      "url": "https://de.repo.c48.uk/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 10",
+        "fa": "[Germany] 10"
+      },
+      "url": "http://de.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 11",
+        "fa": "[Germany] 11"
+      },
+      "url": "https://de.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 12",
+        "fa": "[Germany] 12"
+      },
+      "url": "http://os.codefionn.eu/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 13",
+        "fa": "[Germany] 13"
+      },
+      "url": "https://os.codefionn.eu/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 14",
+        "fa": "[Germany] 14"
+      },
+      "url": "http://mirror.diyarciftci.xyz/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 15",
+        "fa": "[Germany] 15"
+      },
+      "url": "https://mirror.diyarciftci.xyz/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 16",
+        "fa": "[Germany] 16"
+      },
+      "url": "https://mirror.dogado.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 17",
+        "fa": "[Germany] 17"
+      },
+      "url": "http://ftp.fau.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 18",
+        "fa": "[Germany] 18"
+      },
+      "url": "https://ftp.fau.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 19",
+        "fa": "[Germany] 19"
+      },
+      "url": "https://pkg.fef.moe/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 20",
+        "fa": "[Germany] 20"
+      },
+      "url": "https://dist-mirror.fem.tu-ilmenau.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 21",
+        "fa": "[Germany] 21"
+      },
+      "url": "http://mirrors.foxmire.space/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 22",
+        "fa": "[Germany] 22"
+      },
+      "url": "https://mirrors.foxmire.space/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 23",
+        "fa": "[Germany] 23"
+      },
+      "url": "https://berlin.mirror.pkgbuild.com/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 24",
+        "fa": "[Germany] 24"
+      },
+      "url": "https://frankfurt.mirror.pkgbuild.com/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 25",
+        "fa": "[Germany] 25"
+      },
+      "url": "http://ftp.gwdg.de/pub/linux/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 26",
+        "fa": "[Germany] 26"
+      },
+      "url": "https://files.hadiko.de/pub/dists/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 27",
+        "fa": "[Germany] 27"
+      },
+      "url": "http://ftp.hosteurope.de/mirror/ftp.archlinux.org/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 28",
+        "fa": "[Germany] 28"
+      },
+      "url": "http://ftp-stud.hs-esslingen.de/pub/Mirrors/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 29",
+        "fa": "[Germany] 29"
+      },
+      "url": "http://mirror.hugo-betrugo.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 30",
+        "fa": "[Germany] 30"
+      },
+      "url": "https://mirror.hugo-betrugo.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 31",
+        "fa": "[Germany] 31"
+      },
+      "url": "http://mirror.as20647.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 32",
+        "fa": "[Germany] 32"
+      },
+      "url": "http://mirror.ipb.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 33",
+        "fa": "[Germany] 33"
+      },
+      "url": "https://mirror.as20647.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 34",
+        "fa": "[Germany] 34"
+      },
+      "url": "https://mirror.ipb.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 35",
+        "fa": "[Germany] 35"
+      },
+      "url": "http://archlinux.mirror.iphh.net/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 36",
+        "fa": "[Germany] 36"
+      },
+      "url": "http://mirrors.janbruckner.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 37",
+        "fa": "[Germany] 37"
+      },
+      "url": "https://mirrors.janbruckner.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 38",
+        "fa": "[Germany] 38"
+      },
+      "url": "http://arch.jensgutermuth.de/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 39",
+        "fa": "[Germany] 39"
+      },
+      "url": "https://arch.jensgutermuth.de/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 40",
+        "fa": "[Germany] 40"
+      },
+      "url": "https://de.arch.mirror.kescher.at/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 41",
+        "fa": "[Germany] 41"
+      },
+      "url": "http://mirror.kumi.systems/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 42",
+        "fa": "[Germany] 42"
+      },
+      "url": "https://mirror.kumi.systems/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 43",
+        "fa": "[Germany] 43"
+      },
+      "url": "http://mirror.fra10.de.leaseweb.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 44",
+        "fa": "[Germany] 44"
+      },
+      "url": "https://mirror.fra10.de.leaseweb.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 45",
+        "fa": "[Germany] 45"
+      },
+      "url": "http://arch.ljkx.org/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 46",
+        "fa": "[Germany] 46"
+      },
+      "url": "https://arch.ljkx.org/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 47",
+        "fa": "[Germany] 47"
+      },
+      "url": "http://mirror.metalgamer.eu/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 48",
+        "fa": "[Germany] 48"
+      },
+      "url": "https://mirror.metalgamer.eu/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 49",
+        "fa": "[Germany] 49"
+      },
+      "url": "http://mirror.lcarilla.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 50",
+        "fa": "[Germany] 50"
+      },
+      "url": "https://mirror.lcarilla.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 51",
+        "fa": "[Germany] 51"
+      },
+      "url": "https://de.mirrors.mk/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 52",
+        "fa": "[Germany] 52"
+      },
+      "url": "http://mirror.moson.org/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 53",
+        "fa": "[Germany] 53"
+      },
+      "url": "https://mirror.moson.org/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 54",
+        "fa": "[Germany] 54"
+      },
+      "url": "http://mirrors.n-ix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 55",
+        "fa": "[Germany] 55"
+      },
+      "url": "https://mirrors.n-ix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 56",
+        "fa": "[Germany] 56"
+      },
+      "url": "http://mirror.netcologne.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 57",
+        "fa": "[Germany] 57"
+      },
+      "url": "https://mirror.netcologne.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 58",
+        "fa": "[Germany] 58"
+      },
+      "url": "https://de.arch.niranjan.co/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 59",
+        "fa": "[Germany] 59"
+      },
+      "url": "http://mirrors.niyawe.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 60",
+        "fa": "[Germany] 60"
+      },
+      "url": "https://mirrors.niyawe.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 61",
+        "fa": "[Germany] 61"
+      },
+      "url": "http://packages.oth-regensburg.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 62",
+        "fa": "[Germany] 62"
+      },
+      "url": "https://packages.oth-regensburg.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 63",
+        "fa": "[Germany] 63"
+      },
+      "url": "http://mirror.pagenotfound.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 64",
+        "fa": "[Germany] 64"
+      },
+      "url": "https://mirror.pagenotfound.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 65",
+        "fa": "[Germany] 65"
+      },
+      "url": "http://arch.phinau.de/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 66",
+        "fa": "[Germany] 66"
+      },
+      "url": "https://arch.phinau.de/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 67",
+        "fa": "[Germany] 67"
+      },
+      "url": "https://mirror.pseudoform.org/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 68",
+        "fa": "[Germany] 68"
+      },
+      "url": "https://archlinux.richard-neumann.de/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 69",
+        "fa": "[Germany] 69"
+      },
+      "url": "http://archlinux.roshak.xyz/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 70",
+        "fa": "[Germany] 70"
+      },
+      "url": "https://archlinux.roshak.xyz/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 71",
+        "fa": "[Germany] 71"
+      },
+      "url": "http://ftp.halifax.rwth-aachen.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 72",
+        "fa": "[Germany] 72"
+      },
+      "url": "https://ftp.halifax.rwth-aachen.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 73",
+        "fa": "[Germany] 73"
+      },
+      "url": "http://linux.rz.rub.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 74",
+        "fa": "[Germany] 74"
+      },
+      "url": "http://mirror.selfnet.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 75",
+        "fa": "[Germany] 75"
+      },
+      "url": "https://mirror.selfnet.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 76",
+        "fa": "[Germany] 76"
+      },
+      "url": "http://de.mirror.shibe.party/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 77",
+        "fa": "[Germany] 77"
+      },
+      "url": "https://de.mirror.shibe.party/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 78",
+        "fa": "[Germany] 78"
+      },
+      "url": "https://de-nue.soulharsh007.dev/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 79",
+        "fa": "[Germany] 79"
+      },
+      "url": "http://ftp.spline.inf.fu-berlin.de/mirrors/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 80",
+        "fa": "[Germany] 80"
+      },
+      "url": "https://ftp.spline.inf.fu-berlin.de/mirrors/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 81",
+        "fa": "[Germany] 81"
+      },
+      "url": "http://mirror.sunred.org/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 82",
+        "fa": "[Germany] 82"
+      },
+      "url": "https://mirror.sunred.org/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 83",
+        "fa": "[Germany] 83"
+      },
+      "url": "http://archlinux.thaller.ws/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 84",
+        "fa": "[Germany] 84"
+      },
+      "url": "https://archlinux.thaller.ws/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 85",
+        "fa": "[Germany] 85"
+      },
+      "url": "http://arch.mirror.cloud.thatcyberlynx.de/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 86",
+        "fa": "[Germany] 86"
+      },
+      "url": "https://arch.mirror.cloud.thatcyberlynx.de/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 87",
+        "fa": "[Germany] 87"
+      },
+      "url": "http://ftp.tu-chemnitz.de/pub/linux/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 88",
+        "fa": "[Germany] 88"
+      },
+      "url": "https://ftp.tu-chemnitz.de/pub/linux/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 89",
+        "fa": "[Germany] 89"
+      },
+      "url": "http://mirror.ubrco.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 90",
+        "fa": "[Germany] 90"
+      },
+      "url": "https://mirror.ubrco.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 91",
+        "fa": "[Germany] 91"
+      },
+      "url": "http://ftp.uni-kl.de/pub/linux/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 92",
+        "fa": "[Germany] 92"
+      },
+      "url": "http://mirror.wtnet.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 93",
+        "fa": "[Germany] 93"
+      },
+      "url": "https://mirror.wtnet.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 94",
+        "fa": "[Germany] 94"
+      },
+      "url": "http://mirrors.xtom.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Germany] 95",
+        "fa": "[Germany] 95"
+      },
+      "url": "https://mirrors.xtom.de/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Greece] 1",
+        "fa": "[Greece] 1"
+      },
+      "url": "http://ftp.cc.uoc.gr/mirrors/linux/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Greece] 2",
+        "fa": "[Greece] 2"
+      },
+      "url": "http://ftp.otenet.gr/linux/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Hong Kong] 1",
+        "fa": "[Hong Kong] 1"
+      },
+      "url": "https://hk.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Hong Kong] 2",
+        "fa": "[Hong Kong] 2"
+      },
+      "url": "http://mirror-hk.koddos.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Hong Kong] 3",
+        "fa": "[Hong Kong] 3"
+      },
+      "url": "https://mirror-hk.koddos.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Hong Kong] 4",
+        "fa": "[Hong Kong] 4"
+      },
+      "url": "https://arch-mirror.wtako.net/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Hong Kong] 5",
+        "fa": "[Hong Kong] 5"
+      },
+      "url": "http://mirror.xtom.com.hk/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Hong Kong] 6",
+        "fa": "[Hong Kong] 6"
+      },
+      "url": "https://mirror.xtom.com.hk/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Hungary] 1",
+        "fa": "[Hungary] 1"
+      },
+      "url": "http://hu.mirror.frigyes.dev/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Hungary] 2",
+        "fa": "[Hungary] 2"
+      },
+      "url": "https://hu.mirror.frigyes.dev/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Iceland] 1",
+        "fa": "[Iceland] 1"
+      },
+      "url": "http://is.mirror.flokinet.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Iceland] 2",
+        "fa": "[Iceland] 2"
+      },
+      "url": "https://is.mirror.flokinet.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[India] 1",
+        "fa": "[India] 1"
+      },
+      "url": "http://mirror.4v1.in/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[India] 2",
+        "fa": "[India] 2"
+      },
+      "url": "https://mirror.4v1.in/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[India] 3",
+        "fa": "[India] 3"
+      },
+      "url": "https://mirrors.abhy.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[India] 4",
+        "fa": "[India] 4"
+      },
+      "url": "https://mirror.bom.kat.cx/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[India] 5",
+        "fa": "[India] 5"
+      },
+      "url": "http://in.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[India] 6",
+        "fa": "[India] 6"
+      },
+      "url": "https://in.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[India] 7",
+        "fa": "[India] 7"
+      },
+      "url": "https://archlinux.mirror.ikr.me/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[India] 8",
+        "fa": "[India] 8"
+      },
+      "url": "https://in.arch.niranjan.co/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[India] 9",
+        "fa": "[India] 9"
+      },
+      "url": "http://mirror.sahil.world/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[India] 10",
+        "fa": "[India] 10"
+      },
+      "url": "https://mirror.sahil.world/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Indonesia] 1",
+        "fa": "[Indonesia] 1"
+      },
+      "url": "http://mirror.gi.co.id/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Indonesia] 2",
+        "fa": "[Indonesia] 2"
+      },
+      "url": "https://mirror.gi.co.id/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Indonesia] 3",
+        "fa": "[Indonesia] 3"
+      },
+      "url": "http://kebo.pens.ac.id/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Indonesia] 4",
+        "fa": "[Indonesia] 4"
+      },
+      "url": "http://mirror.papua.go.id/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Indonesia] 5",
+        "fa": "[Indonesia] 5"
+      },
+      "url": "https://mirror.papua.go.id/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Indonesia] 6",
+        "fa": "[Indonesia] 6"
+      },
+      "url": "http://mirror.repository.id/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Indonesia] 7",
+        "fa": "[Indonesia] 7"
+      },
+      "url": "https://mirror.repository.id/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Iran] 1",
+        "fa": "[Iran] 1"
+      },
+      "url": "http://mirror.mobinhost.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Iran] 2",
+        "fa": "[Iran] 2"
+      },
+      "url": "https://mirror.mobinhost.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Israel] 1",
+        "fa": "[Israel] 1"
+      },
+      "url": "http://mirror.isoc.org.il/pub/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Israel] 2",
+        "fa": "[Israel] 2"
+      },
+      "url": "https://mirror.isoc.org.il/pub/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Italy] 1",
+        "fa": "[Italy] 1"
+      },
+      "url": "http://it.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Italy] 2",
+        "fa": "[Italy] 2"
+      },
+      "url": "https://it.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Italy] 3",
+        "fa": "[Italy] 3"
+      },
+      "url": "http://archlinux.mirror.garr.it/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Italy] 4",
+        "fa": "[Italy] 4"
+      },
+      "url": "http://archlinux.mirror.server24.net/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Italy] 5",
+        "fa": "[Italy] 5"
+      },
+      "url": "https://archlinux.mirror.server24.net/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Japan] 1",
+        "fa": "[Japan] 1"
+      },
+      "url": "http://mirror.aria-on-the-planet.es/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Japan] 2",
+        "fa": "[Japan] 2"
+      },
+      "url": "https://mirror.aria-on-the-planet.es/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Japan] 3",
+        "fa": "[Japan] 3"
+      },
+      "url": "http://mirrors.cat.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Japan] 4",
+        "fa": "[Japan] 4"
+      },
+      "url": "https://mirrors.cat.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Japan] 5",
+        "fa": "[Japan] 5"
+      },
+      "url": "http://jp.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Japan] 6",
+        "fa": "[Japan] 6"
+      },
+      "url": "https://jp.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Japan] 7",
+        "fa": "[Japan] 7"
+      },
+      "url": "http://ftp.tsukuba.wide.ad.jp/Linux/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Japan] 8",
+        "fa": "[Japan] 8"
+      },
+      "url": "http://mirror.hashy0917.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Japan] 9",
+        "fa": "[Japan] 9"
+      },
+      "url": "https://mirror.hashy0917.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Japan] 10",
+        "fa": "[Japan] 10"
+      },
+      "url": "http://ftp.jaist.ac.jp/pub/Linux/ArchLinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Japan] 11",
+        "fa": "[Japan] 11"
+      },
+      "url": "https://ftp.jaist.ac.jp/pub/Linux/ArchLinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Japan] 12",
+        "fa": "[Japan] 12"
+      },
+      "url": "http://www.miraa.jp/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Japan] 13",
+        "fa": "[Japan] 13"
+      },
+      "url": "https://www.miraa.jp/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Japan] 14",
+        "fa": "[Japan] 14"
+      },
+      "url": "http://ftp.yz.yamagata-u.ac.jp/pub/linux/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Japan] 15",
+        "fa": "[Japan] 15"
+      },
+      "url": "https://ftp.yz.yamagata-u.ac.jp/pub/linux/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Kazakhstan] 1",
+        "fa": "[Kazakhstan] 1"
+      },
+      "url": "http://mirror.linxhost.ru/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Kazakhstan] 2",
+        "fa": "[Kazakhstan] 2"
+      },
+      "url": "http://mirror.ps.kz/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Kazakhstan] 3",
+        "fa": "[Kazakhstan] 3"
+      },
+      "url": "https://mirror.ps.kz/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Kenya] 1",
+        "fa": "[Kenya] 1"
+      },
+      "url": "http://archlinux.mirror.liquidtelecom.com/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Kenya] 2",
+        "fa": "[Kenya] 2"
+      },
+      "url": "https://archlinux.mirror.liquidtelecom.com/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Latvia] 1",
+        "fa": "[Latvia] 1"
+      },
+      "url": "http://ftp.linux.edu.lv/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Latvia] 2",
+        "fa": "[Latvia] 2"
+      },
+      "url": "https://ftp.linux.edu.lv/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Latvia] 3",
+        "fa": "[Latvia] 3"
+      },
+      "url": "http://archlinux.koyanet.lv/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Latvia] 4",
+        "fa": "[Latvia] 4"
+      },
+      "url": "https://archlinux.koyanet.lv/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Luxembourg] 1",
+        "fa": "[Luxembourg] 1"
+      },
+      "url": "http://arch-lux.spirex.me/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Luxembourg] 2",
+        "fa": "[Luxembourg] 2"
+      },
+      "url": "https://arch-lux.spirex.me/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Luxembourg] 3",
+        "fa": "[Luxembourg] 3"
+      },
+      "url": "http://mirror.lu.stratonexus.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Luxembourg] 4",
+        "fa": "[Luxembourg] 4"
+      },
+      "url": "https://mirror.lu.stratonexus.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Mexico] 1",
+        "fa": "[Mexico] 1"
+      },
+      "url": "https://arch.jsc.mx/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Moldova] 1",
+        "fa": "[Moldova] 1"
+      },
+      "url": "http://md.mirrors.hacktegic.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Moldova] 2",
+        "fa": "[Moldova] 2"
+      },
+      "url": "https://md.mirrors.hacktegic.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 1",
+        "fa": "[Netherlands] 1"
+      },
+      "url": "http://mirror.bouwhuis.network/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 2",
+        "fa": "[Netherlands] 2"
+      },
+      "url": "https://mirror.bouwhuis.network/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 3",
+        "fa": "[Netherlands] 3"
+      },
+      "url": "http://mirror.nl.cdn-perfprod.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 4",
+        "fa": "[Netherlands] 4"
+      },
+      "url": "https://mirror.nl.cdn-perfprod.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 5",
+        "fa": "[Netherlands] 5"
+      },
+      "url": "http://nl.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 6",
+        "fa": "[Netherlands] 6"
+      },
+      "url": "https://nl.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 7",
+        "fa": "[Netherlands] 7"
+      },
+      "url": "http://mirror.cj2.nl/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 8",
+        "fa": "[Netherlands] 8"
+      },
+      "url": "https://mirror.cj2.nl/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 9",
+        "fa": "[Netherlands] 9"
+      },
+      "url": "http://nl.mirror.flokinet.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 10",
+        "fa": "[Netherlands] 10"
+      },
+      "url": "https://nl.mirror.flokinet.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 11",
+        "fa": "[Netherlands] 11"
+      },
+      "url": "http://mirror.koddos.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 12",
+        "fa": "[Netherlands] 12"
+      },
+      "url": "https://mirror.koddos.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 13",
+        "fa": "[Netherlands] 13"
+      },
+      "url": "http://mirror.ams1.nl.leaseweb.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 14",
+        "fa": "[Netherlands] 14"
+      },
+      "url": "https://mirror.ams1.nl.leaseweb.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 15",
+        "fa": "[Netherlands] 15"
+      },
+      "url": "http://archlinux.mirror.liteserver.nl/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 16",
+        "fa": "[Netherlands] 16"
+      },
+      "url": "https://archlinux.mirror.liteserver.nl/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 17",
+        "fa": "[Netherlands] 17"
+      },
+      "url": "http://nl.mirror.cx/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 18",
+        "fa": "[Netherlands] 18"
+      },
+      "url": "https://nl.mirror.cx/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 19",
+        "fa": "[Netherlands] 19"
+      },
+      "url": "https://nl.mirrors.mk/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 20",
+        "fa": "[Netherlands] 20"
+      },
+      "url": "https://nl.arch.niranjan.co/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 21",
+        "fa": "[Netherlands] 21"
+      },
+      "url": "http://ftp.nluug.nl/os/Linux/distr/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 22",
+        "fa": "[Netherlands] 22"
+      },
+      "url": "http://mirror.nyaa.vc/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 23",
+        "fa": "[Netherlands] 23"
+      },
+      "url": "https://mirror.nyaa.vc/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 24",
+        "fa": "[Netherlands] 24"
+      },
+      "url": "http://ftp.snt.utwente.nl/pub/os/linux/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 25",
+        "fa": "[Netherlands] 25"
+      },
+      "url": "http://archlinux.mirror.wearetriple.com/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 26",
+        "fa": "[Netherlands] 26"
+      },
+      "url": "https://archlinux.mirror.wearetriple.com/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 27",
+        "fa": "[Netherlands] 27"
+      },
+      "url": "http://mirrors.xtom.nl/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Netherlands] 28",
+        "fa": "[Netherlands] 28"
+      },
+      "url": "https://mirrors.xtom.nl/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[New Caledonia] 1",
+        "fa": "[New Caledonia] 1"
+      },
+      "url": "http://mirror.lagoon.nc/pub/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[New Caledonia] 2",
+        "fa": "[New Caledonia] 2"
+      },
+      "url": "http://archlinux.nautile.nc/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[New Caledonia] 3",
+        "fa": "[New Caledonia] 3"
+      },
+      "url": "https://archlinux.nautile.nc/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[New Zealand] 1",
+        "fa": "[New Zealand] 1"
+      },
+      "url": "http://mirror.2degrees.nz/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[New Zealand] 2",
+        "fa": "[New Zealand] 2"
+      },
+      "url": "https://mirror.2degrees.nz/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[New Zealand] 3",
+        "fa": "[New Zealand] 3"
+      },
+      "url": "http://mirror.fsmg.org.nz/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[New Zealand] 4",
+        "fa": "[New Zealand] 4"
+      },
+      "url": "https://mirror.fsmg.org.nz/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[New Zealand] 5",
+        "fa": "[New Zealand] 5"
+      },
+      "url": "https://nz.arch.niranjan.co/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[New Zealand] 6",
+        "fa": "[New Zealand] 6"
+      },
+      "url": "https://archlinux.ourhome.kiwi/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[North Macedonia] 1",
+        "fa": "[North Macedonia] 1"
+      },
+      "url": "http://mirror.onevip.mk/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Norway] 1",
+        "fa": "[Norway] 1"
+      },
+      "url": "http://mirror.archlinux.no/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Norway] 2",
+        "fa": "[Norway] 2"
+      },
+      "url": "https://mirror.archlinux.no/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Norway] 3",
+        "fa": "[Norway] 3"
+      },
+      "url": "http://archlinux.uib.no/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Norway] 4",
+        "fa": "[Norway] 4"
+      },
+      "url": "http://no.mirror.cx/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Norway] 5",
+        "fa": "[Norway] 5"
+      },
+      "url": "https://no.mirror.cx/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Paraguay] 1",
+        "fa": "[Paraguay] 1"
+      },
+      "url": "http://archlinux.mirror.py/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Poland] 1",
+        "fa": "[Poland] 1"
+      },
+      "url": "http://ftp.icm.edu.pl/pub/Linux/dist/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Poland] 2",
+        "fa": "[Poland] 2"
+      },
+      "url": "https://ftp.icm.edu.pl/pub/Linux/dist/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Poland] 3",
+        "fa": "[Poland] 3"
+      },
+      "url": "http://ftp.psnc.pl/linux/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Poland] 4",
+        "fa": "[Poland] 4"
+      },
+      "url": "https://ftp.psnc.pl/linux/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Poland] 5",
+        "fa": "[Poland] 5"
+      },
+      "url": "http://arch.sakamoto.pl/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Poland] 6",
+        "fa": "[Poland] 6"
+      },
+      "url": "https://arch.sakamoto.pl/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Portugal] 1",
+        "fa": "[Portugal] 1"
+      },
+      "url": "http://mirror.leitecastro.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Portugal] 2",
+        "fa": "[Portugal] 2"
+      },
+      "url": "https://mirror.leitecastro.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Portugal] 3",
+        "fa": "[Portugal] 3"
+      },
+      "url": "http://mirrors.up.pt/pub/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Portugal] 4",
+        "fa": "[Portugal] 4"
+      },
+      "url": "https://mirrors.up.pt/pub/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Portugal] 5",
+        "fa": "[Portugal] 5"
+      },
+      "url": "http://ftp.rnl.tecnico.ulisboa.pt/pub/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Portugal] 6",
+        "fa": "[Portugal] 6"
+      },
+      "url": "https://ftp.rnl.tecnico.ulisboa.pt/pub/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Romania] 1",
+        "fa": "[Romania] 1"
+      },
+      "url": "http://mirrors.chroot.ro/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Romania] 2",
+        "fa": "[Romania] 2"
+      },
+      "url": "https://mirrors.chroot.ro/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Romania] 3",
+        "fa": "[Romania] 3"
+      },
+      "url": "http://mirror.efect.ro/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Romania] 4",
+        "fa": "[Romania] 4"
+      },
+      "url": "https://mirror.efect.ro/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Romania] 5",
+        "fa": "[Romania] 5"
+      },
+      "url": "http://ro.mirror.flokinet.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Romania] 6",
+        "fa": "[Romania] 6"
+      },
+      "url": "https://ro.mirror.flokinet.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Romania] 7",
+        "fa": "[Romania] 7"
+      },
+      "url": "http://mirrors.hosterion.ro/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Romania] 8",
+        "fa": "[Romania] 8"
+      },
+      "url": "https://mirrors.hosterion.ro/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Romania] 9",
+        "fa": "[Romania] 9"
+      },
+      "url": "http://archlinux.mirrors.linux.ro/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Romania] 10",
+        "fa": "[Romania] 10"
+      },
+      "url": "http://mirrors.nav.ro/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Romania] 11",
+        "fa": "[Romania] 11"
+      },
+      "url": "https://ro.arch.niranjan.co/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Romania] 12",
+        "fa": "[Romania] 12"
+      },
+      "url": "http://mirrors.nxthost.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Romania] 13",
+        "fa": "[Romania] 13"
+      },
+      "url": "https://mirrors.nxthost.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Romania] 14",
+        "fa": "[Romania] 14"
+      },
+      "url": "http://mirrors.pidginhost.com/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Romania] 15",
+        "fa": "[Romania] 15"
+      },
+      "url": "https://mirrors.pidginhost.com/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Russia] 1",
+        "fa": "[Russia] 1"
+      },
+      "url": "http://mirror.cachy-arch.ru/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Russia] 2",
+        "fa": "[Russia] 2"
+      },
+      "url": "https://mirror.cachy-arch.ru/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Russia] 3",
+        "fa": "[Russia] 3"
+      },
+      "url": "http://ru.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Russia] 4",
+        "fa": "[Russia] 4"
+      },
+      "url": "https://ru.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Russia] 5",
+        "fa": "[Russia] 5"
+      },
+      "url": "http://web.sketserv.ru/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Russia] 6",
+        "fa": "[Russia] 6"
+      },
+      "url": "https://web.sketserv.ru/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Russia] 7",
+        "fa": "[Russia] 7"
+      },
+      "url": "http://mirror.yandex.ru/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Russia] 8",
+        "fa": "[Russia] 8"
+      },
+      "url": "https://mirror.yandex.ru/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Saudi Arabia] 1",
+        "fa": "[Saudi Arabia] 1"
+      },
+      "url": "http://sa.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Saudi Arabia] 2",
+        "fa": "[Saudi Arabia] 2"
+      },
+      "url": "https://sa.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Serbia] 1",
+        "fa": "[Serbia] 1"
+      },
+      "url": "http://mirror1.sox.rs/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Serbia] 2",
+        "fa": "[Serbia] 2"
+      },
+      "url": "https://mirror1.sox.rs/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Singapore] 1",
+        "fa": "[Singapore] 1"
+      },
+      "url": "http://mirror.aktkn.sg/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Singapore] 2",
+        "fa": "[Singapore] 2"
+      },
+      "url": "https://mirror.aktkn.sg/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Singapore] 3",
+        "fa": "[Singapore] 3"
+      },
+      "url": "http://sg.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Singapore] 4",
+        "fa": "[Singapore] 4"
+      },
+      "url": "https://sg.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Singapore] 5",
+        "fa": "[Singapore] 5"
+      },
+      "url": "http://mirror.freedif.org/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Singapore] 6",
+        "fa": "[Singapore] 6"
+      },
+      "url": "https://mirror.freedif.org/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Singapore] 7",
+        "fa": "[Singapore] 7"
+      },
+      "url": "https://singapore.mirror.pkgbuild.com/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Singapore] 8",
+        "fa": "[Singapore] 8"
+      },
+      "url": "https://sg.arch.niranjan.co/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Slovakia] 1",
+        "fa": "[Slovakia] 1"
+      },
+      "url": "http://ftp.energotel.sk/pub/linux/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Slovakia] 2",
+        "fa": "[Slovakia] 2"
+      },
+      "url": "https://ftp.energotel.sk/pub/linux/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Slovakia] 3",
+        "fa": "[Slovakia] 3"
+      },
+      "url": "http://mirror.lnx.sk/pub/linux/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Slovakia] 4",
+        "fa": "[Slovakia] 4"
+      },
+      "url": "https://mirror.lnx.sk/pub/linux/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Africa] 1",
+        "fa": "[South Africa] 1"
+      },
+      "url": "http://archlinux.za.mirror.allworldit.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Africa] 2",
+        "fa": "[South Africa] 2"
+      },
+      "url": "https://archlinux.za.mirror.allworldit.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Africa] 3",
+        "fa": "[South Africa] 3"
+      },
+      "url": "http://za.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Africa] 4",
+        "fa": "[South Africa] 4"
+      },
+      "url": "https://za.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Africa] 5",
+        "fa": "[South Africa] 5"
+      },
+      "url": "https://johannesburg.mirror.pkgbuild.com/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Africa] 6",
+        "fa": "[South Africa] 6"
+      },
+      "url": "http://mirror.is.co.za/mirror/archlinux.org/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Africa] 7",
+        "fa": "[South Africa] 7"
+      },
+      "url": "http://mirrors.urbanwave.co.za/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Africa] 8",
+        "fa": "[South Africa] 8"
+      },
+      "url": "https://mirrors.urbanwave.co.za/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Korea] 1",
+        "fa": "[South Korea] 1"
+      },
+      "url": "http://kr.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Korea] 2",
+        "fa": "[South Korea] 2"
+      },
+      "url": "https://kr.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Korea] 3",
+        "fa": "[South Korea] 3"
+      },
+      "url": "http://ftp.kaist.ac.kr/ArchLinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Korea] 4",
+        "fa": "[South Korea] 4"
+      },
+      "url": "http://mirror.funami.tech/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Korea] 5",
+        "fa": "[South Korea] 5"
+      },
+      "url": "https://mirror.funami.tech/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Korea] 6",
+        "fa": "[South Korea] 6"
+      },
+      "url": "http://ftp.io.kr/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Korea] 7",
+        "fa": "[South Korea] 7"
+      },
+      "url": "https://ftp.io.kr/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Korea] 8",
+        "fa": "[South Korea] 8"
+      },
+      "url": "http://mirror.keiminem.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Korea] 9",
+        "fa": "[South Korea] 9"
+      },
+      "url": "http://mirror2.keiminem.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Korea] 10",
+        "fa": "[South Korea] 10"
+      },
+      "url": "https://mirror.keiminem.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Korea] 11",
+        "fa": "[South Korea] 11"
+      },
+      "url": "https://mirror2.keiminem.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Korea] 12",
+        "fa": "[South Korea] 12"
+      },
+      "url": "https://mirror.krfoss.org/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Korea] 13",
+        "fa": "[South Korea] 13"
+      },
+      "url": "http://ftp.lanet.kr/pub/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Korea] 14",
+        "fa": "[South Korea] 14"
+      },
+      "url": "https://ftp.lanet.kr/pub/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Korea] 15",
+        "fa": "[South Korea] 15"
+      },
+      "url": "http://mirror.pileus.kr/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Korea] 16",
+        "fa": "[South Korea] 16"
+      },
+      "url": "https://mirror.pileus.kr/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Korea] 17",
+        "fa": "[South Korea] 17"
+      },
+      "url": "http://mirror.techlabs.co.kr/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Korea] 18",
+        "fa": "[South Korea] 18"
+      },
+      "url": "https://mirror.techlabs.co.kr/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Korea] 19",
+        "fa": "[South Korea] 19"
+      },
+      "url": "http://mirror.yuki.net.uk/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[South Korea] 20",
+        "fa": "[South Korea] 20"
+      },
+      "url": "https://mirror.yuki.net.uk/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Spain] 1",
+        "fa": "[Spain] 1"
+      },
+      "url": "http://es.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Spain] 2",
+        "fa": "[Spain] 2"
+      },
+      "url": "https://es.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Spain] 3",
+        "fa": "[Spain] 3"
+      },
+      "url": "http://mirror.raiolanetworks.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Spain] 4",
+        "fa": "[Spain] 4"
+      },
+      "url": "https://mirror.raiolanetworks.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Spain] 5",
+        "fa": "[Spain] 5"
+      },
+      "url": "https://ftp.rediris.es/mirror/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Sweden] 1",
+        "fa": "[Sweden] 1"
+      },
+      "url": "http://mirror.accum.se/mirror/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Sweden] 2",
+        "fa": "[Sweden] 2"
+      },
+      "url": "https://mirror.accum.se/mirror/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Sweden] 3",
+        "fa": "[Sweden] 3"
+      },
+      "url": "https://mirror.braindrainlan.nu/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Sweden] 4",
+        "fa": "[Sweden] 4"
+      },
+      "url": "https://umea.mirror.pkgbuild.com/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Sweden] 5",
+        "fa": "[Sweden] 5"
+      },
+      "url": "http://ftpmirror.infania.net/mirror/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Sweden] 6",
+        "fa": "[Sweden] 6"
+      },
+      "url": "http://ftp.lysator.liu.se/pub/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Sweden] 7",
+        "fa": "[Sweden] 7"
+      },
+      "url": "https://ftp.lysator.liu.se/pub/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Sweden] 8",
+        "fa": "[Sweden] 8"
+      },
+      "url": "http://mirror.bahnhof.net/pub/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Sweden] 9",
+        "fa": "[Sweden] 9"
+      },
+      "url": "https://mirror.bahnhof.net/pub/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Sweden] 10",
+        "fa": "[Sweden] 10"
+      },
+      "url": "http://ftp.myrveln.se/pub/linux/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Sweden] 11",
+        "fa": "[Sweden] 11"
+      },
+      "url": "https://ftp.myrveln.se/pub/linux/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Sweden] 12",
+        "fa": "[Sweden] 12"
+      },
+      "url": "https://mirror.osbeck.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Sweden] 13",
+        "fa": "[Sweden] 13"
+      },
+      "url": "https://mirror.zyner.org/mirror/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Switzerland] 1",
+        "fa": "[Switzerland] 1"
+      },
+      "url": "http://pkg.adfinis-on-exoscale.ch/archlinux-pkgbuild/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Switzerland] 2",
+        "fa": "[Switzerland] 2"
+      },
+      "url": "http://pkg.adfinis-on-exoscale.ch/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Switzerland] 3",
+        "fa": "[Switzerland] 3"
+      },
+      "url": "https://pkg.adfinis-on-exoscale.ch/archlinux-pkgbuild/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Switzerland] 4",
+        "fa": "[Switzerland] 4"
+      },
+      "url": "https://pkg.adfinis-on-exoscale.ch/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Switzerland] 5",
+        "fa": "[Switzerland] 5"
+      },
+      "url": "http://mirror.arch-linux.ch/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Switzerland] 6",
+        "fa": "[Switzerland] 6"
+      },
+      "url": "https://mirror.arch-linux.ch/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Switzerland] 7",
+        "fa": "[Switzerland] 7"
+      },
+      "url": "http://ch.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Switzerland] 8",
+        "fa": "[Switzerland] 8"
+      },
+      "url": "https://ch.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Switzerland] 9",
+        "fa": "[Switzerland] 9"
+      },
+      "url": "http://mirror.hb9hil.org/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Switzerland] 10",
+        "fa": "[Switzerland] 10"
+      },
+      "url": "https://mirror.hb9hil.org/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Switzerland] 11",
+        "fa": "[Switzerland] 11"
+      },
+      "url": "http://mirror.init7.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Switzerland] 12",
+        "fa": "[Switzerland] 12"
+      },
+      "url": "https://mirror.init7.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Switzerland] 13",
+        "fa": "[Switzerland] 13"
+      },
+      "url": "http://mirror.metanet.ch/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Switzerland] 14",
+        "fa": "[Switzerland] 14"
+      },
+      "url": "https://mirror.metanet.ch/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Switzerland] 15",
+        "fa": "[Switzerland] 15"
+      },
+      "url": "http://mirror.puzzle.ch/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Switzerland] 16",
+        "fa": "[Switzerland] 16"
+      },
+      "url": "https://mirror.puzzle.ch/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Switzerland] 17",
+        "fa": "[Switzerland] 17"
+      },
+      "url": "https://ch.mirror.shiro.lol/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Switzerland] 18",
+        "fa": "[Switzerland] 18"
+      },
+      "url": "https://mirror.ungleich.ch/mirror/packages/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Taiwan] 1",
+        "fa": "[Taiwan] 1"
+      },
+      "url": "http://tw.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Taiwan] 2",
+        "fa": "[Taiwan] 2"
+      },
+      "url": "https://tw.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Taiwan] 3",
+        "fa": "[Taiwan] 3"
+      },
+      "url": "http://free.nchc.org.tw/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Taiwan] 4",
+        "fa": "[Taiwan] 4"
+      },
+      "url": "https://taipei.mirror.pkgbuild.com/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Taiwan] 5",
+        "fa": "[Taiwan] 5"
+      },
+      "url": "http://mirror.twds.com.tw/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Taiwan] 6",
+        "fa": "[Taiwan] 6"
+      },
+      "url": "https://mirror.twds.com.tw/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Thailand] 1",
+        "fa": "[Thailand] 1"
+      },
+      "url": "https://mirror.cyberbits.asia/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Thailand] 2",
+        "fa": "[Thailand] 2"
+      },
+      "url": "http://mirror.kku.ac.th/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Thailand] 3",
+        "fa": "[Thailand] 3"
+      },
+      "url": "https://mirror.kku.ac.th/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Türkiye] 1",
+        "fa": "[Türkiye] 1"
+      },
+      "url": "https://tr.arch.niranjan.co/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Ukraine] 1",
+        "fa": "[Ukraine] 1"
+      },
+      "url": "http://distrohub.kyiv.ua/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Ukraine] 2",
+        "fa": "[Ukraine] 2"
+      },
+      "url": "https://distrohub.kyiv.ua/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Ukraine] 3",
+        "fa": "[Ukraine] 3"
+      },
+      "url": "http://mirror.hostiko.network/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Ukraine] 4",
+        "fa": "[Ukraine] 4"
+      },
+      "url": "https://mirror.hostiko.network/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Ukraine] 5",
+        "fa": "[Ukraine] 5"
+      },
+      "url": "http://archlinux.ip-connect.vn.ua/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Ukraine] 6",
+        "fa": "[Ukraine] 6"
+      },
+      "url": "https://archlinux.ip-connect.vn.ua/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Ukraine] 7",
+        "fa": "[Ukraine] 7"
+      },
+      "url": "http://mirror.mirohost.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Ukraine] 8",
+        "fa": "[Ukraine] 8"
+      },
+      "url": "https://mirror.mirohost.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United Kingdom] 1",
+        "fa": "[United Kingdom] 1"
+      },
+      "url": "http://archlinux.uk.mirror.allworldit.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United Kingdom] 2",
+        "fa": "[United Kingdom] 2"
+      },
+      "url": "https://archlinux.uk.mirror.allworldit.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United Kingdom] 3",
+        "fa": "[United Kingdom] 3"
+      },
+      "url": "https://repo.c48.uk/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United Kingdom] 4",
+        "fa": "[United Kingdom] 4"
+      },
+      "url": "https://uk.repo.c48.uk/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United Kingdom] 5",
+        "fa": "[United Kingdom] 5"
+      },
+      "url": "http://gb.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United Kingdom] 6",
+        "fa": "[United Kingdom] 6"
+      },
+      "url": "https://gb.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United Kingdom] 7",
+        "fa": "[United Kingdom] 7"
+      },
+      "url": "https://london.mirror.pkgbuild.com/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United Kingdom] 8",
+        "fa": "[United Kingdom] 8"
+      },
+      "url": "http://mirrors.melbourne.co.uk/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United Kingdom] 9",
+        "fa": "[United Kingdom] 9"
+      },
+      "url": "https://mirrors.melbourne.co.uk/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United Kingdom] 10",
+        "fa": "[United Kingdom] 10"
+      },
+      "url": "http://www.mirrorservice.org/sites/ftp.archlinux.org/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United Kingdom] 11",
+        "fa": "[United Kingdom] 11"
+      },
+      "url": "https://www.mirrorservice.org/sites/ftp.archlinux.org/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United Kingdom] 12",
+        "fa": "[United Kingdom] 12"
+      },
+      "url": "http://mirror.netweaver.uk/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United Kingdom] 13",
+        "fa": "[United Kingdom] 13"
+      },
+      "url": "https://mirror.netweaver.uk/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United Kingdom] 14",
+        "fa": "[United Kingdom] 14"
+      },
+      "url": "http://mirror.server.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United Kingdom] 15",
+        "fa": "[United Kingdom] 15"
+      },
+      "url": "https://mirror.server.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United Kingdom] 16",
+        "fa": "[United Kingdom] 16"
+      },
+      "url": "http://mirrors.ukfast.co.uk/sites/archlinux.org/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United Kingdom] 17",
+        "fa": "[United Kingdom] 17"
+      },
+      "url": "https://mirrors.ukfast.co.uk/sites/archlinux.org/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 1",
+        "fa": "[United States] 1"
+      },
+      "url": "https://mirror.akane.network/archmirror/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 2",
+        "fa": "[United States] 2"
+      },
+      "url": "http://arlm.tyzoid.com/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 3",
+        "fa": "[United States] 3"
+      },
+      "url": "https://arlm.tyzoid.com/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 4",
+        "fa": "[United States] 4"
+      },
+      "url": "http://us.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 5",
+        "fa": "[United States] 5"
+      },
+      "url": "https://us.mirrors.cicku.me/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 6",
+        "fa": "[United States] 6"
+      },
+      "url": "http://mirror.clarkson.edu/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 7",
+        "fa": "[United States] 7"
+      },
+      "url": "https://mirror.clarkson.edu/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 8",
+        "fa": "[United States] 8"
+      },
+      "url": "http://mirror.colonelhosting.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 9",
+        "fa": "[United States] 9"
+      },
+      "url": "https://mirror.colonelhosting.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 10",
+        "fa": "[United States] 10"
+      },
+      "url": "http://arch.mirror.constant.com/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 11",
+        "fa": "[United States] 11"
+      },
+      "url": "https://arch.mirror.constant.com/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 12",
+        "fa": "[United States] 12"
+      },
+      "url": "http://mirror.cs.vt.edu/pub/ArchLinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 13",
+        "fa": "[United States] 13"
+      },
+      "url": "http://codingflyboy.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 14",
+        "fa": "[United States] 14"
+      },
+      "url": "http://coresite.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 15",
+        "fa": "[United States] 15"
+      },
+      "url": "http://forksystems.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 16",
+        "fa": "[United States] 16"
+      },
+      "url": "http://irltoolkit.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 17",
+        "fa": "[United States] 17"
+      },
+      "url": "http://mirror.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 18",
+        "fa": "[United States] 18"
+      },
+      "url": "http://mnvoip.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 19",
+        "fa": "[United States] 19"
+      },
+      "url": "http://nnenix.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 20",
+        "fa": "[United States] 20"
+      },
+      "url": "http://nocix.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 21",
+        "fa": "[United States] 21"
+      },
+      "url": "http://ohioix.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 22",
+        "fa": "[United States] 22"
+      },
+      "url": "http://opencolo.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 23",
+        "fa": "[United States] 23"
+      },
+      "url": "http://southfront.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 24",
+        "fa": "[United States] 24"
+      },
+      "url": "http://ziply.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 25",
+        "fa": "[United States] 25"
+      },
+      "url": "https://codingflyboy.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 26",
+        "fa": "[United States] 26"
+      },
+      "url": "https://coresite.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 27",
+        "fa": "[United States] 27"
+      },
+      "url": "https://forksystems.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 28",
+        "fa": "[United States] 28"
+      },
+      "url": "https://irltoolkit.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 29",
+        "fa": "[United States] 29"
+      },
+      "url": "https://mirror.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 30",
+        "fa": "[United States] 30"
+      },
+      "url": "https://mnvoip.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 31",
+        "fa": "[United States] 31"
+      },
+      "url": "https://nnenix.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 32",
+        "fa": "[United States] 32"
+      },
+      "url": "https://nocix.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 33",
+        "fa": "[United States] 33"
+      },
+      "url": "https://ohioix.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 34",
+        "fa": "[United States] 34"
+      },
+      "url": "https://opencolo.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 35",
+        "fa": "[United States] 35"
+      },
+      "url": "https://southfront.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 36",
+        "fa": "[United States] 36"
+      },
+      "url": "https://ziply.mm.fcix.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 37",
+        "fa": "[United States] 37"
+      },
+      "url": "https://losangeles.mirror.pkgbuild.com/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 38",
+        "fa": "[United States] 38"
+      },
+      "url": "http://mirrors.gigenet.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 39",
+        "fa": "[United States] 39"
+      },
+      "url": "https://mirror.givebytes.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 40",
+        "fa": "[United States] 40"
+      },
+      "url": "https://mirror2.givebytes.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 41",
+        "fa": "[United States] 41"
+      },
+      "url": "http://mirror.hasphetica.win/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 42",
+        "fa": "[United States] 42"
+      },
+      "url": "https://mirror.hasphetica.win/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 43",
+        "fa": "[United States] 43"
+      },
+      "url": "http://arch.hu.fo/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 44",
+        "fa": "[United States] 44"
+      },
+      "url": "https://arch.hu.fo/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 45",
+        "fa": "[United States] 45"
+      },
+      "url": "http://mirrors.iu13.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 46",
+        "fa": "[United States] 46"
+      },
+      "url": "https://mirrors.iu13.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 47",
+        "fa": "[United States] 47"
+      },
+      "url": "http://mirrors.kernel.org/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 48",
+        "fa": "[United States] 48"
+      },
+      "url": "https://mirrors.kernel.org/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 49",
+        "fa": "[United States] 49"
+      },
+      "url": "https://mirrors.lahansons.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 50",
+        "fa": "[United States] 50"
+      },
+      "url": "http://mirror.sfo12.us.leaseweb.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 51",
+        "fa": "[United States] 51"
+      },
+      "url": "http://mirror.wdc1.us.leaseweb.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 52",
+        "fa": "[United States] 52"
+      },
+      "url": "https://mirror.sfo12.us.leaseweb.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 53",
+        "fa": "[United States] 53"
+      },
+      "url": "https://mirror.wdc1.us.leaseweb.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 54",
+        "fa": "[United States] 54"
+      },
+      "url": "http://mirrors.liquidweb.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 55",
+        "fa": "[United States] 55"
+      },
+      "url": "https://m.lqy.me/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 56",
+        "fa": "[United States] 56"
+      },
+      "url": "http://mirror.metrocast.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 57",
+        "fa": "[United States] 57"
+      },
+      "url": "https://us.mirrors.mk/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 58",
+        "fa": "[United States] 58"
+      },
+      "url": "https://us.arch.niranjan.co/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 59",
+        "fa": "[United States] 59"
+      },
+      "url": "http://mirrors.ocf.berkeley.edu/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 60",
+        "fa": "[United States] 60"
+      },
+      "url": "https://mirrors.ocf.berkeley.edu/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 61",
+        "fa": "[United States] 61"
+      },
+      "url": "http://archmirror1.octyl.net/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 62",
+        "fa": "[United States] 62"
+      },
+      "url": "https://archmirror1.octyl.net/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 63",
+        "fa": "[United States] 63"
+      },
+      "url": "http://ftp.osuosl.org/pub/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 64",
+        "fa": "[United States] 64"
+      },
+      "url": "https://ftp.osuosl.org/pub/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 65",
+        "fa": "[United States] 65"
+      },
+      "url": "https://mirror.pilotfiber.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 66",
+        "fa": "[United States] 66"
+      },
+      "url": "http://plug-mirror.rcac.purdue.edu/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 67",
+        "fa": "[United States] 67"
+      },
+      "url": "https://plug-mirror.rcac.purdue.edu/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 68",
+        "fa": "[United States] 68"
+      },
+      "url": "http://mirrors.rit.edu/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 69",
+        "fa": "[United States] 69"
+      },
+      "url": "https://mirrors.rit.edu/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 70",
+        "fa": "[United States] 70"
+      },
+      "url": "http://mirrors.sonic.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 71",
+        "fa": "[United States] 71"
+      },
+      "url": "https://mirrors.sonic.net/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 72",
+        "fa": "[United States] 72"
+      },
+      "url": "https://us-mnz.soulharsh007.dev/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 73",
+        "fa": "[United States] 73"
+      },
+      "url": "http://mirror.pit.teraswitch.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 74",
+        "fa": "[United States] 74"
+      },
+      "url": "https://mirror.pit.teraswitch.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 75",
+        "fa": "[United States] 75"
+      },
+      "url": "https://mirror.theash.xyz/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 76",
+        "fa": "[United States] 76"
+      },
+      "url": "http://mirror.tzulo.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 77",
+        "fa": "[United States] 77"
+      },
+      "url": "https://mirror.tzulo.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 78",
+        "fa": "[United States] 78"
+      },
+      "url": "http://mirror.vtti.vt.edu/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 79",
+        "fa": "[United States] 79"
+      },
+      "url": "http://mirrors.xmission.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 80",
+        "fa": "[United States] 80"
+      },
+      "url": "http://mirrors.xtom.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 81",
+        "fa": "[United States] 81"
+      },
+      "url": "https://mirrors.xtom.com/archlinux/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[United States] 82",
+        "fa": "[United States] 82"
+      },
+      "url": "https://zxcvfdsa.com/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Vietnam] 1",
+        "fa": "[Vietnam] 1"
+      },
+      "url": "https://mirror.khoinet.dpdns.org/Arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    },
+    {
+      "name": {
+        "en": "[Vietnam] 2",
+        "fa": "[Vietnam] 2"
+      },
+      "url": "https://mirror.meowsmp.net/arch/core/os/x86_64",
+      "shouldContain": "ca-certificates"
+    }
+  ]
+}
