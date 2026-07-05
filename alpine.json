@@ -492,16 +492,16 @@
     },
     {
       "name": {
-        "en": "[China] edu tsinghua tuna mirrors",
-        "fa": "[چین] edu tsinghua tuna mirrors"
+        "en": "[China] Tsinghua University",
+        "fa": "[چین] دانشگاه تسینگ‌هوا"
       },
       "url": "https://mirrors.tuna.tsinghua.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
       "shouldContain": "alpine"
     },
     {
       "name": {
-        "en": "[China] edu ustc mirrors",
-        "fa": "[چین] edu mirrors"
+        "en": "[China] University of Science and Technology of China",
+        "fa": "[چین] دانشگاه علم و فناوری چین"
       },
       "url": "https://mirrors.ustc.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
       "shouldContain": "alpine"
