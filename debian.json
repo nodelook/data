@@ -1,0 +1,38 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "Debian",
+    "fa": "دبیان"
+  },
+  "description": {
+    "en": "Debian Linux Mirrors\nsudo nano /etc/apt/sources.list",
+    "fa": "آینه‌های لینوکس دبیان\nsudo nano /etc/apt/sources.list"
+  },
+  "color": "#FF34A853",
+  "items": [
+    {
+      "name": {
+        "en": "Debian",
+        "fa": "دبیان"
+      },
+      "url": "https://deb.debian.org/debian/dists/stable/Release",
+      "shouldContain": "Debian"
+    },
+    {
+      "name": {
+        "en": "[China] University of Science and Technology of China",
+        "fa": "[چین] دانشگاه علم و فناوری چین"
+      },
+      "url": "https://mirrors.ustc.edu.cn/debian/dists/stable/Release",
+      "shouldContain": "Debian"
+    },
+    {
+      "name": {
+        "en": "[China] Tsinghua University",
+        "fa": "[چین] دانشگاه تسینگ‌هوا"
+      },
+      "url": "https://mirrors.tuna.tsinghua.edu.cn/debian/dists/stable/Release",
+      "shouldContain": "Debian"
+    }
+  ]
+}
