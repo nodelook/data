@@ -1,8 +1,8 @@
 {
   "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
   "name": {
-    "en": "F-Droid Mirrors",
-    "fa": "آینه‌های اف-دروید"
+    "en": "F-D M",
+    "fa": "آ ا-د"
   },
   "description": {
     "en": "F-Droid Mirrors\nhttps://fdroid.link/#https://f-droid.org/repo",
@@ -52,8 +52,8 @@
     },
     {
       "name": {
-        "en": "SE Liu",
-        "fa": "SE Liu"
+        "en": "[Sweden] Linköping University",
+        "fa": "[سوئد] دانشگاه لینکپینگ"
       },
       "url": "https://ftp.lysator.liu.se/pub/fdroid/repo/entry.json",
       "shouldContain": "/index-v2.json"

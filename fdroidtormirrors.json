@@ -1,14 +1,14 @@
 {
   "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
   "name": {
-    "en": "F-Droid Tor",
-    "fa": "تور اف-دروید"
+    "en": "F-D T M",
+    "fa": "آ ت ا-د"
   },
   "description": {
-    "en": "F-Droid Tor Repositories\nhttps://fdroid.link/#https://f-droid.org/repo",
-    "fa": "مخازن تور اف-دروید\nhttps://fdroid.link/#https://f-droid.org/repo"
+    "en": "F-Droid Tor Mirrors\nhttps://fdroid.link/#https://f-droid.org/repo",
+    "fa": "آینه‌های تور اف-دروید\nhttps://fdroid.link/#https://f-droid.org/repo"
   },
-  "color": "#FF4285F4",
+  "color": "#FF34A853",
   "items": [
     {
       "name": {
@@ -20,10 +20,10 @@
     },
     {
       "name": {
-        "en": "F-Droid Archive",
-        "fa": "بایگانی اف-دروید"
+        "en": "[Sweden] Linköping University",
+        "fa": "[سوئد] دانشگاه لینکپینگ"
       },
-      "url": "http://fdroidorg6cooksyluodepej4erfctzk7rrjpjbbr6wx24jh3lqyfwyd.onion/archive/entry.json",
+      "url": "http://lysator7eknrfl47rlyxvgeamrv7ucefgrrlhk7rouv3sna25asetwid.onion/repo/entry.json",
       "shouldContain": "/index-v2.json"
     }
   ]
