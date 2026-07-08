@@ -1,0 +1,54 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "Shopping",
+    "fa": "خرید"
+  },
+  "description": {
+    "en": "Shopping Sites",
+    "fa": "سایت‌های خرید"
+  },
+  "color": "#FF4285F4",
+  "items": [
+    {
+      "name": {
+        "en": "Amazon: Canada",
+        "fa": "Amazon: Canada"
+      },
+      "url": "https://www.amazon.ca/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "Amazon: US",
+        "fa": "Amazon: US"
+      },
+      "url": "https://www.amazon.com/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "Amazon: UK",
+        "fa": "Amazon: UK"
+      },
+      "url": "https://www.amazon.co.uk/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "OpenSooq: Türkiye",
+        "fa": "OpenSooq: Türkiye"
+      },
+      "url": "https://tr.opensooq.com/robots.txt",
+      "shouldContain": "Disallow"
+    },
+    {
+      "name": {
+        "en": "OpenSooq: UAE",
+        "fa": "OpenSooq: UAE"
+      },
+      "url": "https://ae.opensooq.com/robots.txt",
+      "shouldContain": "Disallow"
+    }
+  ]
+}
