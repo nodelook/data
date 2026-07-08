@@ -81,6 +81,14 @@
       },
       "url": "https://line3-h5-pc-api.biligame.com",
       "shouldContain": "SUCCESS"
+    },
+    {
+      "name": {
+        "en": "Fandom",
+        "fa": "فندوم"
+      },
+      "url": "https://www.fandom.com/robots.txt",
+      "shouldContain": "Disallow"
     }
   ]
 }

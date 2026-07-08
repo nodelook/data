@@ -1,8 +1,3 @@
-"[Encyclopedia] Fandom: Site", "www.fandom.com/robots.txt", "200"
-
-"[Software Repos] Snapcraft", "api.snapcraft.io/", "snapcraft"
-"[Software Repos] Flathub", "flathub.org/api/v2/status", "OK"
-
 "[Music] Spotify: Site", "www.spotify.com/robots.txt", "Disallow"
 "[Music] Spotify: Web", "open.spotify.com/robots.txt", "Disallow"
 "[Music] Spotify: API", "api.spotify.com/v1/me", "No token provided"
@@ -11,15 +6,12 @@
 
 "[Video] Aparat", "www.aparat.com/robots.txt", "Disallow"
 "[Video] Netflix", "www.netflix.com/robots.txt", "Disallow"
-
 "[Video] YouTube", "https://www.youtube.com/robots.txt", "Disallow"
 "[Video] YouTube", "https://youtu.be/robots.txt", "Disallow"
 "[Video] YouTube Kids", "https://www.youtubekids.com/robots.txt", "Disallow"
 "[Video] Youtube Education", "https://www.youtubeeducation.com/robots.txt", "Disallow"
 "[Video] YouTube", "https://youtube.googleapis.com/robots.txt", "Disallow"
 "[Video] YouTube", "https://www.youtube-nocookie.com/robots.txt", "Disallow"
-
-
 "[Video] BiliBili: API", "api.bilibili.com/x/web-interface/nav", "false"
 "[Video] BiliBili: Image", "archive.biliimg.com", "OK"
 "[Video] BiliBili: bimp", "bimp.hdslb.com", "OK"
@@ -36,11 +28,6 @@
 "[Shopping] OpenSooq: Türkiye", "tr.opensooq.com/robots.txt", "Disallow"
 "[Shopping] OpenSooq: UAE", "ae.opensooq.com/robots.txt", "Disallow"
 
-"[Test] Postman Echo", "postman-echo.com/status/200", "200"
-"[Test] Firefox DetectPortal", "detectportal.firefox.com/success.txt", "success"
-"[Test] Fast", "fast.com/robots.txt", "Disallow"
-"[Test] Speedtest", "www.speedtest.net/robots.txt", "Disallow"
-
 "[Adult] PornHub", "www.pornhub.com/passkey/preflight", "false"
 "[Adult] Fuq", "www.fuq.com/robots.txt", "Disallow"
 "[Adult] xHamster", "xhamster.com/robots.txt", "Disallow"
@@ -48,7 +35,6 @@
 "[Adult] RedGifs", "www.redgifs.com/robots.txt", "Disallow"
 "[Adult] Stripchat", "stripchat.com/robots.txt", "Disallow"
 
-"[Other] Docker Hub", "hub.docker.com/search?q=thedockerhubsiteisworkingproperly", "thedockerhubsiteisworkingproperly"
     {
         "name": {
             "en": "hCaptcha",
@@ -59,121 +45,12 @@
         "data-raw": "{\"n\":\"pageview\",\"u\":\"https://www.hcaptcha.com/\"}",
         "shouldContain": "ok"
     },
+
     {
-        "name": {
-            "en": "Docker Hub",
-            "fa": "هابِ داکر"
-        },
-        "url": "hub.docker.com/search?q=thedockerhubsiteisworkingproperly",
-        "shouldContain": "thedockerhubsiteisworkingproperly"
+      "name": {
+        "en": "ArvanStorage (Tehran-Standard DotOne)",
+        "fa": "اروان استوریج (تهران-استاندارد دات‌وان)"
+      },
+      "url": "https://test-hive.s3.ir-thr-at1.arvanstorage.ir/status",
+      "shouldContain": "200"
     },
-    {
-        "name": {
-            "en": "ORCID",
-            "fa": "اورکید"
-        },
-        "url": "auth.orcid.org/userStatus.json",
-        "shouldContain": "false"
-    },
-    {
-        "name": {
-            "en": "Firefox",
-            "fa": "فایرفاکس"
-        },
-        "url": "detectportal.firefox.com/success.txt",
-        "shouldContain": "success"
-    },
-    {
-        "name": {
-            "en": "Statically",
-            "fa": "استاتیکالی"
-        },
-        "url": "cdn.statically.io/gh/xmha97/test@v1.0.0/status",
-        "shouldContain": "200"
-    },
-    {
-        "name": {
-            "en": "gh-Proxy",
-            "fa": "جی‌اچ-پروکسی"
-        },
-        "url": "gh-proxy.org/https://github.com/xmha97/test/releases/download/v1.0.0/status",
-        "shouldContain": "200"
-    },
-    {
-        "name": {
-            "en": "ghProxy",
-            "fa": "جی‌اچ‌پروکسی"
-        },
-        "url": "ghproxy.net/https://github.com/xmha97/test/releases/download/v1.0.0/status",
-        "shouldContain": "200"
-    },
-    {
-        "name": "AbreHamrahi",
-        "url": "abrehamrahi.ir/o/public/vlwU5cXR",
-        "shouldContain": "200"
-    },
-    {
-        "name": "AbreHamrahi (ShortenerLink)",
-        "url": "abhm.ir/kpWgPj",
-        "shouldContain": "200"
-    },
-    {
-        "name": "Uupload (ShortenerLink)",
-        "url": "my.uupload.ir/dl/NdQ4K1BD",
-        "shouldContain": "200"
-    },
-    {
-        "name": "Uupload",
-        "url": "s15.uupload.ir/files/xmha97/status.txt",
-        "shouldContain": "200"
-    },
-    {
-        "name": "TEROZA",
-        "url": "trzw.ir/up/loads/status.txt",
-        "shouldContain": "200"
-    },
-    {
-        "name": "Liara",
-        "url": "obd.storage.c2.liara.space/status?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=6b96162b-d379-44a7-ae3f-e3cd178bbf19%2F20260429%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260429T040002Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=064a1ef82adc6efe0918f74c909742770da989d9b90a348ec345d52fd0871e77",
-        "shouldContain": "200"
-    },
-    {
-        "name": "ArvanStorage (Tehran-Standard DotOne)",
-        "url": "test-hive.s3.ir-thr-at1.arvanstorage.ir/status",
-        "shouldContain": "200"
-    },
-    {
-        "name": "ArvanStorage (Tehran-Standard)",
-        "url": "xmh.s3.ir-thr-at1.arvanstorage.ir/status",
-        "shouldContain": "200"
-    },
-    {
-        "name": "ArvanStorage (Tehran-Standard WebSite)",
-        "url": "xmh.s3-website.ir-thr-at1.arvanstorage.ir/status",
-        "shouldContain": "200"
-    },
-    {
-        "name": "ArvanStorage (Tehran-HiOps)",
-        "url": "xmh.hot.ir-central1.arvanstorage.ir/status",
-        "shouldContain": "200"
-    },
-    {
-        "name": "ArvanStorage (Tehran-HiOps WebSite)",
-        "url": "xmh.hot-website.ir-central1.arvanstorage.ir/status",
-        "shouldContain": "200"
-    },
-    {
-        "name": "ArvanStorage (Tabriz)",
-        "url": "xmh.s3.ir-tbz-sh1.arvanstorage.ir/status",
-        "shouldContain": "200"
-    },
-    {
-        "name": "ArvanStorage (Tabriz WebSite)",
-        "url": "xmh.s3-website.ir-tbz-sh1.arvanstorage.ir/status",
-        "shouldContain": "200"
-    },
-    {
-        "name": "Uploadina",
-        "url": "www.uploadina.com/8f7ba3cb17a43c1c/status",
-        "shouldContain": "200"
-    }
