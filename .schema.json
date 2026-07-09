@@ -84,7 +84,7 @@
           "minLength": 1
         },
         "address": {
-          "description": "The address to display",
+          "description": "The address to display to the user",
           "type": "string",
           "format": "uri"
         }
