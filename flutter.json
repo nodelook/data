@@ -16,7 +16,8 @@
         "fa": "فضای ذخیره‌سازی ابری گوگل"
       },
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/releases_linux.json",
-      "shouldContain": "flutter_infra_release"
+      "shouldContain": "flutter_infra_release",
+      "address": "https://storage.googleapis.com/"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "[چین] گروه کاربران فلاتر چین"
       },
       "url": "https://storage.flutter-io.cn/flutter_infra_release/releases/releases_linux.json",
-      "shouldContain": "flutter_infra_release"
+      "shouldContain": "flutter_infra_release",
+      "address": "https://storage.flutter-io.cn/"
     },
     {
       "name": {
@@ -32,7 +34,8 @@
         "fa": "[ایران] مایکت"
       },
       "url": "https://pub.myket.ir/flutter_infra_release/releases/releases_linux.json",
-      "shouldContain": "flutter_infra_release"
+      "shouldContain": "flutter_infra_release",
+      "address": "https://pub.myket.ir/"
     },
     {
       "name": {
@@ -40,7 +43,8 @@
         "fa": "[ایران] رانفلر"
       },
       "url": "https://mirror-gcs.runflare.com/flutter_infra_release/releases/releases_linux.json",
-      "shouldContain": "flutter_infra_release"
+      "shouldContain": "flutter_infra_release",
+      "address": "https://mirror-gcs.runflare.com/"
     },
     {
       "name": {
@@ -48,7 +52,8 @@
         "fa": "[ایران] دونیدز"
       },
       "url": "https://flutter.devneeds.ir/flutter_infra_release/releases/releases_linux.json",
-      "shouldContain": "flutter_infra_release"
+      "shouldContain": "flutter_infra_release",
+      "address": "https://flutter.devneeds.ir/"
     }
   ]
 }

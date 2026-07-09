@@ -16,7 +16,8 @@
         "fa": "تست‌ران"
       },
       "url": "https://nine.t‍estrun.org/",
-      "shouldContain": "DCACCOUNT:https://nine.testrun.org/new"
+      "shouldContain": "DCACCOUNT:https://nine.testrun.org/new",
+      "address": "https://nine.testrun.org/new"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "[ایالات متحده آمریکا] sweetfern"
       },
       "url": "https://sweetfern.net/",
-      "shouldContain": "DCACCOUNT:https://sweetfern.net/new"
+      "shouldContain": "DCACCOUNT:https://sweetfern.net/new",
+      "address": "https://sweetfern.net/new"
     },
     {
       "name": {
@@ -32,7 +34,8 @@
         "fa": "[ایالات متحده آمریکا] uninterest"
       },
       "url": "https://uninterest.ing/",
-      "shouldContain": "DCACCOUNT:https://uninterest.ing/new"
+      "shouldContain": "DCACCOUNT:https://uninterest.ing/new",
+      "address": "https://uninterest.ing/new"
     },
     {
       "name": {
@@ -40,7 +43,8 @@
         "fa": "[ایالات متحده آمریکا] aangat"
       },
       "url": "https://chika.aangat.lahat.computer/",
-      "shouldContain": "DCACCOUNT:https://chika.aangat.lahat.computer/new"
+      "shouldContain": "DCACCOUNT:https://chika.aangat.lahat.computer/new",
+      "address": "https://chika.aangat.lahat.computer/new"
     },
     {
       "name": {
@@ -48,7 +52,8 @@
         "fa": "[آلمان] mehl"
       },
       "url": "https://mehl.cloud/",
-      "shouldContain": "DCACCOUNT:https://mehl.cloud/new"
+      "shouldContain": "DCACCOUNT:https://mehl.cloud/new",
+      "address": "https://mehl.cloud/new"
     },
     {
       "name": {
@@ -56,7 +61,8 @@
         "fa": "[آلمان] adminforge"
       },
       "url": "https://chat.adminforge.de/",
-      "shouldContain": "DCACCOUNT:https://chat.adminforge.de/new"
+      "shouldContain": "DCACCOUNT:https://chat.adminforge.de/new",
+      "address": "https://chat.adminforge.de/new"
     },
     {
       "name": {
@@ -64,7 +70,8 @@
         "fa": "[آلمان] vim"
       },
       "url": "https://chat.vim.wtf/",
-      "shouldContain": "DCACCOUNT:https://chat.vim.wtf/new"
+      "shouldContain": "DCACCOUNT:https://chat.vim.wtf/new",
+      "address": "https://chat.vim.wtf/new"
     },
     {
       "name": {
@@ -72,7 +79,8 @@
         "fa": "[آلمان] in-the.eu"
       },
       "url": "https://chat.in-the.eu/",
-      "shouldContain": "DCACCOUNT:https://chat.in-the.eu/new"
+      "shouldContain": "DCACCOUNT:https://chat.in-the.eu/new",
+      "address": "https://chat.in-the.eu/new"
     },
     {
       "name": {
@@ -80,7 +88,8 @@
         "fa": "[آلمان] tarpit"
       },
       "url": "https://tarpit.fun/",
-      "shouldContain": "DCACCOUNT:https://tarpit.fun/new"
+      "shouldContain": "DCACCOUNT:https://tarpit.fun/new",
+      "address": "https://tarpit.fun/new"
     },
     {
       "name": {
@@ -88,7 +97,8 @@
         "fa": "[استرالیا] chatmail"
       },
       "url": "https://chatmail.au/",
-      "shouldContain": "DCACCOUNT:https://chatmail.au/new"
+      "shouldContain": "DCACCOUNT:https://chatmail.au/new",
+      "address": "https://chatmail.au/new"
     },
     {
       "name": {
@@ -96,7 +106,8 @@
         "fa": "[فرانسه] thelab"
       },
       "url": "https://delta.thelab.uno/",
-      "shouldContain": "DCACCOUNT:https://delta.thelab.uno/new"
+      "shouldContain": "DCACCOUNT:https://delta.thelab.uno/new",
+      "address": "https://delta.thelab.uno/new"
     },
     {
       "name": {
@@ -104,7 +115,8 @@
         "fa": "[فرانسه] gaufr"
       },
       "url": "https://d.gaufr.es/",
-      "shouldContain": "DCACCOUNT:https://d.gaufr.es/new"
+      "shouldContain": "DCACCOUNT:https://d.gaufr.es/new",
+      "address": "https://d.gaufr.es/new"
     },
     {
       "name": {
@@ -112,7 +124,8 @@
         "fa": "[فنلاند] danneskjold"
       },
       "url": "https://danneskjold.de/",
-      "shouldContain": "DCACCOUNT:https://danneskjold.de/new"
+      "shouldContain": "DCACCOUNT:https://danneskjold.de/new",
+      "address": "https://danneskjold.de/new"
     },
     {
       "name": {
@@ -120,7 +133,8 @@
         "fa": "[هند] privittytech"
       },
       "url": "https://chat.privittytech.com/",
-      "shouldContain": "DCACCOUNT:https://chat.privittytech.com/new"
+      "shouldContain": "DCACCOUNT:https://chat.privittytech.com/new",
+      "address": "https://chat.privittytech.com/new"
     },
     {
       "name": {
@@ -128,7 +142,8 @@
         "fa": "[آفریقای جنوبی] e2ee"
       },
       "url": "https://e2ee.wang/",
-      "shouldContain": "DCACCOUNT:https://e2ee.wang/new"
+      "shouldContain": "DCACCOUNT:https://e2ee.wang/new",
+      "address": "https://e2ee.wang/new"
     },
     {
       "name": {
@@ -136,7 +151,8 @@
         "fa": "[اوکراین] zashm"
       },
       "url": "https://chat.zashm.org/",
-      "shouldContain": "DCACCOUNT:https://chat.zashm.org/new"
+      "shouldContain": "DCACCOUNT:https://chat.zashm.org/new",
+      "address": "https://chat.zashm.org/new"
     },
     {
       "name": {
@@ -144,7 +160,8 @@
         "fa": "[سوئیس] nibblehole"
       },
       "url": "https://nibblehole.com/",
-      "shouldContain": "DCACCOUNT:https://nibblehole.com/new"
+      "shouldContain": "DCACCOUNT:https://nibblehole.com/new",
+      "address": "https://nibblehole.com/new"
     },
     {
       "name": {
@@ -152,7 +169,8 @@
         "fa": "[جمهوری چک] nuvon"
       },
       "url": "https://chat.nuvon.app/",
-      "shouldContain": "DCACCOUNT:https://chat.nuvon.app/new"
+      "shouldContain": "DCACCOUNT:https://chat.nuvon.app/new",
+      "address": "https://chat.nuvon.app/new"
     },
     {
       "name": {
@@ -160,7 +178,8 @@
         "fa": "[لهستان] chatmail"
       },
       "url": "https://chatmail.email/",
-      "shouldContain": "DCACCOUNT:https://chatmail.email/new"
+      "shouldContain": "DCACCOUNT:https://chatmail.email/new",
+      "address": "https://chatmail.email/new"
     },
     {
       "name": {
@@ -168,7 +187,8 @@
         "fa": "[لهستان] mailchat"
       },
       "url": "https://mailchat.pl/",
-      "shouldContain": "DCACCOUNT:https://mailchat.pl/new"
+      "shouldContain": "DCACCOUNT:https://mailchat.pl/new",
+      "address": "https://mailchat.pl/new"
     },
     {
       "name": {
@@ -176,7 +196,8 @@
         "fa": "[رومانی] e2ee"
       },
       "url": "https://e2ee.im/",
-      "shouldContain": "DCACCOUNT:https://e2ee.im/new"
+      "shouldContain": "DCACCOUNT:https://e2ee.im/new",
+      "address": "https://e2ee.im/new"
     },
     {
       "name": {
@@ -184,7 +205,8 @@
         "fa": "[کانادا] chtml"
       },
       "url": "https://chtml.ca/",
-      "shouldContain": "DCACCOUNT:https://chtml.ca/new"
+      "shouldContain": "DCACCOUNT:https://chtml.ca/new",
+      "address": "https://chtml.ca/new"
     },
     {
       "name": {
@@ -192,7 +214,8 @@
         "fa": "[هلند] disobey"
       },
       "url": "https://delta.disobey.net/",
-      "shouldContain": "DCACCOUNT:https://delta.disobey.net/new"
+      "shouldContain": "DCACCOUNT:https://delta.disobey.net/new",
+      "address": "https://delta.disobey.net/new"
     },
     {
       "name": {
@@ -200,7 +223,8 @@
         "fa": "[ایتالیا] culturanerd"
       },
       "url": "https://chatmail.culturanerd.it/",
-      "shouldContain": "DCACCOUNT:https://chatmail.culturanerd.it/new"
+      "shouldContain": "DCACCOUNT:https://chatmail.culturanerd.it/new",
+      "address": "https://chatmail.culturanerd.it/new"
     },
     {
       "name": {
@@ -208,7 +232,8 @@
         "fa": "[ایران] پیپروینگ"
       },
       "url": "https://dfgr.paperwing.xyz/",
-      "shouldContain": "DCACCOUNT:https://dfgr.paperwing.xyz/new"
+      "shouldContain": "DCACCOUNT:https://dfgr.paperwing.xyz/new",
+      "address": "https://dfgr.paperwing.xyz/new"
     }
   ]
 }

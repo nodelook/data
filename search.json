@@ -16,7 +16,8 @@
         "fa": "جستجوی گوگل"
       },
       "url": "https://google.com/search?q=thegooglesearchsiteisworkingproperly",
-      "shouldContain": "thegooglesearchsiteisworkingproperly"
+      "shouldContain": "thegooglesearchsiteisworkingproperly",
+      "address": "https://google.com/"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "جستجوی بینگ"
       },
       "url": "https://www.bing.com/search?q=thebingsearchsiteisworkingproperly",
-      "shouldContain": "thebingsearchsiteisworkingproperly"
+      "shouldContain": "thebingsearchsiteisworkingproperly",
+      "address": "https://www.bing.com/"
     },
     {
       "name": {
@@ -32,7 +34,8 @@
         "fa": "داک‌داک‌گو"
       },
       "url": "https://duckduckgo.com/?q=theduckduckgosearchsiteisworkingproperly",
-      "shouldContain": "theduckduckgosearchsiteisworkingproperly"
+      "shouldContain": "theduckduckgosearchsiteisworkingproperly",
+      "address": "https://duckduckgo.com/"
     },
     {
       "name": {
@@ -40,7 +43,8 @@
         "fa": "ذره‌بین [ایران]"
       },
       "url": "https://zarebin.ir/search?q=thezarebinsiteisworkingproperly",
-      "shouldContain": "thezarebinsiteisworkingproperly"
+      "shouldContain": "thezarebinsiteisworkingproperly",
+      "address": "https://zarebin.ir/"
     }
   ]
 }

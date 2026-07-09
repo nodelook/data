@@ -16,7 +16,8 @@
         "fa": "گو‌لنگ"
       },
       "url": "https://proxy.golang.org/github.com/golang/protobuf/@latest",
-      "shouldContain": "Version"
+      "shouldContain": "Version",
+      "address": "https://proxy.golang.org/"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "گو‌پراکسی"
       },
       "url": "https://goproxy.io/github.com/golang/protobuf/@latest",
-      "shouldContain": "Version"
+      "shouldContain": "Version",
+      "address": "https://goproxy.io/"
     },
     {
       "name": {
@@ -32,7 +34,8 @@
         "fa": "[چین] گو‌پراکسی"
       },
       "url": "https://goproxy.cn/github.com/golang/protobuf/@latest",
-      "shouldContain": "Version"
+      "shouldContain": "Version",
+      "address": "https://goproxy.cn/"
     },
     {
       "name": {
@@ -40,7 +43,8 @@
         "fa": "[ایران] لیارا"
       },
       "url": "https://package-mirror.liara.ir/repository/go/github.com/golang/protobuf/@latest",
-      "shouldContain": "Version"
+      "shouldContain": "Version",
+      "address": "https://package-mirror.liara.ir/"
     },
     {
       "name": {
@@ -48,7 +52,8 @@
         "fa": "[ایران] رانفلر"
       },
       "url": "https://mirror-go.runflare.com/github.com/golang/protobuf/@latest",
-      "shouldContain": "Version"
+      "shouldContain": "Version",
+      "address": "https://mirror-go.runflare.com/"
     },
     {
       "name": {
@@ -56,7 +61,8 @@
         "fa": "[ایران] پارس‌پک"
       },
       "url": "https://mirror.abrha.net/repository/go/github.com/golang/protobuf/@latest",
-      "shouldContain": "Version"
+      "shouldContain": "Version",
+      "address": "https://mirror.abrha.net/"
     },
     {
       "name": {
@@ -64,7 +70,8 @@
         "fa": "[ایران] دونیدز"
       },
       "url": "https://go.devneeds.ir/github.com/golang/protobuf/@latest",
-      "shouldContain": "Version"
+      "shouldContain": "Version",
+      "address": "https://go.devneeds.ir/"
     }
   ]
 }

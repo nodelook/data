@@ -64,7 +64,8 @@
       "required": [
         "name",
         "url",
-        "shouldContain"
+        "shouldContain",
+        "address"
       ],
       "additionalProperties": false,
       "properties": {
@@ -81,6 +82,11 @@
           "description": "A string that the response body must contain for the check to pass",
           "type": "string",
           "minLength": 1
+        },
+        "address": {
+          "description": "The address to display",
+          "type": "string",
+          "format": "uri"
         }
       }
     }

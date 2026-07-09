@@ -16,7 +16,8 @@
         "fa": "انگلیسی"
       },
       "url": "https://en.wikipedia.org/w/index.php?title=User:Xmha97/status.js&action=raw&ctype=text/javascript",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://en.wikipedia.org/"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "عربی"
       },
       "url": "https://ar.wikipedia.org/w/index.php?title=User:Xmha97/status.js&action=raw&ctype=text/javascript",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://ar.wikipedia.org/"
     },
     {
       "name": {
@@ -32,7 +34,8 @@
         "fa": "فارسی"
       },
       "url": "https://fa.wikipedia.org/w/index.php?title=User:Xmha97/status.js&action=raw&ctype=text/javascript",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://fa.wikipedia.org/"
     }
   ]
 }

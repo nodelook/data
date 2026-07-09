@@ -12,43 +12,48 @@
   "items": [
     {
       "name": {
-        "en": "Amazon: Canada",
-        "fa": "Amazon: Canada"
+        "en": "[Canada] Amazon",
+        "fa": "[کانادا] آمازون"
       },
       "url": "https://www.amazon.ca/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://www.amazon.ca/"
     },
     {
       "name": {
-        "en": "Amazon: US",
-        "fa": "Amazon: US"
+        "en": "[US] Amazon",
+        "fa": "[US] آمازون"
       },
       "url": "https://www.amazon.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://www.amazon.com/"
     },
     {
       "name": {
-        "en": "Amazon: UK",
-        "fa": "Amazon: UK"
+        "en": "[UK] Amazon",
+        "fa": "[UK] آمازون"
       },
       "url": "https://www.amazon.co.uk/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://www.amazon.co.uk/"
     },
     {
       "name": {
-        "en": "OpenSooq: Türkiye",
-        "fa": "OpenSooq: Türkiye"
+        "en": "[Türkiye] OpenSooq",
+        "fa": "[Türkiye] اپن‌سوق"
       },
       "url": "https://tr.opensooq.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://tr.opensooq.com/"
     },
     {
       "name": {
-        "en": "OpenSooq: UAE",
-        "fa": "OpenSooq: UAE"
+        "en": "[UAE] OpenSooq",
+        "fa": "[UAE] اپن‌سوق"
       },
       "url": "https://ae.opensooq.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://ae.opensooq.com/"
     }
   ]
 }

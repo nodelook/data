@@ -16,7 +16,8 @@
         "fa": "نوگت"
       },
       "url": "https://api.nuget.org/v3/index.json",
-      "shouldContain": "NuGet"
+      "shouldContain": "NuGet",
+      "address": "https://api.nuget.org/v3/index.json"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "[چین] ابر هواوی"
       },
       "url": "https://repo.huaweicloud.com/repository/nuget/v3/index.json",
-      "shouldContain": "NuGet"
+      "shouldContain": "NuGet",
+      "address": "https://repo.huaweicloud.com/repository/nuget/v3/index.json"
     },
     {
       "name": {
@@ -32,7 +34,8 @@
         "fa": "[ایران] رانفلر"
       },
       "url": "https://mirror-nuget.runflare.com/v3/index.json",
-      "shouldContain": "NuGet"
+      "shouldContain": "NuGet",
+      "address": "https://mirror-nuget.runflare.com/v3/index.json"
     },
     {
       "name": {
@@ -40,7 +43,8 @@
         "fa": "[ایران] چابکان"
       },
       "url": "https://mirror2.chabokan.net/nuget/v3/index.json",
-      "shouldContain": "NuGet"
+      "shouldContain": "NuGet",
+      "address": "https://mirror2.chabokan.net/nuget/v3/index.json"
     },
     {
       "name": {
@@ -48,7 +52,8 @@
         "fa": "[ایران] پارس‌پک"
       },
       "url": "https://mirror.abrha.net/repository/nuget/index.json",
-      "shouldContain": "nuget"
+      "shouldContain": "nuget",
+      "address": "https://mirror.abrha.net/repository/nuget/index.json"
     },
     {
       "name": {
@@ -56,7 +61,8 @@
         "fa": "[ایران] دونیدز"
       },
       "url": "https://nuget.devneeds.ir/repository/nuget/index.json",
-      "shouldContain": "NuGet"
+      "shouldContain": "NuGet",
+      "address": "https://nuget.devneeds.ir/repository/nuget/index.json"
     }
   ]
 }

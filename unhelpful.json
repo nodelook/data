@@ -16,7 +16,8 @@
         "fa": "سایت ۱"
       },
       "url": "https://www.pornhub.com/passkey/preflight",
-      "shouldContain": "false"
+      "shouldContain": "false",
+      "address": "N/A"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "سایت ۲"
       },
       "url": "https://www.fuq.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "N/A"
     },
     {
       "name": {
@@ -32,7 +34,8 @@
         "fa": "سایت ۳"
       },
       "url": "https://xhamster.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "N/A"
     },
     {
       "name": {
@@ -40,7 +43,8 @@
         "fa": "سایت ۴"
       },
       "url": "https://www.xnxx.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "N/A"
     },
     {
       "name": {
@@ -48,7 +52,8 @@
         "fa": "سایت ۵"
       },
       "url": "https://www.redgifs.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "N/A"
     },
     {
       "name": {
@@ -56,7 +61,8 @@
         "fa": "سایت ۶"
       },
       "url": "https://stripchat.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "N/A"
     }
   ]
 }

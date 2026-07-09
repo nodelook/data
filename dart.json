@@ -16,7 +16,8 @@
         "fa": "پاب"
       },
       "url": "https://pub.dev/api/packages/http",
-      "shouldContain": "http"
+      "shouldContain": "http",
+      "address": "https://pub.dev/"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "[چین] دانشگاه تسینگ‌هوا"
       },
       "url": "https://mirrors.tuna.tsinghua.edu.cn/dart-pub/api/packages/http",
-      "shouldContain": "http"
+      "shouldContain": "http",
+      "address": "https://mirrors.tuna.tsinghua.edu.cn/dart-pub/"
     },
     {
       "name": {
@@ -32,7 +34,8 @@
         "fa": "[ایران] مایکت"
       },
       "url": "https://pub.myket.ir/api/packages/http",
-      "shouldContain": "http"
+      "shouldContain": "http",
+      "address": "https://pub.myket.ir/"
     },
     {
       "name": {
@@ -40,7 +43,8 @@
         "fa": "[ایران] حسابیکس (آینه‌ی مایکت)"
       },
       "url": "https://f.mirror.hesabix.ir/pub/api/packages/http",
-      "shouldContain": "http"
+      "shouldContain": "http",
+      "address": "https://f.mirror.hesabix.ir/pub/"
     }
   ]
 }

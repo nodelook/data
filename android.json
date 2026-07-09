@@ -16,7 +16,8 @@
         "fa": "گوگل"
       },
       "url": "https://dl.google.com/android/repository/repository.xml",
-      "shouldContain": "platform-tools"
+      "shouldContain": "platform-tools",
+      "address": "https://dl.google.com/android/repository/"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "گوگل (اس‌اس‌ال)"
       },
       "url": "https://dl-ssl.google.com/android/repository/repository.xml",
-      "shouldContain": "platform-tools"
+      "shouldContain": "platform-tools",
+      "address": "https://dl-ssl.google.com/android/repository/"
     },
     {
       "name": {
@@ -32,7 +34,8 @@
         "fa": "[ایران] دونیدز"
       },
       "url": "https://dl.devneeds.ir/android/repository.xml",
-      "shouldContain": "platform-tools"
+      "shouldContain": "platform-tools",
+      "address": "https://dl.devneeds.ir/android/"
     }
   ]
 }

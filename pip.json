@@ -16,7 +16,8 @@
         "fa": "پای‌پی"
       },
       "url": "https://pypi.org/simple/simpleindex/",
-      "shouldContain": "pypi:repository-version"
+      "shouldContain": "pypi:repository-version",
+      "address": "https://pypi.org/simple"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "[چین] دانشگاه علم و فناوری چین"
       },
       "url": "https://mirrors.ustc.edu.cn/pypi/simple/simpleindex/",
-      "shouldContain": "pypi:repository-version"
+      "shouldContain": "pypi:repository-version",
+      "address": "https://mirrors.ustc.edu.cn/pypi/simple"
     },
     {
       "name": {
@@ -32,7 +34,8 @@
         "fa": "[چین] دانشگاه تسینگ‌هوا"
       },
       "url": "https://pypi.tuna.tsinghua.edu.cn/simple/simpleindex/",
-      "shouldContain": "pypi:repository-version"
+      "shouldContain": "pypi:repository-version",
+      "address": "https://pypi.tuna.tsinghua.edu.cn/simple"
     },
     {
       "name": {
@@ -40,7 +43,8 @@
         "fa": "[چین] ابر هوآوی"
       },
       "url": "https://repo.huaweicloud.com/repository/pypi/simple/simpleindex/",
-      "shouldContain": "api-version"
+      "shouldContain": "api-version",
+      "address": "https://repo.huaweicloud.com/repository/pypi/simple"
     },
     {
       "name": {
@@ -48,7 +52,8 @@
         "fa": "[چین] ابر علی‌بابا"
       },
       "url": "https://mirrors.aliyun.com/pypi/simple/simpleindex/",
-      "shouldContain": "pypi:repository-version"
+      "shouldContain": "pypi:repository-version",
+      "address": "https://mirrors.aliyun.com/pypi/simple"
     },
     {
       "name": {
@@ -56,7 +61,8 @@
         "fa": "[ایران] رانفلر"
       },
       "url": "https://mirror-pypi.runflare.com/simple/simpleindex/",
-      "shouldContain": "pypi:repository-version"
+      "shouldContain": "pypi:repository-version",
+      "address": "https://mirror-pypi.runflare.com/simple"
     },
     {
       "name": {
@@ -64,7 +70,8 @@
         "fa": "[ایران] پارس‌پک"
       },
       "url": "https://mirror.abrha.net/repository/pypi/simple/simpleindex/",
-      "shouldContain": "api-version"
+      "shouldContain": "api-version",
+      "address": "https://mirror.abrha.net/repository/pypi/simple"
     },
     {
       "name": {
@@ -72,7 +79,8 @@
         "fa": "[ایران] دونیدز"
       },
       "url": "https://pypi.devneeds.ir/simple/simpleindex/",
-      "shouldContain": "api-version"
+      "shouldContain": "api-version",
+      "address": "https://pypi.devneeds.ir/simple"
     }
   ]
 }
