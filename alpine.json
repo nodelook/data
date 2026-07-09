@@ -788,8 +788,16 @@
     },
     {
       "name": {
-        "en": "SE liu ftp",
-        "fa": "SE liu ftp"
+        "en": "[Sweden] Linköping University (HTTP)",
+        "fa": "[سوئد] دانشگاه لینکپینگ (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://ftp.lysator.liu.se/pub/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
+      "shouldContain": "alpine"
+    },
+    {
+      "name": {
+        "en": "[Sweden] Linköping University",
+        "fa": "[سوئد] دانشگاه لینکپینگ"
       },
       "url": "https://ftp.lysator.liu.se/pub/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
       "shouldContain": "alpine"

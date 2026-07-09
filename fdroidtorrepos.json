@@ -16,7 +16,8 @@
         "fa": "اف-دروید"
       },
       "url": "http://fdroidorg6cooksyluodepej4erfctzk7rrjpjbbr6wx24jh3lqyfwyd.onion/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "http://fdroidorg6cooksyluodepej4erfctzk7rrjpjbbr6wx24jh3lqyfwyd.onion/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "بایگانی اف-دروید"
       },
       "url": "http://fdroidorg6cooksyluodepej4erfctzk7rrjpjbbr6wx24jh3lqyfwyd.onion/archive/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "http://fdroidorg6cooksyluodepej4erfctzk7rrjpjbbr6wx24jh3lqyfwyd.onion/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
     }
   ]
 }

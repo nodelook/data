@@ -1,0 +1,32 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "F-D T A",
+    "fa": "ب ت ا-د"
+  },
+  "description": {
+    "en": "F-Droid Tor Archives\nhttps://fdroid.link/#https://f-droid.org/repo",
+    "fa": "بایگانی‌های تور اف-دروید\nhttps://fdroid.link/#https://f-droid.org/repo"
+  },
+  "color": "#FF34A853",
+  "items": [
+    {
+      "name": {
+        "en": "F-Droid",
+        "fa": "اف-دروید"
+      },
+      "url": "http://fdroidorg6cooksyluodepej4erfctzk7rrjpjbbr6wx24jh3lqyfwyd.onion/archive/entry.json",
+      "shouldContain": "/index-v2.json",
+      "address": "http://fdroidorg6cooksyluodepej4erfctzk7rrjpjbbr6wx24jh3lqyfwyd.onion/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
+    },
+    {
+      "name": {
+        "en": "[Sweden] Linköping University",
+        "fa": "[سوئد] دانشگاه لینکپینگ"
+      },
+      "url": "http://lysator7eknrfl47rlyxvgeamrv7ucefgrrlhk7rouv3sna25asetwid.onion/archive/entry.json",
+      "shouldContain": "/index-v2.json",
+      "address": "http://lysator7eknrfl47rlyxvgeamrv7ucefgrrlhk7rouv3sna25asetwid.onion/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
+    }
+  ]
+}

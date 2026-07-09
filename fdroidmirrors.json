@@ -16,7 +16,8 @@
         "fa": "اف-دروید"
       },
       "url": "https://f-droid.org/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -24,15 +25,26 @@
         "fa": "NET Tetaneutral"
       },
       "url": "https://fdroid.tetaneutral.net/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
-        "en": "DE Agdsn",
-        "fa": "DE Agdsn"
+        "en": "[Germany] Dresden Student Network Association (HTTP)",
+        "fa": "[آلمان] انجمن شبکه دانشجویی درسدن (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://ftp.agdsn.de/fdroid/repo/entry.json",
+      "shouldContain": "/index-v2.json",
+      "address": "http://ftp.agdsn.de/fdroid/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
+    },
+    {
+      "name": {
+        "en": "[Germany] Dresden Student Network Association",
+        "fa": "[آلمان] انجمن شبکه دانشجویی درسدن"
       },
       "url": "https://ftp.agdsn.de/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://ftp.agdsn.de/fdroid/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
     },
     {
       "name": {
@@ -40,7 +52,8 @@
         "fa": "DE Fau"
       },
       "url": "https://ftp.fau.de/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -48,7 +61,8 @@
         "fa": "DE Gwdg"
       },
       "url": "https://ftp.gwdg.de/pub/android/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -56,7 +70,17 @@
         "fa": "[سوئد] دانشگاه لینکپینگ"
       },
       "url": "https://ftp.lysator.liu.se/pub/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://ftp.lysator.liu.se/pub/fdroid/repo?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
+    },
+    {
+      "name": {
+        "en": "[Sweden] Linköping University (HTTP)",
+        "fa": "[سوئد] دانشگاه لینکپینگ (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://ftp.lysator.liu.se/pub/fdroid/repo/entry.json",
+      "shouldContain": "/index-v2.json",
+      "address": "http://ftp.lysator.liu.se/pub/fdroid/repo/?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
     },
     {
       "name": {
@@ -64,7 +88,8 @@
         "fa": "EU Cyberbits"
       },
       "url": "https://mirror.cyberbits.eu/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -72,7 +97,8 @@
         "fa": "ORG Dotsrc"
       },
       "url": "https://mirrors.dotsrc.org/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -80,7 +106,8 @@
         "fa": "ORG freedif"
       },
       "url": "https://mirror.freedif.org/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -88,7 +115,8 @@
         "fa": "NET OSS Planet EU"
       },
       "url": "https://mirror.eu.ossplanet.net/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -96,7 +124,8 @@
         "fa": "NET Fcix"
       },
       "url": "https://mirror.fcix.net/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -104,7 +133,8 @@
         "fa": "NET ossplanet"
       },
       "url": "https://mirror.ossplanet.net/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -112,7 +142,8 @@
         "fa": "NET Fcix MM"
       },
       "url": "https://opencolo.mm.fcix.net/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -120,7 +151,8 @@
         "fa": "NET Init7"
       },
       "url": "https://mirror.init7.net/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -128,7 +160,8 @@
         "fa": "RO hostico"
       },
       "url": "https://mirrors.hostico.ro/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -136,7 +169,8 @@
         "fa": "RO lug"
       },
       "url": "https://ftp.lug.ro/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -144,7 +178,8 @@
         "fa": "RO chroot"
       },
       "url": "https://mirrors.chroot.ro/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -152,7 +187,8 @@
         "fa": "SYSTEMS kumi"
       },
       "url": "https://mirror.kumi.systems/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -160,7 +196,8 @@
         "fa": "SERVICES level66"
       },
       "url": "https://mirror.level66.services/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -168,7 +205,8 @@
         "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی‌اس)"
       },
       "url": "https://tuna.tsinghua.edu.cn/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -176,7 +214,8 @@
         "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی‌اس) (آی‌پی‌وی۴)"
       },
       "url": "https://mirrors4.tuna.tsinghua.edu.cn/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -184,7 +223,8 @@
         "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی‌اس) (آی‌پی‌وی۶)"
       },
       "url": "https://mirrors6.tuna.tsinghua.edu.cn/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -192,7 +232,8 @@
         "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی)"
       },
       "url": "http://tuna.tsinghua.edu.cn/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -200,7 +241,8 @@
         "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی) (آی‌پی‌وی۴)"
       },
       "url": "http://mirrors4.tuna.tsinghua.edu.cn/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -208,7 +250,8 @@
         "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی) (آی‌پی‌وی۶)"
       },
       "url": "http://mirrors6.tuna.tsinghua.edu.cn/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -216,7 +259,8 @@
         "fa": "[چین] دانشگاه فناوری نانیانگ (اچ‌تی‌تی‌پی‌اس)"
       },
       "url": "https://nyist.edu.cn/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -224,7 +268,8 @@
         "fa": "[چین] دانشگاه فناوری نانیانگ (اچ‌تی‌تی‌پی‌اس) (آی‌پی‌وی۴)"
       },
       "url": "https://mirror4.nyist.edu.cn/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -232,7 +277,8 @@
         "fa": "[چین] دانشگاه فناوری نانیانگ (اچ‌تی‌تی‌پی‌اس) (آی‌پی‌وی۶)"
       },
       "url": "https://mirror6.nyist.edu.cn/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -240,7 +286,8 @@
         "fa": "[چین] دانشگاه فناوری نانیانگ (اچ‌تی‌تی‌پی)"
       },
       "url": "http://nyist.edu.cn/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -248,7 +295,8 @@
         "fa": "[چین] دانشگاه فناوری نانیانگ (اچ‌تی‌تی‌پی) (آی‌پی‌وی۴)"
       },
       "url": "http://mirror4.nyist.edu.cn/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -256,7 +304,8 @@
         "fa": "[چین] دانشگاه فناوری نانیانگ (اچ‌تی‌تی‌پی) (آی‌پی‌وی۶)"
       },
       "url": "http://mirror6.nyist.edu.cn/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -264,7 +313,8 @@
         "fa": "[تایوان] شرکت جریان‌سازی دیجیتال تایوان"
       },
       "url": "https://mirror.twds.com.tw/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -272,7 +322,8 @@
         "fa": "[ایالات متحده] دانشگاه پردو"
       },
       "url": "https://plug-mirror.rcac.purdue.edu/fdroid/repo/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     }
   ]
 }

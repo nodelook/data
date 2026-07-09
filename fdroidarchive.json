@@ -5,8 +5,8 @@
     "fa": "آ ب ا-د"
   },
   "description": {
-    "en": "F-Droid Archive Mirrors\nhttps://fdroid.link/#https://f-droid.org/repo",
-    "fa": "آینه‌های بایگانی اف-دروید\nhttps://fdroid.link/#https://f-droid.org/repo"
+    "en": "F-Droid Archive Mirrors\nhttps://fdroid.link/#https://f-droid.org/repo?fingerprint=...",
+    "fa": "آینه‌های بایگانی اف-دروید\nhttps://fdroid.link/#https://f-droid.org/repo?fingerprint=..."
   },
   "color": "#FF34A853",
   "items": [
@@ -20,11 +20,21 @@
     },
     {
       "name": {
-        "en": "DE Agdsn",
-        "fa": "DE Agdsn"
+        "en": "[Germany] Dresden Student Network Association (HTTP)",
+        "fa": "[آلمان] انجمن شبکه دانشجویی درسدن (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://ftp.agdsn.de/fdroid/archive/entry.json",
+      "shouldContain": "/index-v2.json",
+      "address": "http://ftp.agdsn.de/fdroid/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
+    },
+    {
+      "name": {
+        "en": "[Germany] Dresden Student Network Association",
+        "fa": "[آلمان] انجمن شبکه دانشجویی درسدن"
       },
       "url": "https://ftp.agdsn.de/fdroid/archive/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://ftp.agdsn.de/fdroid/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
     },
     {
       "name": {
@@ -44,11 +54,21 @@
     },
     {
       "name": {
+        "en": "[Sweden] Linköping University (HTTP)",
+        "fa": "[سوئد] دانشگاه لینکپینگ (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://ftp.lysator.liu.se/pub/fdroid/archive/entry.json",
+      "shouldContain": "/index-v2.json",
+      "address": "http://ftp.lysator.liu.se/pub/fdroid/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
+    },
+    {
+      "name": {
         "en": "[Sweden] Linköping University",
         "fa": "[سوئد] دانشگاه لینکپینگ"
       },
       "url": "https://ftp.lysator.liu.se/pub/fdroid/archive/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://ftp.lysator.liu.se/pub/fdroid/archive?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
     },
     {
       "name": {
