@@ -1,0 +1,68 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "Matrix",
+    "fa": "ماتریکس"
+  },
+  "description": {
+    "en": "Matrix Servers",
+    "fa": "کارسازهای ماتریکس"
+  },
+  "color": "#FF4285F4",
+  "items": [
+    {
+      "name": {
+        "en": "[United States] Secure Channel",
+        "fa": "[ایالات متحده] کانال امن"
+      },
+      "url": "https://secure-channel.net/_matrix/client/versions",
+      "shouldContain": "io.element.e2ee_forced.trusted_private",
+      "address": "https://secure-channel.net/"
+    },
+    {
+      "name": {
+        "en": "[Canada] SK Community",
+        "fa": "[کانادا] انجمن اس‌کا"
+      },
+      "url": "https://sk.community/_matrix/client/versions",
+      "shouldContain": "io.element.e2ee_forced.trusted_private",
+      "address": "https://sk.community/"
+    },
+    {
+      "name": {
+        "en": "[Germany] Rollenspiel",
+        "fa": "[آلمان] نقش‌آفرینی"
+      },
+      "url": "https://rollenspiel.chat/_matrix/client/versions",
+      "shouldContain": "io.element.e2ee_forced.trusted_private",
+      "address": "https://rollenspiel.chat/"
+    },
+    {
+      "name": {
+        "en": "[Germany] Quassel",
+        "fa": "[آلمان] کواسل"
+      },
+      "url": "https://quassel.io/_matrix/client/versions",
+      "shouldContain": "io.element.e2ee_forced.trusted_private",
+      "address": "https://quassel.io/"
+    },
+    {
+      "name": {
+        "en": "[Germany] Magdeburg",
+        "fa": "[آلمان] ماگدبورگ"
+      },
+      "url": "https://magdeburg.jetzt/_matrix/client/versions",
+      "shouldContain": "io.element.e2ee_forced.trusted_private",
+      "address": "https://magdeburg.jetzt/"
+    },
+    {
+      "name": {
+        "en": "[China] Hashi",
+        "fa": "[چین] هاشی"
+      },
+      "url": "https://hashi.sbs/_matrix/client/versions",
+      "shouldContain": "io.element.e2ee_forced.trusted_private",
+      "address": "https://hashi.sbs/"
+    }
+  ]
+}
