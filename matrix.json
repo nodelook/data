@@ -63,6 +63,15 @@
       "url": "https://hashi.sbs/_matrix/client/versions",
       "shouldContain": "io.element.e2ee_forced.trusted_private",
       "address": "https://hashi.sbs/"
+    },
+    {
+      "name": {
+        "en": "[Iran] Fandak",
+        "fa": "[ایران] فندک"
+      },
+      "url": "https://chat4.fandak.lol/_matrix/client/versions",
+      "shouldContain": "io.element.e2ee_forced.trusted_private",
+      "address": "https://chat4.fandak.lol/"
     }
   ]
 }
