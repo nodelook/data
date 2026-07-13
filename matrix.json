@@ -16,7 +16,7 @@
         "fa": "[ایالات متحده] کانال امن"
       },
       "url": "https://secure-channel.net/_matrix/client/versions",
-      "shouldContain": "io.element.e2ee_forced.trusted_private",
+      "shouldContain": "org.matrix.e2e_cross_signing",
       "address": "https://secure-channel.net/"
     },
     {
@@ -25,7 +25,7 @@
         "fa": "[کانادا] انجمن اس‌کا"
       },
       "url": "https://sk.community/_matrix/client/versions",
-      "shouldContain": "io.element.e2ee_forced.trusted_private",
+      "shouldContain": "org.matrix.e2e_cross_signing",
       "address": "https://sk.community/"
     },
     {
@@ -34,7 +34,7 @@
         "fa": "[آلمان] نقش‌آفرینی"
       },
       "url": "https://rollenspiel.chat/_matrix/client/versions",
-      "shouldContain": "io.element.e2ee_forced.trusted_private",
+      "shouldContain": "org.matrix.e2e_cross_signing",
       "address": "https://rollenspiel.chat/"
     },
     {
@@ -43,7 +43,7 @@
         "fa": "[آلمان] کواسل"
       },
       "url": "https://quassel.io/_matrix/client/versions",
-      "shouldContain": "io.element.e2ee_forced.trusted_private",
+      "shouldContain": "org.matrix.e2e_cross_signing",
       "address": "https://quassel.io/"
     },
     {
@@ -52,7 +52,7 @@
         "fa": "[آلمان] ماگدبورگ"
       },
       "url": "https://magdeburg.jetzt/_matrix/client/versions",
-      "shouldContain": "io.element.e2ee_forced.trusted_private",
+      "shouldContain": "org.matrix.e2e_cross_signing",
       "address": "https://magdeburg.jetzt/"
     },
     {
@@ -61,7 +61,7 @@
         "fa": "[چین] هاشی"
       },
       "url": "https://hashi.sbs/_matrix/client/versions",
-      "shouldContain": "io.element.e2ee_forced.trusted_private",
+      "shouldContain": "org.matrix.e2e_cross_signing",
       "address": "https://hashi.sbs/"
     },
     {
@@ -70,7 +70,7 @@
         "fa": "[ایران] فندک"
       },
       "url": "https://chat4.fandak.lol/_matrix/client/versions",
-      "shouldContain": "io.element.e2ee_forced.trusted_private",
+      "shouldContain": "org.matrix.e2e_cross_signing",
       "address": "https://chat4.fandak.lol/"
     }
   ]
