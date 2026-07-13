@@ -1,12 +1,12 @@
 {
   "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
   "name": {
-    "en": "Unhelpful",
-    "fa": "بی‌فایده"
+    "en": "NSFW",
+    "fa": "ن‌س‌ف‌و"
   },
   "description": {
-    "en": "Unhelpful Sites",
-    "fa": "سایت‌های بی‌فایده"
+    "en": "Not Safe For Work",
+    "fa": "نامناسب برای محیط کار"
   },
   "color": "#FF4285F4",
   "items": [
