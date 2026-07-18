@@ -1,0 +1,104 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "GH Rel",
+    "fa": "رها گ‌ه"
+  },
+  "description": {
+    "en": "GitHub Release Mirrors",
+    "fa": "آینه‌های رهانش گیت‌هاب"
+  },
+  "color": "#FF4285F4",
+  "items": [
+    {
+      "name": {
+        "en": "GitHub",
+        "fa": "گیت‌هاب"
+      },
+      "url": "https://github.com/xmha97/test/releases/download/v1.0.0/status",
+      "shouldContain": "200",
+      "address": "https://github.com/<owner>/<repo>/releases/download/<tag>/<asset>"
+    },
+    {
+      "name": {
+        "en": "Statically",
+        "fa": "استاتیکالی"
+      },
+      "url": "https://cdn.statically.io/gh/xmha97/test@v1.0.0/status",
+      "shouldContain": "200",
+      "address": "https://cdn.statically.io/gh/<owner>/<repo>@<tag>/<asset>"
+    },
+    {
+      "name": {
+        "en": "jsDelivr",
+        "fa": "جی‌اس‌دلیور"
+      },
+      "url": "https://cdn.jsdelivr.net/gh/xmha97/test@v1.0.0/status",
+      "shouldContain": "200",
+      "address": "https://cdn.jsdelivr.net/gh/<owner>/<repo>@<tag>/<asset>"
+    },
+    {
+      "name": {
+        "en": "jsdMirror",
+        "fa": "جی‌اس‌دی‌میرور"
+      },
+      "url": "https://cdn.jsdmirror.com/gh/xmha97/test@v1.0.0/status",
+      "shouldContain": "200",
+      "address": "https://cdn.jsdmirror.com/gh/<owner>/<repo>@<tag>/<asset>"
+    },
+    {
+      "name": {
+        "en": "gh-Proxy",
+        "fa": "جی‌اچ-پروکسی"
+      },
+      "url": "https://gh-proxy.org/https://github.com/xmha97/test/releases/download/v1.0.0/status",
+      "shouldContain": "200",
+      "address": "https://gh-proxy.org/https://github.com/<owner>/<repo>/releases/download/<tag>/<asset>"
+    },
+    {
+      "name": {
+        "en": "ghProxy",
+        "fa": "جی‌اچ‌پروکسی"
+      },
+      "url": "https://ghproxy.net/https://github.com/xmha97/test/releases/download/v1.0.0/status",
+      "shouldContain": "200",
+      "address": "https://ghproxy.net/https://github.com/<owner>/<repo>/releases/download/<tag>/<asset>"
+    },
+    {
+      "name": {
+        "en": "proxy.gitwarp",
+        "fa": "proxy.gitwarp"
+      },
+      "url": "https://proxy.gitwarp.com/https://github.com/xmha97/test/releases/download/v1.0.0/status",
+      "shouldContain": "200",
+      "address": "https://proxy.gitwarp.com/https://github.com/<owner>/<repo>/releases/download/<tag>/<asset>"
+    },
+    {
+      "name": {
+        "en": "ghfast",
+        "fa": "ghfast"
+      },
+      "url": "https://ghfast.top/https://github.com/xmha97/test/releases/download/v1.0.0/status",
+      "shouldContain": "200",
+      "address": "https://ghfast.top/https://github.com/<owner>/<repo>/releases/download/<tag>/<asset>"
+    },
+    {
+      "name": {
+        "en": "github.mxw.qzz",
+        "fa": "github.mxw.qzz"
+      },
+      "url": "https://github.mxw.qzz.io/https://github.com/xmha97/test/releases/download/v1.0.0/status",
+      "shouldContain": "200",
+      "address": "https://github.mxw.qzz.io/https://github.com/<owner>/<repo>/releases/download/<tag>/<asset>"
+    },
+    {
+      "name": {
+        "en": "down.mxw.qzz",
+        "fa": "down.mxw.qzz"
+      },
+      "url": "https://down.mxw.qzz.io/https://github.com/xmha97/test/releases/download/v1.0.0/status",
+      "shouldContain": "200",
+      "address": "https://down.mxw.qzz.io/https://github.com/<owner>/<repo>/releases/download/<tag>/<asset>"
+    }
+  ]
+}

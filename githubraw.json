@@ -1,0 +1,113 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "GH Raw",
+    "fa": "خام گ‌ه"
+  },
+  "description": {
+    "en": "GitHub Raw Content Mirrors",
+    "fa": "آینه‌های محتوای خام گیت‌هاب"
+  },
+  "color": "#FF4285F4",
+  "items": [
+    {
+      "name": {
+        "en": "GitHub",
+        "fa": "گیت‌هاب"
+      },
+      "url": "https://raw.githubusercontent.com/xmha97/test/refs/heads/main/status",
+      "shouldContain": "200",
+      "address": "https://raw.githubusercontent.com/<owner>/<repo>/refs/heads/<branch>/<path>"
+    },
+    {
+      "name": {
+        "en": "Statically",
+        "fa": "استاتیکالی"
+      },
+      "url": "https://cdn.statically.io/gh/xmha97/test@main/status",
+      "shouldContain": "200",
+      "address": "https://cdn.statically.io/gh/<owner>/<repo>@<branch>/<path>"
+    },
+    {
+      "name": {
+        "en": "jsDelivr",
+        "fa": "جی‌اس‌دلیور"
+      },
+      "url": "https://cdn.jsdelivr.net/gh/xmha97/test@main/status",
+      "shouldContain": "200",
+      "address": "https://cdn.jsdelivr.net/gh/<owner>/<repo>@<branch>/<path>"
+    },
+    {
+      "name": {
+        "en": "jsdMirror",
+        "fa": "جی‌اس‌دی‌میرور"
+      },
+      "url": "https://cdn.jsdmirror.com/gh/xmha97/test@main/status",
+      "shouldContain": "200",
+      "address": "https://cdn.jsdmirror.com/gh/<owner>/<repo>@<branch>/<path>"
+    },
+    {
+      "name": {
+        "en": "gh-Proxy",
+        "fa": "جی‌اچ-پروکسی"
+      },
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/xmha97/test/refs/heads/main/status",
+      "shouldContain": "200",
+      "address": "https://gh-proxy.org/https://raw.githubusercontent.com/<owner>/<repo>/refs/heads/<branch>/<path>"
+    },
+    {
+      "name": {
+        "en": "ghProxy",
+        "fa": "جی‌اچ‌پروکسی"
+      },
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/xmha97/test/refs/heads/main/status",
+      "shouldContain": "200",
+      "address": "https://ghproxy.net/https://raw.githubusercontent.com/<owner>/<repo>/refs/heads/<branch>/<path>"
+    },
+    {
+      "name": {
+        "en": "proxy.gitwarp",
+        "fa": "proxy.gitwarp"
+      },
+      "url": "https://proxy.gitwarp.com/https://raw.githubusercontent.com/xmha97/test/refs/heads/main/status",
+      "shouldContain": "200",
+      "address": "https://proxy.gitwarp.com/https://raw.githubusercontent.com/<owner>/<repo>/refs/heads/<branch>/<path>"
+    },
+    {
+      "name": {
+        "en": "ghfast",
+        "fa": "ghfast"
+      },
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/xmha97/test/refs/heads/main/status",
+      "shouldContain": "200",
+      "address": "https://ghfast.top/https://raw.githubusercontent.com/<owner>/<repo>/refs/heads/<branch>/<path>"
+    },
+    {
+      "name": {
+        "en": "github.mxw.qzz",
+        "fa": "github.mxw.qzz"
+      },
+      "url": "https://github.mxw.qzz.io/https://raw.githubusercontent.com/xmha97/test/refs/heads/main/status",
+      "shouldContain": "200",
+      "address": "https://github.mxw.qzz.io/https://raw.githubusercontent.com/<owner>/<repo>/refs/heads/<branch>/<path>"
+    },
+    {
+      "name": {
+        "en": "down.mxw.qzz",
+        "fa": "down.mxw.qzz"
+      },
+      "url": "https://down.mxw.qzz.io/https://raw.githubusercontent.com/xmha97/test/refs/heads/main/status",
+      "shouldContain": "200",
+      "address": "https://down.mxw.qzz.io/https://raw.githubusercontent.com/<owner>/<repo>/refs/heads/<branch>/<path>"
+    },
+    {
+      "name": {
+        "en": "GitHubRAW",
+        "fa": "خام‌گیت‌هاب"
+      },
+      "url": "https://githubraw.com/xmha97/test/main/status",
+      "shouldContain": "200",
+      "address": "https://githubraw.com/<owner>/<repo>/<branch>/<path>"
+    }
+  ]
+}
