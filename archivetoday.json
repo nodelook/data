@@ -1,0 +1,59 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "ATD",
+    "fa": "اب‌گ"
+  },
+  "description": {
+    "en": "ArchiveToday Alternate Domains\n\nArchiveToday is a web archiving service that preserves snapshots of web pages.",
+    "fa": "دامنه‌های جایگزین امروزبایگانی\n\nامروزبایگانی یک سرویس بایگانی وب است که نسخه‌های ذخیره‌شده از صفحات وب را نگهداری می‌کند."
+  },
+  "color": "#FF34A853",
+  "items": [
+    {
+      "name": {
+        "en": "Today Domain",
+        "fa": "دامنه‌ی امروز"
+      },
+      "url": "https://archive.today/submit",
+      "shouldContain": "Not Found (yet?)",
+      "address": "https://archive.today/"
+    },
+    {
+      "name": {
+        "en": "Philippines Domain",
+        "fa": "دامنه‌ی فیلیپین"
+      },
+      "url": "https://archive.ph/submit",
+      "shouldContain": "Not Found (yet?)",
+      "address": "https://archive.ph/"
+    },
+    {
+      "name": {
+        "en": "Vietnam Domain",
+        "fa": "دامنه‌ی ویتنام"
+      },
+      "url": "https://archive.vn/submit",
+      "shouldContain": "Not Found (yet?)",
+      "address": "https://archive.vn/"
+    },
+    {
+      "name": {
+        "en": "Liechtenstein Domain",
+        "fa": "دامنه‌ی لیختن‌اشتاین"
+      },
+      "url": "https://archive.li/submit",
+      "shouldContain": "Not Found (yet?)",
+      "address": "https://archive.li/"
+    },
+    {
+      "name": {
+        "en": "Iceland Domain",
+        "fa": "دامنه‌ی ایسلند"
+      },
+      "url": "https://archive.is/submit",
+      "shouldContain": "Not Found (yet?)",
+      "address": "https://archive.is/"
+    }
+  ]
+}
