@@ -12,11 +12,21 @@
   "items": [
     {
       "name": {
+        "en": "Docker Registry",
+        "fa": "سیاهه‌ی داکر"
+      },
+      "url": "https://registry-1.docker.io/v2/jc21/nginx-proxy-manager/manifests/latest",
+      "shouldContain": "application/vnd.oci.image.index.v1+json",
+      "address": "https://registry-1.docker.io"
+    },
+    {
+      "name": {
         "en": "[Russia] Timeweb Cloud",
         "fa": "[روسیه] ابر تایم‌وب"
       },
       "url": "https://dockerhub.timeweb.cloud/v2/jc21/nginx-proxy-manager/manifests/latest",
-      "shouldContain": "application/vnd.oci.image.index.v1+json"
+      "shouldContain": "application/vnd.oci.image.index.v1+json",
+      "address": "https://dockerhub.timeweb.cloud"
     },
     {
       "name": {
@@ -24,7 +34,8 @@
         "fa": "[روسیه] گیت‌ورس"
       },
       "url": "https://dh-mirror.gitverse.ru/v2/jc21/nginx-proxy-manager/manifests/latest",
-      "shouldContain": "application/vnd.oci.image.index.v1+json"
+      "shouldContain": "application/vnd.oci.image.index.v1+json",
+      "address": "https://dh-mirror.gitverse.ru"
     },
     {
       "name": {
@@ -32,7 +43,8 @@
         "fa": "[ایران] پردیسکو"
       },
       "url": "https://mirrors.pardisco.co/v2/jc21/nginx-proxy-manager/manifests/latest",
-      "shouldContain": "application/vnd.oci.image.index.v1+json"
+      "shouldContain": "application/vnd.oci.image.index.v1+json",
+      "address": "https://mirrors.pardisco.co"
     },
     {
       "name": {
@@ -40,7 +52,8 @@
         "fa": "[ایران] ابر آروان"
       },
       "url": "https://docker.arvancloud.ir/v2/jc21/nginx-proxy-manager/manifests/latest",
-      "shouldContain": "application/vnd.oci.image.index.v1+json"
+      "shouldContain": "application/vnd.oci.image.index.v1+json",
+      "address": "https://docker.arvancloud.ir"
     },
     {
       "name": {
@@ -48,7 +61,8 @@
         "fa": "[ایران] ابر آتلانتیس"
       },
       "url": "https://hub.atlantiscloud.ir/v2/jc21/nginx-proxy-manager/manifests/latest",
-      "shouldContain": "application/vnd.oci.image.index.v1+json"
+      "shouldContain": "application/vnd.oci.image.index.v1+json",
+      "address": "https://hub.atlantiscloud.ir"
     },
     {
       "name": {
@@ -56,7 +70,8 @@
         "fa": "[ایران] داکرآی‌آر"
       },
       "url": "https://registry.docker.ir/v2/jc21/nginx-proxy-manager/manifests/latest",
-      "shouldContain": "application/vnd.oci.image.index.v1+json"
+      "shouldContain": "application/vnd.oci.image.index.v1+json",
+      "address": "https://registry.docker.ir"
     },
     {
       "name": {
@@ -64,7 +79,8 @@
         "fa": "[ایران] رانفلر"
       },
       "url": "https://mirror-docker.runflare.com/v2/jc21/nginx-proxy-manager/manifests/latest",
-      "shouldContain": "application/vnd.oci.image.index.v1+json"
+      "shouldContain": "application/vnd.oci.image.index.v1+json",
+      "address": "https://mirror-docker.runflare.com"
     },
     {
       "name": {
@@ -72,7 +88,8 @@
         "fa": "[ایران] پارس‌پک"
       },
       "url": "https://docker.abrha.net/v2/jc21/nginx-proxy-manager/manifests/latest",
-      "shouldContain": "application/vnd.oci.image.index.v1+json"
+      "shouldContain": "application/vnd.oci.image.index.v1+json",
+      "address": "https://docker.abrha.net"
     },
     {
       "name": {
@@ -80,7 +97,8 @@
         "fa": "[ایران] دونیدز"
       },
       "url": "https://docker.devneeds.ir/v2/jc21/nginx-proxy-manager/manifests/latest",
-      "shouldContain": "application/vnd.oci.image.index.v1+json"
+      "shouldContain": "application/vnd.oci.image.index.v1+json",
+      "address": "https://docker.devneeds.ir"
     }
   ]
 }
