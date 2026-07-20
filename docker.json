@@ -5,8 +5,8 @@
     "fa": "داکر"
   },
   "description": {
-    "en": "Docker Registry Mirrors\nsudo nano /etc/docker/daemon.json",
-    "fa": "آینه‌های سیاهه‌ی داکر\nsudo nano /etc/docker/daemon.json"
+    "en": "Docker Registry Mirrors\n\nsudo nano /etc/docker/daemon.json\n\nsudo docker pull <registry>/<user>/<image>:<tag>\nsudo docker pull docker.io/library/hello-world:latest",
+    "fa": "آینه‌های سیاهه‌ی داکر\n\nsudo nano /etc/docker/daemon.json\n\nsudo docker pull <registry>/<user>/<image>:<tag>\nsudo docker pull docker.io/library/hello-world:latest"
   },
   "color": "#FF34A853",
   "items": [
