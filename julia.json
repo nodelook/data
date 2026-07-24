@@ -24,7 +24,7 @@
         "en": "[China] Tsinghua University",
         "fa": "[چین] دانشگاه تسینگ‌هوا"
       },
-      "url": "https://mirrors.tuna.tsinghua.edu.cn/julia/registries.conservative",
+      "url": "https://mirrors.tuna.tsinghua.edu.cn/julia/registries",
       "shouldContain": "/registry/",
       "address": "https://"
     },
@@ -33,7 +33,7 @@
         "en": "[China] University of Science and Technology of China",
         "fa": "[چین] دانشگاه علم و فناوری چین"
       },
-      "url": "https://mirrors.ustc.edu.cn/julia/registries.conservative",
+      "url": "https://mirrors.ustc.edu.cn/julia/registries",
       "shouldContain": "/registry/",
       "address": "https://"
     },
@@ -42,7 +42,7 @@
         "en": "[China] Beijing Foreign Studies University",
         "fa": "[چین] دانشگاه مطالعات خارجی پکن"
       },
-      "url": "https://mirrors.bfsu.edu.cn/julia/registries.conservative",
+      "url": "https://mirrors.bfsu.edu.cn/julia/registries",
       "shouldContain": "/registry/",
       "address": "https://"
     },
@@ -51,7 +51,7 @@
         "en": "[China] Shanghai Jiao Tong University",
         "fa": "[چین] دانشگاه شانگهای جیائو تونگ"
       },
-      "url": "https://mirrors.sjtug.sjtu.edu.cn/julia/registries.conservative",
+      "url": "https://mirrors.sjtug.sjtu.edu.cn/julia/registries",
       "shouldContain": "/registry/",
       "address": "https://"
     },
@@ -60,7 +60,7 @@
         "en": "[China] Nanjing University (HTTP)",
         "fa": "[چین] دانشگاه نانجینگ (اچ‌تی‌تی‌پی)"
       },
-      "url": "https://mirror.nju.edu.cn/julia/registries.conservative",
+      "url": "https://mirror.nju.edu.cn/julia/registries",
       "shouldContain": "/registry/",
       "address": "https://"
     },
@@ -69,7 +69,7 @@
         "en": "[China] Southern University of Science and Technology",
         "fa": "[چین] دانشگاه علم و فناوری جنوب"
       },
-      "url": "https://mirrors.sustech.edu.cn/julia/registries.conservative",
+      "url": "https://mirrors.sustech.edu.cn/julia/registries",
       "shouldContain": "/registry/",
       "address": "https://"
     }
