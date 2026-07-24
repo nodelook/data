@@ -16,7 +16,8 @@
         "fa": "Spotify: Site"
       },
       "url": "https://www.spotify.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "Spotify: Web"
       },
       "url": "https://open.spotify.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -32,7 +34,8 @@
         "fa": "Spotify: API"
       },
       "url": "https://api.spotify.com/v1/me",
-      "shouldContain": "No token provided"
+      "shouldContain": "No token provided",
+      "address": "https://"
     },
     {
       "name": {
@@ -40,7 +43,8 @@
         "fa": "YouTube Music"
       },
       "url": "https://music.youtube.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -48,7 +52,8 @@
         "fa": "Anghami"
       },
       "url": "https://play.anghami.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     }
   ]
 }

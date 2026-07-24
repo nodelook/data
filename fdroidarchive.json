@@ -16,7 +16,8 @@
         "fa": "اف-دروید"
       },
       "url": "https://f-droid.org/archive/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -42,7 +43,8 @@
         "fa": "DE Fau"
       },
       "url": "https://ftp.fau.de/fdroid/archive/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -50,7 +52,8 @@
         "fa": "DE Gwdg"
       },
       "url": "https://ftp.gwdg.de/pub/android/fdroid/archive/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -76,7 +79,8 @@
         "fa": "ORG Dotsrc"
       },
       "url": "https://mirrors.dotsrc.org/fdroid/archive/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -84,7 +88,8 @@
         "fa": "ORG freedif"
       },
       "url": "https://mirror.freedif.org/fdroid/archive/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -92,7 +97,8 @@
         "fa": "NET Fcix"
       },
       "url": "https://mirror.fcix.net/fdroid/archive/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -100,7 +106,8 @@
         "fa": "SYSTEMS kumi"
       },
       "url": "https://mirror.kumi.systems/fdroid/archive/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -108,7 +115,8 @@
         "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی‌اس)"
       },
       "url": "https://tuna.tsinghua.edu.cn/fdroid/archive/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -116,7 +124,8 @@
         "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی‌اس) (آی‌پی‌وی۴)"
       },
       "url": "https://mirrors4.tuna.tsinghua.edu.cn/fdroid/archive/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -124,7 +133,8 @@
         "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی‌اس) (آی‌پی‌وی۶)"
       },
       "url": "https://mirrors6.tuna.tsinghua.edu.cn/fdroid/archive/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -132,7 +142,8 @@
         "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی)"
       },
       "url": "http://tuna.tsinghua.edu.cn/fdroid/archive/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -140,7 +151,8 @@
         "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی) (آی‌پی‌وی۴)"
       },
       "url": "http://mirrors4.tuna.tsinghua.edu.cn/fdroid/archive/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     },
     {
       "name": {
@@ -148,7 +160,8 @@
         "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی) (آی‌پی‌وی۶)"
       },
       "url": "http://mirrors6.tuna.tsinghua.edu.cn/fdroid/archive/entry.json",
-      "shouldContain": "/index-v2.json"
+      "shouldContain": "/index-v2.json",
+      "address": "https://"
     }
   ]
 }

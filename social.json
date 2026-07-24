@@ -16,7 +16,8 @@
         "fa": "ای‌پی‌آی تلگرام"
       },
       "url": "https://api.telegram.org/bot8800291172:AAERUk1GJw6KYWQ4LyaA7Gxh-jCuFcUdcLE/getMe",
-      "shouldContain": "thetgapiisworkingproperlybot"
+      "shouldContain": "thetgapiisworkingproperlybot",
+      "address": "https://"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "تلگرام"
       },
       "url": "https://telegram.me/_websync_",
-      "shouldContain": "true"
+      "shouldContain": "true",
+      "address": "https://"
     },
     {
       "name": {
@@ -32,7 +34,8 @@
         "fa": "تلگاوان"
       },
       "url": "https://telega.one/_websync_",
-      "shouldContain": "true"
+      "shouldContain": "true",
+      "address": "https://"
     },
     {
       "name": {
@@ -40,7 +43,8 @@
         "fa": "تی‌ایکس"
       },
       "url": "https://tx.me/_websync_",
-      "shouldContain": "true"
+      "shouldContain": "true",
+      "address": "https://"
     },
     {
       "name": {
@@ -48,7 +52,8 @@
         "fa": "(پیوند کوتاه‌شده) تلگرام"
       },
       "url": "https://t.me/_websync_",
-      "shouldContain": "true"
+      "shouldContain": "true",
+      "address": "https://"
     },
     {
       "name": {
@@ -56,7 +61,8 @@
         "fa": "تلگرام سگ"
       },
       "url": "https://telegram.dog/_websync_",
-      "shouldContain": "true"
+      "shouldContain": "true",
+      "address": "https://"
     },
     {
       "name": {
@@ -64,7 +70,8 @@
         "fa": "تلگراف"
       },
       "url": "https://edit.telegra.ph/check",
-      "shouldContain": "Access denied"
+      "shouldContain": "Access denied",
+      "address": "https://"
     },
     {
       "name": {
@@ -72,7 +79,8 @@
         "fa": "تلگراف (گراف)"
       },
       "url": "https://edit.graph.org/check",
-      "shouldContain": "Access denied"
+      "shouldContain": "Access denied",
+      "address": "https://"
     },
     {
       "name": {
@@ -80,7 +88,8 @@
         "fa": "تلگراف (له‌گراف)"
       },
       "url": "https://edit.legra.ph/check",
-      "shouldContain": "Access denied"
+      "shouldContain": "Access denied",
+      "address": "https://"
     },
     {
       "name": {
@@ -88,7 +97,8 @@
         "fa": "تلسکوپ"
       },
       "url": "https://telesco.pe/telegram",
-      "shouldContain": "Telegram News"
+      "shouldContain": "Telegram News",
+      "address": "https://"
     },
     {
       "name": {
@@ -96,7 +106,8 @@
         "fa": "تلسکوپ (فضای تلگرام)"
       },
       "url": "https://telegram.space/telegram",
-      "shouldContain": "Telegram News"
+      "shouldContain": "Telegram News",
+      "address": "https://"
     },
     {
       "name": {
@@ -104,7 +115,8 @@
         "fa": "تیک‌تاک"
       },
       "url": "https://www.tiktok.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -112,7 +124,8 @@
         "fa": "دیسکورد"
       },
       "url": "https://discord.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -120,7 +133,8 @@
         "fa": "سیگنال"
       },
       "url": "https://updates.signal.org/desktop/latest.yml",
-      "shouldContain": "signal"
+      "shouldContain": "signal",
+      "address": "https://"
     },
     {
       "name": {
@@ -128,7 +142,8 @@
         "fa": "واتس‌اپ: سایت"
       },
       "url": "https://www.whatsapp.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -136,7 +151,8 @@
         "fa": "واتس‌اپ: وب"
       },
       "url": "https://web.whatsapp.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -144,7 +160,8 @@
         "fa": "فیسبوک: سایت"
       },
       "url": "https://www.facebook.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -152,7 +169,8 @@
         "fa": "اینستاگرام"
       },
       "url": "https://www.instagram.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -160,7 +178,8 @@
         "fa": "تردز"
       },
       "url": "https://www.threads.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -168,7 +187,8 @@
         "fa": "ریدیت"
       },
       "url": "https://www.reddit.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -176,7 +196,8 @@
         "fa": "ایکس"
       },
       "url": "https://x.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -184,7 +205,8 @@
         "fa": "بلواسکای"
       },
       "url": "https://bsky.app/robots.txt",
-      "shouldContain": "Allow"
+      "shouldContain": "Allow",
+      "address": "https://"
     },
     {
       "name": {
@@ -192,7 +214,8 @@
         "fa": "وی‌کای"
       },
       "url": "https://vk.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -200,7 +223,8 @@
         "fa": "[ایران] بله: سایت"
       },
       "url": "https://bale.ai/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -208,7 +232,8 @@
         "fa": "[ایران] بله: وب"
       },
       "url": "https://web.bale.ai/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -216,7 +241,8 @@
         "fa": "[ایران] بله: وب بتا"
       },
       "url": "https://beta.bale.ai/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -224,7 +250,8 @@
         "fa": "ای‌پی‌آی بله"
       },
       "url": "https://tapi.bale.ai/bot1386825326:9faNYe7VeDn-n_O7RspmMF4zj7Vfu3MxPq4/getMe",
-      "shouldContain": "thetgapiisworkingproperlybot"
+      "shouldContain": "thetgapiisworkingproperlybot",
+      "address": "https://"
     },
     {
       "name": {
@@ -232,7 +259,8 @@
         "fa": "[ایران] بله: ای‌پی‌آی"
       },
       "url": "https://assets.bale.ai/configs.json",
-      "shouldContain": "bale"
+      "shouldContain": "bale",
+      "address": "https://"
     },
     {
       "name": {
@@ -240,7 +268,8 @@
         "fa": "[ایران] بله: سرور سیگنالینگ ۲"
       },
       "url": "https://meet-gwbm2.ble.ir/",
-      "shouldContain": "OK"
+      "shouldContain": "OK",
+      "address": "https://"
     },
     {
       "name": {
@@ -248,7 +277,8 @@
         "fa": "[ایران] بله: سرور سیگنالینگ ۳"
       },
       "url": "https://meet-gwbm3.ble.ir/",
-      "shouldContain": "OK"
+      "shouldContain": "OK",
+      "address": "https://"
     },
     {
       "name": {
@@ -256,7 +286,8 @@
         "fa": "[ایران] بله: سرور سیگنالینگ ۴"
       },
       "url": "https://meet-gwbm4.ble.ir/",
-      "shouldContain": "OK"
+      "shouldContain": "OK",
+      "address": "https://"
     },
     {
       "name": {
@@ -264,7 +295,8 @@
         "fa": "[ایران] بله: سرور سیگنالینگ ۵"
       },
       "url": "https://meet-gwbm5.ble.ir/",
-      "shouldContain": "OK"
+      "shouldContain": "OK",
+      "address": "https://"
     },
     {
       "name": {
@@ -272,7 +304,8 @@
         "fa": "[ایران] بله: سرور سیگنالینگ ۶"
       },
       "url": "https://meet-gwbm6.ble.ir/",
-      "shouldContain": "OK"
+      "shouldContain": "OK",
+      "address": "https://"
     },
     {
       "name": {
@@ -280,7 +313,8 @@
         "fa": "[ایران] بله: میت"
       },
       "url": "https://meet.bale.ai/token",
-      "shouldContain": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
+      "shouldContain": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9",
+      "address": "https://"
     },
     {
       "name": {
@@ -288,7 +322,8 @@
         "fa": "[ایران] مای‌دات"
       },
       "url": "https://api.mydot.one/mydot/api/health/",
-      "shouldContain": "ok"
+      "shouldContain": "ok",
+      "address": "https://"
     },
     {
       "name": {
@@ -296,7 +331,8 @@
         "fa": "[ایران] ایتا: سایت"
       },
       "url": "https://eitaa.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -304,7 +340,8 @@
         "fa": "[ایران] ایتا: من"
       },
       "url": "https://my.eitaa.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -312,7 +349,8 @@
         "fa": "[ایران] ایتا: سرور علیرضا"
       },
       "url": "https://alireza.eitaa.com/eitaa/",
-      "shouldContain": "INVALID_CONSTRUCTOR"
+      "shouldContain": "INVALID_CONSTRUCTOR",
+      "address": "https://"
     },
     {
       "name": {
@@ -320,7 +358,8 @@
         "fa": "[ایران] ایتا: سرور مجید"
       },
       "url": "https://majid.eitaa.com/eitaa/",
-      "shouldContain": "INVALID_CONSTRUCTOR"
+      "shouldContain": "INVALID_CONSTRUCTOR",
+      "address": "https://"
     }
   ]
 }

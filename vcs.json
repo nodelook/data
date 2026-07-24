@@ -16,7 +16,8 @@
         "fa": "سایت گیت‌هاب"
       },
       "url": "https://github.com/xmha97/test/blob/main/test",
-      "shouldContain": "thegithubsiteisworkingproperly"
+      "shouldContain": "thegithubsiteisworkingproperly",
+      "address": "https://"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "ای‌پی‌آی گیت‌هاب"
       },
       "url": "https://api.github.com/octocat?s=thegithubapiisworkingproperly",
-      "shouldContain": "thegithubapiisworkingproperly"
+      "shouldContain": "thegithubapiisworkingproperly",
+      "address": "https://"
     },
     {
       "name": {
@@ -32,7 +34,8 @@
         "fa": "صفحه‌های گیت‌هاب"
       },
       "url": "https://xmha97.github.io/status",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -40,7 +43,8 @@
         "fa": "گیست‌های گیت‌هاب"
       },
       "url": "https://gist.githubusercontent.com/xmha97/94f6ba425d9874179fdd73fc0e2dc899/raw/e3a7ca5109c651f711000b3a02b4e032bd1d695f/status",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -48,7 +52,8 @@
         "fa": "مخزن گیت‌هاب"
       },
       "url": "https://raw.githubusercontent.com/xmha97/test/refs/heads/main/status",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -56,7 +61,8 @@
         "fa": "رهانش‌های گیت‌هاب"
       },
       "url": "https://github.com/xmha97/test/releases/download/v1.0.0/status",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -64,7 +70,8 @@
         "fa": "اپ گیت‌هاب"
       },
       "url": "https://githubapp.com",
-      "shouldContain": "OK"
+      "shouldContain": "OK",
+      "address": "https://"
     },
     {
       "name": {
@@ -72,7 +79,8 @@
         "fa": "مخزن کدبرگ"
       },
       "url": "https://codeberg.org/xmha97/test/raw/branch/main/status",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -80,7 +88,8 @@
         "fa": "رهانش‌های کدبرگ"
       },
       "url": "https://codeberg.org/xmha97/test/releases/download/v1.0.0/status",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -88,7 +97,8 @@
         "fa": "گیت‌لب"
       },
       "url": "https://gitlab.com/xmha97/test/-/raw/master/status",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -96,7 +106,8 @@
         "fa": "هم‌گیت (گیت‌لب) [ایران]"
       },
       "url": "https://hamgit.ir/xmha97/test/-/raw/main/status",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -104,7 +115,8 @@
         "fa": "آران‌سرور (گیت‌لب) [ایران]"
       },
       "url": "https://gitlab.aranserver.com/xmha97/test/-/raw/main/status",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -112,7 +124,8 @@
         "fa": "فندک (گیتی) [ایران]"
       },
       "url": "https://gitea.fandak.lol/xmha97/test/raw/branch/main/status",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -120,7 +133,8 @@
         "fa": "ام‌رد (گیتی) [ایران]"
       },
       "url": "https://git.mred.ir/xmha97/test/raw/branch/main/status",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     }
   ]
 }

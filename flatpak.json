@@ -16,7 +16,8 @@
         "fa": "مرکزی"
       },
       "url": "https://dl.flathub.org/repo/flathub.flatpakrepo",
-      "shouldContain": "[Flatpak Repo]"
+      "shouldContain": "[Flatpak Repo]",
+      "address": "https://"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "سیستم عامل المنتری"
       },
       "url": "https://flatpak.elementaryos.org/repo.flatpakrepo",
-      "shouldContain": "[Flatpak Repo]"
+      "shouldContain": "[Flatpak Repo]",
+      "address": "https://"
     },
     {
       "name": {
@@ -32,7 +34,8 @@
         "fa": "سیستم عامل پیور"
       },
       "url": "https://pureos.store/repo/stable/pureos.flatpakrepo",
-      "shouldContain": "[Flatpak Repo]"
+      "shouldContain": "[Flatpak Repo]",
+      "address": "https://"
     },
     {
       "name": {
@@ -40,7 +43,8 @@
         "fa": "اپلیکیشن‌های ایگالیا"
       },
       "url": "https://software.igalia.com/flatpak-refs/igalia.flatpakrepo",
-      "shouldContain": "[Flatpak Repo]"
+      "shouldContain": "[Flatpak Repo]",
+      "address": "https://"
     },
     {
       "name": {
@@ -48,7 +52,8 @@
         "fa": "فلت‌هاب بتا"
       },
       "url": "https://dl.flathub.org/beta-repo/flathub-beta.flatpakrepo",
-      "shouldContain": "[Flatpak Repo]"
+      "shouldContain": "[Flatpak Repo]",
+      "address": "https://"
     },
     {
       "name": {
@@ -56,7 +61,8 @@
         "fa": "گنوم شبانه"
       },
       "url": "https://nightly.gnome.org/gnome-nightly.flatpakrepo",
-      "shouldContain": "[Flatpak Repo]"
+      "shouldContain": "[Flatpak Repo]",
+      "address": "https://"
     }
   ]
 }

@@ -16,7 +16,8 @@
         "fa": "[چین] ابر علی‌بابا"
       },
       "url": "https://maven.aliyun.com/repository/google/com/android/tools/build/gradle/maven-metadata.xml",
-      "shouldContain": "com.android.tools.build"
+      "shouldContain": "com.android.tools.build",
+      "address": "https://"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "[ایران] مایکت"
       },
       "url": "https://maven.myket.ir/com/android/tools/build/gradle/maven-metadata.xml",
-      "shouldContain": "com.android.tools.build"
+      "shouldContain": "com.android.tools.build",
+      "address": "https://"
     },
     {
       "name": {
@@ -32,7 +34,8 @@
         "fa": "[ایران] عبدالله‌زاده"
       },
       "url": "https://pub-azs.ir/api/mavens/com/android/tools/build/gradle/maven-metadata.xml",
-      "shouldContain": "com.android.tools.build"
+      "shouldContain": "com.android.tools.build",
+      "address": "https://"
     },
     {
       "name": {
@@ -40,7 +43,8 @@
         "fa": "[ایران] حسابیکس (آینه‌ی مایکت)"
       },
       "url": "https://gradle.mirror.hesabix.ir/android/maven2/com/android/tools/build/gradle/maven-metadata.xml",
-      "shouldContain": "com.android.tools.build"
+      "shouldContain": "com.android.tools.build",
+      "address": "https://"
     }
   ]
 }

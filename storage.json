@@ -16,7 +16,8 @@
         "fa": "سایت دراپ‌باکس"
       },
       "url": "https://www.dropbox.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "دراپ‌باکس"
       },
       "url": "https://www.dropbox.com/scl/fi/dovory2z1y9xnj6kxwyq7/status?rlkey=48kb8gpm3fjnx76oglv1bm3u0&st=hy5uz0th&dl=1",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -32,7 +34,8 @@
         "fa": "پی‌کلاد"
       },
       "url": "https://www.pcloud.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -40,7 +43,8 @@
         "fa": "وان‌درایو"
       },
       "url": "https://onedrive.live.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -48,7 +52,8 @@
         "fa": "رانه‌ی گوگل"
       },
       "url": "https://drive.google.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -56,7 +61,8 @@
         "fa": "بانی: سایت"
       },
       "url": "https://bunny.net/robots.txt",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -64,7 +70,8 @@
         "fa": "بانی: ذخیره‌سازی اشیاء"
       },
       "url": "https://storage.bunnycdn.com/nodelook/status?accessKey=06fb3155-fde7-44f3-9f7be372bb92-8250-4c86&download",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -72,7 +79,8 @@
         "fa": "بانی: شبکه‌ی توزیع محتوا"
       },
       "url": "https://nodelook.b-cdn.net/xmha97/test/refs/heads/main/status",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -80,7 +88,8 @@
         "fa": "بایکانی اینترنت"
       },
       "url": "https://archive.org/download/xmha97/status",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -88,7 +97,8 @@
         "fa": "پیست‌بین"
       },
       "url": "https://pastebin.com/raw/ER5BRSx7",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -96,7 +106,8 @@
         "fa": "پست‌من: اکو"
       },
       "url": "https://postman-echo.com/status/200",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -104,7 +115,8 @@
         "fa": "مترجم گوگل"
       },
       "url": "https://translate.google.com/?text=thegoogletranslatesiteisworkingproperly",
-      "shouldContain": "thegoogletranslatesiteisworkingproperly"
+      "shouldContain": "thegoogletranslatesiteisworkingproperly",
+      "address": "https://"
     },
     {
       "name": {
@@ -112,7 +124,8 @@
         "fa": "فایرفاکس: کاوشگر دروازه"
       },
       "url": "https://detectportal.firefox.com/success.txt",
-      "shouldContain": "success"
+      "shouldContain": "success",
+      "address": "https://"
     },
     {
       "name": {
@@ -120,7 +133,8 @@
         "fa": "فست"
       },
       "url": "https://fast.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -128,7 +142,8 @@
         "fa": "اسپیدتست"
       },
       "url": "https://www.speedtest.net/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -136,7 +151,8 @@
         "fa": "هابِ داکر"
       },
       "url": "https://hub.docker.com/search?q=thedockerhubsiteisworkingproperly",
-      "shouldContain": "thedockerhubsiteisworkingproperly"
+      "shouldContain": "thedockerhubsiteisworkingproperly",
+      "address": "https://"
     },
     {
       "name": {
@@ -144,7 +160,8 @@
         "fa": "اورکید"
       },
       "url": "https://auth.orcid.org/userStatus.json",
-      "shouldContain": "false"
+      "shouldContain": "false",
+      "address": "https://"
     },
     {
       "name": {
@@ -152,7 +169,8 @@
         "fa": "جی‌اس-اُآرجی"
       },
       "url": "https://pad.js.org/status",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -160,7 +178,8 @@
         "fa": "[ایران] ابر همراهی"
       },
       "url": "https://abrehamrahi.ir/o/public/vlwU5cXR",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -168,7 +187,8 @@
         "fa": "[ایران] ابر همراهی (لینک کوتاه)"
       },
       "url": "https://abhm.ir/kpWgPj",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -176,7 +196,8 @@
         "fa": "[ایران] ابر آروان: مرکزی"
       },
       "url": "https://xmh.hot.ir-central1.arvanstorage.ir/status",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -184,7 +205,8 @@
         "fa": "[ایران] ابر آروان: تهران"
       },
       "url": "https://xmh.s3.ir-thr-at1.arvanstorage.ir/status",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -192,7 +214,8 @@
         "fa": "[ایران] ابر آروان: تبریز"
       },
       "url": "https://xmh.s3.ir-tbz-sh1.arvanstorage.ir/status",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -200,7 +223,8 @@
         "fa": "[ایران] ابر آروان: مرکزی (وب‌سایت)"
       },
       "url": "https://xmh.hot-website.ir-central1.arvanstorage.ir/status",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -208,7 +232,8 @@
         "fa": "[ایران] ابر آروان: تهران (وب‌سایت)"
       },
       "url": "https://xmh.s3-website.ir-thr-at1.arvanstorage.ir/status",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -216,7 +241,8 @@
         "fa": "[ایران] ابر آروان: تبریز (وب‌سایت)"
       },
       "url": "https://xmh.s3-website.ir-tbz-sh1.arvanstorage.ir/status",
-      "shouldContain": "200"
+      "shouldContain": "200",
+      "address": "https://"
     },
     {
       "name": {
@@ -224,7 +250,8 @@
         "fa": "اسنپ‌کرفت"
       },
       "url": "https://api.snapcraft.io/",
-      "shouldContain": "snapcraft"
+      "shouldContain": "snapcraft",
+      "address": "https://"
     },
     {
       "name": {
@@ -232,7 +259,8 @@
         "fa": "فلت‌هاب"
       },
       "url": "https://flathub.org/api/v2/status",
-      "shouldContain": "OK"
+      "shouldContain": "OK",
+      "address": "https://"
     }
   ]
 }

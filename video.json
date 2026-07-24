@@ -16,7 +16,8 @@
         "fa": "Netflix"
       },
       "url": "https://www.netflix.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "YouTube: Site"
       },
       "url": "https://www.youtube.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -32,7 +34,8 @@
         "fa": "YouTube: Shortener Link"
       },
       "url": "https://youtu.be/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -40,7 +43,8 @@
         "fa": "YouTube: Kids"
       },
       "url": "https://www.youtubekids.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -48,7 +52,8 @@
         "fa": "YouTube: Education"
       },
       "url": "https://www.youtubeeducation.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -56,7 +61,8 @@
         "fa": "YouTube: API"
       },
       "url": "https://youtube.googleapis.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -64,7 +70,8 @@
         "fa": "YouTube: NoCookie"
       },
       "url": "https://www.youtube-nocookie.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -72,7 +79,8 @@
         "fa": "BiliBili: API"
       },
       "url": "https://api.bilibili.com/x/web-interface/nav",
-      "shouldContain": "false"
+      "shouldContain": "false",
+      "address": "https://"
     },
     {
       "name": {
@@ -80,15 +88,17 @@
         "fa": "BiliBili: Image"
       },
       "url": "https://archive.biliimg.com",
-      "shouldContain": "OK"
+      "shouldContain": "OK",
+      "address": "https://"
     },
     {
       "name": {
         "en": "BiliBili: bimp",
-        "fa": ""
+        "fa": "BiliBili: bimp"
       },
       "url": "https://bimp.hdslb.com",
-      "shouldContain": "OK"
+      "shouldContain": "OK",
+      "address": "https://"
     },
     {
       "name": {
@@ -96,7 +106,8 @@
         "fa": "BiliBili: i0"
       },
       "url": "https://i0.hdslb.com",
-      "shouldContain": "OK"
+      "shouldContain": "OK",
+      "address": "https://"
     },
     {
       "name": {
@@ -104,7 +115,8 @@
         "fa": "BiliBili: i1"
       },
       "url": "https://i1.hdslb.com",
-      "shouldContain": "OK"
+      "shouldContain": "OK",
+      "address": "https://"
     },
     {
       "name": {
@@ -112,7 +124,8 @@
         "fa": "BiliBili: i2"
       },
       "url": "https://i2.hdslb.com",
-      "shouldContain": "OK"
+      "shouldContain": "OK",
+      "address": "https://"
     },
     {
       "name": {
@@ -120,7 +133,8 @@
         "fa": "BiliBili: s1"
       },
       "url": "https://s1.hdslb.com",
-      "shouldContain": "OK"
+      "shouldContain": "OK",
+      "address": "https://"
     },
     {
       "name": {
@@ -128,7 +142,8 @@
         "fa": "BiliBili: s2"
       },
       "url": "https://s2.hdslb.com",
-      "shouldContain": "OK"
+      "shouldContain": "OK",
+      "address": "https://"
     },
     {
       "name": {
@@ -136,7 +151,8 @@
         "fa": "BiliBili: s3"
       },
       "url": "https://s3.hdslb.com",
-      "shouldContain": "OK"
+      "shouldContain": "OK",
+      "address": "https://"
     },
     {
       "name": {
@@ -144,7 +160,8 @@
         "fa": "[ایران] آپارات"
       },
       "url": "https://www.aparat.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     }
   ]
 }

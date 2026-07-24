@@ -16,7 +16,8 @@
         "fa": "توییچ"
       },
       "url": "https://www.twitch.tv/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "کیک"
       },
       "url": "https://kick.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     },
     {
       "name": {
@@ -32,7 +34,8 @@
         "fa": "ایکس‌باکس"
       },
       "url": "https://www.xbox.com/en-us/Search/Results?q=thexboxsiteisworkingproperly",
-      "shouldContain": "thexboxsiteisworkingproperly"
+      "shouldContain": "thexboxsiteisworkingproperly",
+      "address": "https://"
     },
     {
       "name": {
@@ -40,7 +43,8 @@
         "fa": "پلی‌استیشن"
       },
       "url": "https://store.playstation.com/en-us/search/theplaystationsiteisworkingproperly",
-      "shouldContain": "theplaystationsiteisworkingproperly"
+      "shouldContain": "theplaystationsiteisworkingproperly",
+      "address": "https://"
     },
     {
       "name": {
@@ -48,7 +52,8 @@
         "fa": "استیم"
       },
       "url": "https://store.steampowered.com/search?term=thesteamsiteisworkingproperly",
-      "shouldContain": "thesteamsiteisworkingproperly"
+      "shouldContain": "thesteamsiteisworkingproperly",
+      "address": "https://"
     },
     {
       "name": {
@@ -56,7 +61,8 @@
         "fa": "اپیک گیمز"
       },
       "url": "https://store.epicgames.com/browse?q=theepicgamessiteisworkingproperly",
-      "shouldContain": "theepicgamessiteisworkingproperly"
+      "shouldContain": "theepicgamessiteisworkingproperly",
+      "address": "https://"
     },
     {
       "name": {
@@ -64,7 +70,8 @@
         "fa": "ای‌پی‌آی بیلی‌گیم"
       },
       "url": "https://api.biligame.com",
-      "shouldContain": "SUCCESS"
+      "shouldContain": "SUCCESS",
+      "address": "https://"
     },
     {
       "name": {
@@ -72,7 +79,8 @@
         "fa": "ای‌پی‌آی ۱ بیلی‌گیم"
       },
       "url": "https://line1-h5-pc-api.biligame.com",
-      "shouldContain": "SUCCESS"
+      "shouldContain": "SUCCESS",
+      "address": "https://"
     },
     {
       "name": {
@@ -80,7 +88,8 @@
         "fa": "ای‌پی‌آی ۳ بیلی‌گیم"
       },
       "url": "https://line3-h5-pc-api.biligame.com",
-      "shouldContain": "SUCCESS"
+      "shouldContain": "SUCCESS",
+      "address": "https://"
     },
     {
       "name": {
@@ -88,7 +97,8 @@
         "fa": "فندوم"
       },
       "url": "https://www.fandom.com/robots.txt",
-      "shouldContain": "Disallow"
+      "shouldContain": "Disallow",
+      "address": "https://"
     }
   ]
 }

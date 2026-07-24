@@ -16,7 +16,8 @@
         "fa": "بایگانی اوبونتو"
       },
       "url": "https://archive.ubuntu.com/ubuntu/dists/noble/Release",
-      "shouldContain": "Ubuntu"
+      "shouldContain": "Ubuntu",
+      "address": "https://"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "[آمریکا] بایگانی اوبونتو"
       },
       "url": "https://us.archive.ubuntu.com/ubuntu/dists/noble/Release",
-      "shouldContain": "Ubuntu"
+      "shouldContain": "Ubuntu",
+      "address": "https://"
     },
     {
       "name": {
@@ -32,7 +34,8 @@
         "fa": "[آمریکا] دانشگاه بِرْکْلی"
       },
       "url": "https://mirrors.ocf.berkeley.edu/ubuntu/dists/noble/Release",
-      "shouldContain": "Ubuntu"
+      "shouldContain": "Ubuntu",
+      "address": "https://"
     },
     {
       "name": {
@@ -40,7 +43,8 @@
         "fa": "[کانادا] دانشگاه واترلو"
       },
       "url": "https://mirror.csclub.uwaterloo.ca/ubuntu/dists/noble/Release",
-      "shouldContain": "Ubuntu"
+      "shouldContain": "Ubuntu",
+      "address": "https://"
     },
     {
       "name": {
@@ -48,7 +52,8 @@
         "fa": "[آلمان] دانشگاه ارلانگن-نورنبرگ"
       },
       "url": "https://ftp.fau.de/ubuntu/dists/noble/Release",
-      "shouldContain": "Ubuntu"
+      "shouldContain": "Ubuntu",
+      "address": "https://"
     },
     {
       "name": {
@@ -56,7 +61,8 @@
         "fa": "[آلمان] نت‌کلن"
       },
       "url": "https://mirror.netcologne.de/ubuntu/dists/noble/Release",
-      "shouldContain": "Ubuntu"
+      "shouldContain": "Ubuntu",
+      "address": "https://"
     },
     {
       "name": {
@@ -64,7 +70,8 @@
         "fa": "[هلند] لیزوب"
       },
       "url": "https://mirror.nl.leaseweb.net/ubuntu/dists/noble/Release",
-      "shouldContain": "Ubuntu"
+      "shouldContain": "Ubuntu",
+      "address": "https://"
     },
     {
       "name": {
@@ -72,7 +79,8 @@
         "fa": "[هلند] گروه محلی کاربران یونیکس هلند"
       },
       "url": "https://ftp.nluug.nl/os/Linux/distr/ubuntu/dists/noble/Release",
-      "shouldContain": "Ubuntu"
+      "shouldContain": "Ubuntu",
+      "address": "https://"
     },
     {
       "name": {
@@ -80,7 +88,8 @@
         "fa": "[ایران] بایگانی اوبونتو"
       },
       "url": "https://ir.archive.ubuntu.com/ubuntu/dists/noble/Release",
-      "shouldContain": "Ubuntu"
+      "shouldContain": "Ubuntu",
+      "address": "https://"
     },
     {
       "name": {
@@ -88,7 +97,8 @@
         "fa": "[ایران] ابرآروان"
       },
       "url": "https://mirror.arvancloud.ir/ubuntu/dists/noble/Release",
-      "shouldContain": "Ubuntu"
+      "shouldContain": "Ubuntu",
+      "address": "https://"
     }
   ]
 }

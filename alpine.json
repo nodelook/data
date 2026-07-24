@@ -16,7 +16,8 @@
         "fa": "ORG alpinelinux dl-cdn"
       },
       "url": "https://dl-cdn.alpinelinux.org/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "ORG crifo ftp2"
       },
       "url": "https://ftp2.crifo.org/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -32,7 +34,8 @@
         "fa": "ORG dotsrc mirrors"
       },
       "url": "https://mirrors.dotsrc.org/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -40,7 +43,8 @@
         "fa": "ORG fossmirror alpine"
       },
       "url": "https://alpine.fossmirror.org/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -48,7 +52,8 @@
         "fa": "ORG freedif mirror"
       },
       "url": "https://mirror.freedif.org/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -56,7 +61,8 @@
         "fa": "ORG itwrx mirrors"
       },
       "url": "https://mirrors.itwrx.org/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -64,7 +70,8 @@
         "fa": "ORG kernel ap"
       },
       "url": "https://ap.edge.kernel.org/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -72,7 +79,8 @@
         "fa": "ORG kernel eu"
       },
       "url": "https://eu.edge.kernel.org/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -80,7 +88,8 @@
         "fa": "ORG kernel mirrors"
       },
       "url": "https://mirrors.edge.kernel.org/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -88,7 +97,8 @@
         "fa": "ORG krfoss mirror"
       },
       "url": "https://mirror.krfoss.org/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -96,7 +106,8 @@
         "fa": "COM adfinis pkg"
       },
       "url": "https://pkg.adfinis.com/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -104,7 +115,8 @@
         "fa": "COM aliyun mirrors"
       },
       "url": "https://mirrors.aliyun.com/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -112,7 +124,8 @@
         "fa": "COM gigenet mirrors"
       },
       "url": "https://mirrors.gigenet.com/alpinelinux/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -120,7 +133,8 @@
         "fa": "COM hoobly mirrors"
       },
       "url": "https://mirrors.hoobly.com/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -128,7 +142,8 @@
         "fa": "COM ionos eu"
       },
       "url": "https://eu.mirror.ionos.com/linux/distributions/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -136,7 +151,8 @@
         "fa": "COM ionos us"
       },
       "url": "https://us.mirror.ionos.com/linux/distributions/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -144,7 +160,8 @@
         "fa": "COM leaseweb mirror"
       },
       "url": "https://mirror.leaseweb.com/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -152,7 +169,8 @@
         "fa": "COM mobinhost mirror"
       },
       "url": "https://mirror.mobinhost.com/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -160,7 +178,8 @@
         "fa": "COM pilotfiber mirror"
       },
       "url": "https://mirror.pilotfiber.com/alpinelinux/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -168,7 +187,8 @@
         "fa": "COM raiolanetworks mirror"
       },
       "url": "https://mirror.raiolanetworks.com/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -176,7 +196,8 @@
         "fa": "COM silicloud lax mirrors"
       },
       "url": "https://mirrors.lax.silicloud.com/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -184,7 +205,8 @@
         "fa": "COM silicloud tyo mirrors"
       },
       "url": "https://mirrors.tyo.silicloud.com/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -192,7 +214,8 @@
         "fa": "COM torchbyte mirror"
       },
       "url": "https://mirror.torchbyte.com/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -200,7 +223,8 @@
         "fa": "COM wearetriple alpine"
       },
       "url": "https://alpine.mirror.wearetriple.com/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -208,7 +232,8 @@
         "fa": "NET alwyzon mirror"
       },
       "url": "https://mirror.alwyzon.net/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -216,7 +241,8 @@
         "fa": "NET bahnhof mirror"
       },
       "url": "https://mirror.bahnhof.net/pub/alpinelinux/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -224,7 +250,8 @@
         "fa": "NET elhacker alpine"
       },
       "url": "https://alpine.elhacker.net/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -232,7 +259,8 @@
         "fa": "NET fcix mirror"
       },
       "url": "https://mirror.fcix.net/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -240,7 +268,8 @@
         "fa": "NET latigo mirror"
       },
       "url": "https://mirror.latigo.net/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -248,7 +277,8 @@
         "fa": "NET mangohost mirror"
       },
       "url": "https://mirror.mangohost.net/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -256,7 +286,8 @@
         "fa": "NET neterra mirrors"
       },
       "url": "https://mirrors.neterra.net/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -264,7 +295,8 @@
         "fa": "NET ovh alpinelinux"
       },
       "url": "https://alpinelinux.mirrors.ovh.net/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -272,7 +304,8 @@
         "fa": "NET reenigne mirror"
       },
       "url": "https://mirror.reenigne.net/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -280,7 +313,8 @@
         "fa": "NET vinehost mirror"
       },
       "url": "https://mirror.vinehost.net/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -288,7 +322,8 @@
         "fa": "EDU berkeley mirrors"
       },
       "url": "https://mirrors.ocf.berkeley.edu/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -296,7 +331,8 @@
         "fa": "EDU clarkson mirror"
       },
       "url": "https://mirror.clarkson.edu/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -304,7 +340,8 @@
         "fa": "EDU odu mirror"
       },
       "url": "https://mirror.cs.odu.edu/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -312,7 +349,8 @@
         "fa": "EDU princeton mirror"
       },
       "url": "https://mirror.math.princeton.edu/pub/alpinelinux/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -320,7 +358,8 @@
         "fa": "EDU purdue plug-mirror"
       },
       "url": "https://plug-mirror.rcac.purdue.edu/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -328,7 +367,8 @@
         "fa": "BIZ ette mirror"
       },
       "url": "https://mirror.ette.biz/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -336,7 +376,8 @@
         "fa": "NETWORK saddle mirror"
       },
       "url": "https://mirror.saddle.network/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -344,7 +385,8 @@
         "fa": "ROCKS jing repo"
       },
       "url": "https://repo.jing.rocks/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -352,7 +394,8 @@
         "fa": "SPACE qontinuum"
       },
       "url": "https://qontinuum.space/mirror/alpinelinux/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -360,7 +403,8 @@
         "fa": "SYSTEMS kumi mirror"
       },
       "url": "https://mirror.kumi.systems/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -368,7 +412,8 @@
         "fa": "XYZ gofoss mirror"
       },
       "url": "https://mirror.gofoss.xyz/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -376,7 +421,8 @@
         "fa": "XYZ sajattack mirror"
       },
       "url": "https://mirror.sajattack.xyz/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -384,7 +430,8 @@
         "fa": "AI jingk mirror"
       },
       "url": "https://mirror.jingk.ai/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -392,7 +439,8 @@
         "fa": "AU edu mirror"
       },
       "url": "https://mirror.aarnet.edu.au/pub/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -400,7 +448,8 @@
         "fa": "AZ ourhost mirror"
       },
       "url": "https://mirror.ourhost.az/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -408,7 +457,8 @@
         "fa": "BG telepoint mirror"
       },
       "url": "https://mirror.telepoint.bg/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -416,7 +466,8 @@
         "fa": "BR uepg mirror"
       },
       "url": "https://mirror.uepg.br/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -424,7 +475,8 @@
         "fa": "BR ufpr alpinelinux"
       },
       "url": "https://alpinelinux.c3sl.ufpr.br/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -432,7 +484,8 @@
         "fa": "CA dst mirror"
       },
       "url": "https://mirror.dst.ca/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -440,7 +493,8 @@
         "fa": "CA quantum5 mirror"
       },
       "url": "https://mirror.quantum5.ca/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -448,7 +502,8 @@
         "fa": "CA uwaterloo mirror"
       },
       "url": "https://mirror.csclub.uwaterloo.ca/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -456,7 +511,8 @@
         "fa": "CH adfinis-on-exoscale pkg"
       },
       "url": "https://pkg.adfinis-on-exoscale.ch/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -464,7 +520,8 @@
         "fa": "CH ethz alpine"
       },
       "url": "https://alpine.ethz.ch/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -472,7 +529,8 @@
         "fa": "CH ungleich mirror"
       },
       "url": "https://mirror.ungleich.ch/mirror/packages/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -480,7 +538,8 @@
         "fa": "[چین] edu mirror"
       },
       "url": "https://mirror.lzu.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -488,7 +547,8 @@
         "fa": "[چین] edu nyist mirror"
       },
       "url": "https://mirror.nyist.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -496,7 +556,8 @@
         "fa": "[چین] دانشگاه تسینگ‌هوا"
       },
       "url": "https://mirrors.tuna.tsinghua.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -504,7 +565,8 @@
         "fa": "[چین] دانشگاه علم و فناوری چین"
       },
       "url": "https://mirrors.ustc.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -512,7 +574,8 @@
         "fa": "[چین] edu nju mirrors"
       },
       "url": "https://mirrors.nju.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -520,7 +583,8 @@
         "fa": "[چین] edu sjtu sjtug mirrors"
       },
       "url": "https://mirrors.sjtug.sjtu.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -528,7 +592,8 @@
         "fa": "[چین] edu neusoft mirrors"
       },
       "url": "https://mirrors.neusoft.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -536,7 +601,8 @@
         "fa": "[چین] edu hust mirrors"
       },
       "url": "https://mirrors.hust.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -544,7 +610,8 @@
         "fa": "[چین] edu sdu mirrors"
       },
       "url": "https://mirrors.sdu.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -552,7 +619,8 @@
         "fa": "CZ cvut fel mirror"
       },
       "url": "https://mirror.fel.cvut.cz/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -560,7 +628,8 @@
         "fa": "DE hs-esslingen mirror1"
       },
       "url": "https://mirror1.hs-esslingen.de/pub/Mirrors/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -568,7 +637,8 @@
         "fa": "DE rwth-aachen ftp"
       },
       "url": "https://ftp.halifax.rwth-aachen.de/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -576,7 +646,8 @@
         "fa": "FI 5i mirror"
       },
       "url": "https://mirror.5i.fi/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -584,7 +655,8 @@
         "fa": "FI far alpine"
       },
       "url": "https://alpine.mirror.far.fi/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -592,7 +664,8 @@
         "fa": "FI truescape alpinemirror"
       },
       "url": "https://alpinemirror.truescape.fi/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -600,7 +673,8 @@
         "fa": "FR ircam mirrors"
       },
       "url": "https://mirrors.ircam.fr/pub/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -608,7 +682,8 @@
         "fa": "HK com mirror"
       },
       "url": "https://mirror.xtom.com.hk/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -616,7 +691,8 @@
         "fa": "HK techrich mirror"
       },
       "url": "https://mirror.techrich.hk/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -624,7 +700,8 @@
         "fa": "ID net foobar"
       },
       "url": "https://foobar.turbo.net.id/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -632,7 +709,8 @@
         "fa": "IT garr alpinelinux"
       },
       "url": "https://alpinelinux.mirror.garr.it/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -640,7 +718,8 @@
         "fa": "[ژاپن] ac ftp"
       },
       "url": "https://ftp.yz.yamagata-u.ac.jp/pub/linux/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -648,7 +727,8 @@
         "fa": "[ژاپن] icscoe ftp"
       },
       "url": "https://ftp.udx.icscoe.jp/Linux/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -656,7 +736,8 @@
         "fa": "KH com mirror"
       },
       "url": "https://mirror.sabay.com.kh/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -664,7 +745,8 @@
         "fa": "KR co mirror"
       },
       "url": "https://mirror.techlabs.co.kr/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -672,7 +754,8 @@
         "fa": "KZ ps mirror"
       },
       "url": "https://mirror.ps.kz/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -680,7 +763,8 @@
         "fa": "LV koyanet alpine"
       },
       "url": "https://alpine.koyanet.lv/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -688,7 +772,8 @@
         "fa": "MA marwan mirror"
       },
       "url": "https://mirror.marwan.ma/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -696,7 +781,8 @@
         "fa": "MD ihost mirror"
       },
       "url": "https://mirror.ihost.md/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -704,7 +790,8 @@
         "fa": "ME cicku us"
       },
       "url": "https://us.mirrors.cicku.me/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -712,7 +799,8 @@
         "fa": "NC lagoon mirror"
       },
       "url": "https://mirror.lagoon.nc/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -720,7 +808,8 @@
         "fa": "NL nluug insecure"
       },
       "url": "https://insecure.nluug.nl/pub/os/Linux/distr/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -728,7 +817,8 @@
         "fa": "NZ 2degrees mirror"
       },
       "url": "https://mirror.2degrees.nz/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -736,7 +826,8 @@
         "fa": "PL edu ftp"
       },
       "url": "https://ftp.icm.edu.pl/pub/Linux/distributions/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -744,7 +835,8 @@
         "fa": "PL sakamoto alpine"
       },
       "url": "https://alpine.sakamoto.pl/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -752,7 +844,8 @@
         "fa": "RO hosterion mirrors"
       },
       "url": "https://mirrors.hosterion.ro/alpinelinux/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -760,7 +853,8 @@
         "fa": "RO hostico mirrors"
       },
       "url": "https://mirrors.hostico.ro/alpinelinux/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -768,7 +862,8 @@
         "fa": "RU yandex mirror"
       },
       "url": "https://mirror.yandex.ru/mirrors/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -776,7 +871,8 @@
         "fa": "SA maeen mirror"
       },
       "url": "https://mirror.maeen.sa/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -784,7 +880,8 @@
         "fa": "SE accum mirror"
       },
       "url": "https://mirror.accum.se/mirror/alpinelinux.org/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -792,7 +889,8 @@
         "fa": "[سوئد] دانشگاه لینکپینگ (اچ‌تی‌تی‌پی)"
       },
       "url": "http://ftp.lysator.liu.se/pub/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -800,7 +898,8 @@
         "fa": "[سوئد] دانشگاه لینکپینگ"
       },
       "url": "https://ftp.lysator.liu.se/pub/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -808,7 +907,8 @@
         "fa": "SI tux mirror"
       },
       "url": "https://mirror.tux.si/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -816,7 +916,8 @@
         "fa": "SK rainside tux"
       },
       "url": "https://tux.rainside.sk/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -824,7 +925,8 @@
         "fa": "TH ac mirror"
       },
       "url": "https://mirror.kku.ac.th/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -832,7 +934,8 @@
         "fa": "TW com mirror"
       },
       "url": "https://mirror.twds.com.tw/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -840,7 +943,8 @@
         "fa": "[تایوان] edu nycu cs alpine"
       },
       "url": "https://alpine.cs.nycu.edu.tw/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -848,7 +952,8 @@
         "fa": "[تایوان] edu ncku ccns alpine"
       },
       "url": "https://alpine.ccns.ncku.edu.tw/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -856,7 +961,8 @@
         "fa": "[ایران] دانشگاه صنعتی اصفهان"
       },
       "url": "https://repo.iut.ac.ir/repo/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     },
     {
       "name": {
@@ -864,7 +970,8 @@
         "fa": "[ایران] پردیسکو"
       },
       "url": "https://mirrors.pardisco.co/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
-      "shouldContain": "alpine"
+      "shouldContain": "alpine",
+      "address": "https://"
     }
   ]
 }

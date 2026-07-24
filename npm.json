@@ -16,7 +16,8 @@
         "fa": "ان‌پی‌ام"
       },
       "url": "https://registry.npmjs.org/lodash",
-      "shouldContain": "lodash"
+      "shouldContain": "lodash",
+      "address": "https://"
     },
     {
       "name": {
@@ -24,7 +25,8 @@
         "fa": "[ایران] رانفلر"
       },
       "url": "https://mirror-npm.runflare.com/lodash",
-      "shouldContain": "lodash"
+      "shouldContain": "lodash",
+      "address": "https://"
     },
     {
       "name": {
@@ -32,7 +34,8 @@
         "fa": "[ایران] لیارا"
       },
       "url": "https://package-mirror.liara.ir/repository/npm/lodash",
-      "shouldContain": "lodash"
+      "shouldContain": "lodash",
+      "address": "https://"
     },
     {
       "name": {
@@ -40,7 +43,8 @@
         "fa": "[ایران] دونیدز"
       },
       "url": "https://npm.devneeds.ir/repository/npm/lodash",
-      "shouldContain": "lodash"
+      "shouldContain": "lodash",
+      "address": "https://"
     }
   ]
 }
