@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "Packagist",
+    "fa": "پکیجیست"
+  },
+  "description": {
+    "en": "Packagist Mirrors",
+    "fa": "آینه‌های پکیجیست"
+  },
+  "color": "#FF34A853",
+  "items": [
+    {
+      "name": {
+        "en": "Packagist",
+        "fa": "پکیجیست"
+      },
+      "url": "https://repo.packagist.org/packages.json",
+      "shouldContain": "packagist",
+      "address": "https://"
+    },
+    {
+      "name": {
+        "en": "[South Korea] Packagist",
+        "fa": "[کرهٔ جنوبی] پکیجیست"
+      },
+      "url": "https://packagist.kr/packages.json",
+      "shouldContain": "packagist",
+      "address": "https://"
+    },
+    {
+      "name": {
+        "en": "[China] Alibaba Cloud",
+        "fa": "[چین] ابر علی‌بابا"
+      },
+      "url": "https://developer.aliyun.com/composer/packages.json",
+      "shouldContain": "packagist",
+      "address": "https://"
+    }
+  ]
+}

@@ -615,8 +615,8 @@
     },
     {
       "name": {
-        "en": "[China] 1",
-        "fa": "[China] 1"
+        "en": "[China] Beijing Foreign Studies University (HTTP)",
+        "fa": "[چین] (اچ‌تی‌تی‌پی) دانشگاه مطالعات خارجی پکن"
       },
       "url": "http://mirrors.bfsu.edu.cn/archlinux/core/os/x86_64",
       "shouldContain": "ca-certificates",
@@ -624,8 +624,8 @@
     },
     {
       "name": {
-        "en": "[China] 2",
-        "fa": "[China] 2"
+        "en": "[China] Beijing Foreign Studies University (HTTPS)",
+        "fa": "[چین] (اچ‌تی‌تی‌پی‌اس) دانشگاه مطالعات خارجی پکن"
       },
       "url": "https://mirrors.bfsu.edu.cn/archlinux/core/os/x86_64",
       "shouldContain": "ca-certificates",
@@ -768,8 +768,8 @@
     },
     {
       "name": {
-        "en": "[China] 18",
-        "fa": "[China] 18"
+        "en": "[China] Nanjing University (HTTP)",
+        "fa": "[چین] دانشگاه نانجینگ (اچ‌تی‌تی‌پی)"
       },
       "url": "http://mirrors.nju.edu.cn/archlinux/core/os/x86_64",
       "shouldContain": "ca-certificates",
@@ -777,8 +777,8 @@
     },
     {
       "name": {
-        "en": "[China] 19",
-        "fa": "[China] 19"
+        "en": "[China] Nanjing University (HTTPS)",
+        "fa": "[چین] دانشگاه نانجینگ (اچ‌تی‌تی‌پی‌اس)"
       },
       "url": "https://mirrors.nju.edu.cn/archlinux/core/os/x86_64",
       "shouldContain": "ca-certificates",
@@ -813,8 +813,8 @@
     },
     {
       "name": {
-        "en": "[China] 23",
-        "fa": "[China] 23"
+        "en": "[China] Shanghai Jiao Tong University",
+        "fa": "[چین] دانشگاه شانگهای جیائو تونگ"
       },
       "url": "https://mirrors.sjtug.sjtu.edu.cn/archlinux/core/os/x86_64",
       "shouldContain": "ca-certificates",

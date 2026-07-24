@@ -1,0 +1,50 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "Lua",
+    "fa": "لوآ"
+  },
+  "description": {
+    "en": "Lua Mirrors",
+    "fa": "آینه‌های لوآ"
+  },
+  "color": "#FF34A853",
+  "items": [
+    {
+      "name": {
+        "en": "LuaRocks",
+        "fa": "LuaRocks"
+      },
+      "url": "https://luarocks.org/manifest.json",
+      "shouldContain": "rockspec",
+      "address": "https://"
+    },
+    {
+      "name": {
+        "en": "LuaRocks Mirror",
+        "fa": "LuaRocks Mirror"
+      },
+      "url": "https://mirror.luarocks.org/manifest.json",
+      "shouldContain": "rockspec",
+      "address": "https://"
+    },
+    {
+      "name": {
+        "en": "MoonRocks Mirror",
+        "fa": "MoonRocks Mirror"
+      },
+      "url": "https://raw.githubusercontent.com/rocks-moonscript-org/moonrocks-mirror/master/manifest",
+      "shouldContain": "rockspec",
+      "address": "https://"
+    },
+    {
+      "name": {
+        "en": "MoonRocks Dev Mirror",
+        "fa": "MoonRocks Dev Mirror"
+      },
+      "url": "https://raw.githubusercontent.com/rocks-moonscript-org/moonrocks-dev-mirror/master/manifest",
+      "shouldContain": "rockspec",
+      "address": "https://"
+    }
+  ]
+}

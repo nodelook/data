@@ -111,8 +111,8 @@
     },
     {
       "name": {
-        "en": "COM aliyun mirrors",
-        "fa": "COM aliyun mirrors"
+        "en": "[China] Alibaba Cloud",
+        "fa": "[چین] ابر علی‌بابا"
       },
       "url": "https://mirrors.aliyun.com/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
       "shouldContain": "alpine",
@@ -570,8 +570,8 @@
     },
     {
       "name": {
-        "en": "[China] edu nju mirrors",
-        "fa": "[چین] edu nju mirrors"
+        "en": "[China] Nanjing University",
+        "fa": "[چین] دانشگاه نانجینگ"
       },
       "url": "https://mirrors.nju.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
       "shouldContain": "alpine",
@@ -579,8 +579,8 @@
     },
     {
       "name": {
-        "en": "[China] edu sjtu sjtug mirrors",
-        "fa": "[چین] edu sjtu sjtug mirrors"
+        "en": "[China] Shanghai Jiao Tong University",
+        "fa": "[چین] دانشگاه شانگهای جیائو تونگ"
       },
       "url": "https://mirrors.sjtug.sjtu.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
       "shouldContain": "alpine",
