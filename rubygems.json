@@ -1,0 +1,32 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "RubyGems",
+    "fa": "روبی‌جمز"
+  },
+  "description": {
+    "en": "RubyGems Mirrors\ngem sources --add https://rubygems.org",
+    "fa": "آینه‌های روبی‌جمز\ngem sources --add https://rubygems.org"
+  },
+  "color": "#FF34A853",
+  "items": [
+    {
+      "name": {
+        "en": "RubyGems",
+        "fa": "روبی‌جمز"
+      },
+      "url": "https://rubygems.org/api/v1/gems/rails.json",
+      "shouldContain": "ruby",
+      "address": "https://rubygems.org"
+    },
+    {
+      "name": {
+        "en": "Gem Cooperative",
+        "fa": "تعاونی جم‌ها"
+      },
+      "url": "https://gem.coop/api/v1/gems/rails.json",
+      "shouldContain": "ruby",
+      "address": "https://gem.coop"
+    }
+  ]
+}
