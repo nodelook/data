@@ -1,0 +1,23 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "YT A",
+    "fa": "ی‌ت ا"
+  },
+  "description": {
+    "en": "YouTube API Legacy Instances",
+    "fa": "نمونه‌های ای‌پی‌آی قدیمی یوتیوب"
+  },
+  "color": "#FF4285F4",
+  "items": [
+    {
+      "name": {
+        "en": "45.132.96.44",
+        "fa": "45.132.96.44"
+      },
+      "url": "http://45.132.96.44:2823/",
+      "shouldContain": "YouTube",
+      "address": "http://45.132.96.44:2823"
+    }
+  ]
+}

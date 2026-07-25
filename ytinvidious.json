@@ -1,0 +1,104 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "YT I",
+    "fa": "ی‌ت ا"
+  },
+  "description": {
+    "en": "YouTube Invidious Instances",
+    "fa": "نمونه‌های اینویدیوس یوتیوب"
+  },
+  "color": "#FF4285F4",
+  "items": [
+    {
+      "name": {
+        "en": "76.82.152.76",
+        "fa": "76.82.152.76"
+      },
+      "url": "http://76.82.152.76:3000/api/v1/stats",
+      "shouldContain": "invidious",
+      "address": "http://76.82.152.76:3000"
+    },
+    {
+      "name": {
+        "en": "theawaybox",
+        "fa": "theawaybox"
+      },
+      "url": "http://bris.theawaybox.com:3000/api/v1/stats",
+      "shouldContain": "invidious",
+      "address": "http://bris.theawaybox.com:3000"
+    },
+    {
+      "name": {
+        "en": "115.73.217.239",
+        "fa": "115.73.217.239"
+      },
+      "url": "http://115.73.217.239:3000/api/v1/stats",
+      "shouldContain": "invidious",
+      "address": "http://115.73.217.239:3000"
+    },
+    {
+      "name": {
+        "en": "71.115.211.25",
+        "fa": "71.115.211.25"
+      },
+      "url": "http://71.115.211.25:3000/api/v1/stats",
+      "shouldContain": "invidious",
+      "address": "http://71.115.211.25:3000"
+    },
+    {
+      "name": {
+        "en": "146.71.85.119",
+        "fa": "146.71.85.119"
+      },
+      "url": "http://146.71.85.119:14120/api/v1/stats",
+      "shouldContain": "invidious",
+      "address": "http://146.71.85.119:14120"
+    },
+    {
+      "name": {
+        "en": "157.254.18.46",
+        "fa": "157.254.18.46"
+      },
+      "url": "http://157.254.18.46:14120/api/v1/stats",
+      "shouldContain": "invidious",
+      "address": "http://157.254.18.46:14120"
+    },
+    {
+      "name": {
+        "en": "45.51.2.189",
+        "fa": "45.51.2.189"
+      },
+      "url": "http://45.51.2.189:1337/api/v1/stats",
+      "shouldContain": "invidious",
+      "address": "http://45.51.2.189:1337"
+    },
+    {
+      "name": {
+        "en": "83.195.54.144",
+        "fa": "83.195.54.144"
+      },
+      "url": "http://83.195.54.144:9876/api/v1/stats",
+      "shouldContain": "invidious",
+      "address": "http://83.195.54.144:9876"
+    },
+    {
+      "name": {
+        "en": "kronickrusaders",
+        "fa": "kronickrusaders"
+      },
+      "url": "http://tube.kronickrusaders.ca:6666/api/v1/stats",
+      "shouldContain": "invidious",
+      "address": "http://tube.kronickrusaders.ca:6666"
+    },
+    {
+      "name": {
+        "en": "51.91.122.148",
+        "fa": "51.91.122.148"
+      },
+      "url": "http://51.91.122.148:3000/api/v1/stats",
+      "shouldContain": "invidious",
+      "address": "http://51.91.122.148:3000"
+    }
+  ]
+}

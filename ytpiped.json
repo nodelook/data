@@ -1,0 +1,122 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "YT P",
+    "fa": "ی‌ت ل"
+  },
+  "description": {
+    "en": "YouTube Piped Instances",
+    "fa": "نمونه‌های لوله‌کشی‌شده یوتیوب"
+  },
+  "color": "#FF4285F4",
+  "items": [
+    {
+      "name": {
+        "en": "51.154.9.70:8081",
+        "fa": "51.154.9.70:8081"
+      },
+      "url": "http://51.154.9.70:8081/healthcheck",
+      "shouldContain": "OK",
+      "address": "http://51.154.9.70:8081"
+    },
+    {
+      "name": {
+        "en": "51.154.9.70:8082",
+        "fa": "51.154.9.70:8082"
+      },
+      "url": "http://51.154.9.70:8082/healthcheck",
+      "shouldContain": "OK",
+      "address": "http://51.154.9.70:8082"
+    },
+    {
+      "name": {
+        "en": "130.12.171.163:8081",
+        "fa": "130.12.171.163:8081"
+      },
+      "url": "http://130.12.171.163:8081/healthcheck",
+      "shouldContain": "OK",
+      "address": "http://130.12.171.163:8081"
+    },
+    {
+      "name": {
+        "en": "130.12.171.163:8082",
+        "fa": "130.12.171.163:8082"
+      },
+      "url": "http://130.12.171.163:8082/healthcheck",
+      "shouldContain": "OK",
+      "address": "http://130.12.171.163:8082"
+    },
+    {
+      "name": {
+        "en": "77.110.101.50:8081",
+        "fa": "77.110.101.50:8081"
+      },
+      "url": "http://77.110.101.50:8081/healthcheck",
+      "shouldContain": "OK",
+      "address": "http://77.110.101.50:8081"
+    },
+    {
+      "name": {
+        "en": "77.110.101.50:8082",
+        "fa": "77.110.101.50:8082"
+      },
+      "url": "http://77.110.101.50:8082/healthcheck",
+      "shouldContain": "OK",
+      "address": "http://77.110.101.50:8082"
+    },
+    {
+      "name": {
+        "en": "82.24.19.217:8084",
+        "fa": "82.24.19.217:8084"
+      },
+      "url": "http://82.24.19.217:8084/healthcheck",
+      "shouldContain": "OK",
+      "address": "http://82.24.19.217:8084"
+    },
+    {
+      "name": {
+        "en": "82.24.19.217:8085",
+        "fa": "82.24.19.217:8085"
+      },
+      "url": "http://82.24.19.217:8085/healthcheck",
+      "shouldContain": "OK",
+      "address": "http://82.24.19.217:8085"
+    },
+    {
+      "name": {
+        "en": "124.158.10.214:8081",
+        "fa": "124.158.10.214:8081"
+      },
+      "url": "http://124.158.10.214:8081/healthcheck",
+      "shouldContain": "OK",
+      "address": "http://124.158.10.214:8081"
+    },
+    {
+      "name": {
+        "en": "124.158.10.214:8383",
+        "fa": "124.158.10.214:8383"
+      },
+      "url": "http://124.158.10.214:8383/healthcheck",
+      "shouldContain": "OK",
+      "address": "http://124.158.10.214:8383"
+    },
+    {
+      "name": {
+        "en": "167.114.169.34:8081",
+        "fa": "167.114.169.34:8081"
+      },
+      "url": "http://167.114.169.34:8081/healthcheck",
+      "shouldContain": "OK",
+      "address": "http://167.114.169.34:8081"
+    },
+    {
+      "name": {
+        "en": "167.114.169.34:8082",
+        "fa": "167.114.169.34:8082"
+      },
+      "url": "http://167.114.169.34:8082/healthcheck",
+      "shouldContain": "OK",
+      "address": "http://167.114.169.34:8082"
+    }
+  ]
+}
