@@ -543,8 +543,17 @@
     },
     {
       "name": {
-        "en": "[China] edu nyist mirror",
-        "fa": "[چین] edu nyist mirror"
+        "en": "[China] Nanyang Technological University (HTTP)",
+        "fa": "[چین] دانشگاه فناوری نانیانگ (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://mirror.nyist.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
+      "shouldContain": "alpine",
+      "address": "https://"
+    },
+    {
+      "name": {
+        "en": "[China] Nanyang Technological University (HTTPS)",
+        "fa": "[چین] دانشگاه فناوری نانیانگ (اچ‌تی‌تی‌پی‌اس)"
       },
       "url": "https://mirror.nyist.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
       "shouldContain": "alpine",

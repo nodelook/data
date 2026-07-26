@@ -786,8 +786,8 @@
     },
     {
       "name": {
-        "en": "[China] 20",
-        "fa": "[China] 20"
+        "en": "[China] Nanyang Technological University (HTTP)",
+        "fa": "[چین] دانشگاه فناوری نانیانگ (اچ‌تی‌تی‌پی)"
       },
       "url": "http://mirror.nyist.edu.cn/archlinux/core/os/x86_64",
       "shouldContain": "ca-certificates",
@@ -795,8 +795,8 @@
     },
     {
       "name": {
-        "en": "[China] 21",
-        "fa": "[China] 21"
+        "en": "[China] Nanyang Technological University (HTTPS)",
+        "fa": "[چین] دانشگاه فناوری نانیانگ (اچ‌تی‌تی‌پی‌اس)"
       },
       "url": "https://mirror.nyist.edu.cn/archlinux/core/os/x86_64",
       "shouldContain": "ca-certificates",
@@ -840,8 +840,8 @@
     },
     {
       "name": {
-        "en": "[China] 26",
-        "fa": "[China] 26"
+        "en": "[China] University of Science and Technology of China (HTTP)",
+        "fa": "[چین] دانشگاه علم و فناوری چین (اچ‌تی‌تی‌پی)"
       },
       "url": "http://mirrors.ustc.edu.cn/archlinux/core/os/x86_64",
       "shouldContain": "ca-certificates",
@@ -849,8 +849,8 @@
     },
     {
       "name": {
-        "en": "[China] 27",
-        "fa": "[China] 27"
+        "en": "[China] University of Science and Technology of China (HTTPS)",
+        "fa": "[چین] دانشگاه علم و فناوری چین (اچ‌تی‌تی‌پی‌اس)"
       },
       "url": "https://mirrors.ustc.edu.cn/archlinux/core/os/x86_64",
       "shouldContain": "ca-certificates",
