@@ -1,0 +1,86 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "Cargo",
+    "fa": "کارگو"
+  },
+  "description": {
+    "en": "Rust Cargo Registry Sparse Index Mirrors\nnano ~/.cargo/config.toml",
+    "fa": "میرورهای اسپارس ایندکس رجیستری کارگو راست\nnano ~/.cargo/config.toml"
+  },
+  "color": "#FF34A853",
+  "items": [
+    {
+      "name": {
+        "en": "Crates",
+        "fa": "Crates"
+      },
+      "url": "https://index.crates.io/config.json",
+      "shouldContain": "https://crates.io",
+      "address": "https://index.crates.io"
+    },
+    {
+      "name": {
+        "en": "[China] Beijing Foreign Studies University (HTTP)",
+        "fa": "[چین] (اچ‌تی‌تی‌پی) دانشگاه مطالعات خارجی پکن"
+      },
+      "url": "http://mirrors.bfsu.edu.cn/crates.io-index/config.json",
+      "shouldContain": "https://crates.io",
+      "address": "http://mirrors.bfsu.edu.cn"
+    },
+    {
+      "name": {
+        "en": "[China] Beijing Foreign Studies University (HTTPS)",
+        "fa": "[چین] (اچ‌تی‌تی‌پی‌اس) دانشگاه مطالعات خارجی پکن"
+      },
+      "url": "https://mirrors.bfsu.edu.cn/crates.io-index/config.json",
+      "shouldContain": "https://crates.io",
+      "address": "https://mirrors.bfsu.edu.cn"
+    },
+    {
+      "name": {
+        "en": "[China] Zhejiang University",
+        "fa": "[چین] دانشگاه ژجیانگ"
+      },
+      "url": "https://mirrors.zju.edu.cn/crates.io-index/config.json",
+      "shouldContain": "https://crates.io",
+      "address": "https://mirrors.zju.edu.cn"
+    },
+    {
+      "name": {
+        "en": "[China] Tsinghua University (HTTP)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://mirrors.tuna.tsinghua.edu.cn/crates.io-index/config.json",
+      "shouldContain": "https://crates.io",
+      "address": "http://mirrors.tuna.tsinghua.edu.cn"
+    },
+    {
+      "name": {
+        "en": "[China] Tsinghua University (HTTPS)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی‌اس)"
+      },
+      "url": "https://mirrors.tuna.tsinghua.edu.cn/crates.io-index/config.json",
+      "shouldContain": "https://crates.io",
+      "address": "https://mirrors.tuna.tsinghua.edu.cn"
+    },
+    {
+      "name": {
+        "en": "[China] University of Science and Technology of China (HTTP)",
+        "fa": "[چین] دانشگاه علم و فناوری چین (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://mirrors.ustc.edu.cn/crates.io-index/config.json",
+      "shouldContain": "https://crates.io",
+      "address": "http://mirrors.ustc.edu.cn"
+    },
+    {
+      "name": {
+        "en": "[China] University of Science and Technology of China (HTTPS)",
+        "fa": "[چین] دانشگاه علم و فناوری چین (اچ‌تی‌تی‌پی‌اس)"
+      },
+      "url": "https://mirrors.ustc.edu.cn/crates.io-index/config.json",
+      "shouldContain": "https://crates.io",
+      "address": "https://mirrors.ustc.edu.cn"
+    }
+  ]
+}

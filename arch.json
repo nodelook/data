@@ -822,8 +822,8 @@
     },
     {
       "name": {
-        "en": "[China] 24",
-        "fa": "[China] 24"
+        "en": "[China] Tsinghua University (HTTP)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی)"
       },
       "url": "http://mirrors.tuna.tsinghua.edu.cn/archlinux/core/os/x86_64",
       "shouldContain": "ca-certificates",
@@ -831,8 +831,8 @@
     },
     {
       "name": {
-        "en": "[China] 25",
-        "fa": "[China] 25"
+        "en": "[China] Tsinghua University (HTTPS)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی‌اس)"
       },
       "url": "https://mirrors.tuna.tsinghua.edu.cn/archlinux/core/os/x86_64",
       "shouldContain": "ca-certificates",
@@ -845,7 +845,7 @@
       },
       "url": "http://mirrors.ustc.edu.cn/archlinux/core/os/x86_64",
       "shouldContain": "ca-certificates",
-      "address": "https://"
+      "address": "http://"
     },
     {
       "name": {
@@ -876,8 +876,8 @@
     },
     {
       "name": {
-        "en": "[China] 30",
-        "fa": "[China] 30"
+        "en": "[China] Zhejiang University",
+        "fa": "[چین] دانشگاه ژجیانگ"
       },
       "url": "http://mirrors.zju.edu.cn/archlinux/core/os/x86_64",
       "shouldContain": "ca-certificates",

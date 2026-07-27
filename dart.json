@@ -21,8 +21,17 @@
     },
     {
       "name": {
-        "en": "[China] Tsinghua University",
-        "fa": "[چین] دانشگاه تسینگ‌هوا"
+        "en": "[China] Tsinghua University (HTTP)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://mirrors.tuna.tsinghua.edu.cn/dart-pub/api/packages/http",
+      "shouldContain": "http",
+      "address": "http://mirrors.tuna.tsinghua.edu.cn/dart-pub/"
+    },
+    {
+      "name": {
+        "en": "[China] Tsinghua University (HTTPS)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی‌اس)"
       },
       "url": "https://mirrors.tuna.tsinghua.edu.cn/dart-pub/api/packages/http",
       "shouldContain": "http",

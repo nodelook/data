@@ -561,8 +561,17 @@
     },
     {
       "name": {
-        "en": "[China] Tsinghua University",
-        "fa": "[چین] دانشگاه تسینگ‌هوا"
+        "en": "[China] Tsinghua University (HTTP)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://mirrors.tuna.tsinghua.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
+      "shouldContain": "alpine",
+      "address": "https://"
+    },
+    {
+      "name": {
+        "en": "[China] Tsinghua University (HTTPS)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی‌اس)"
       },
       "url": "https://mirrors.tuna.tsinghua.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
       "shouldContain": "alpine",
@@ -570,8 +579,17 @@
     },
     {
       "name": {
-        "en": "[China] University of Science and Technology of China",
-        "fa": "[چین] دانشگاه علم و فناوری چین"
+        "en": "[China] University of Science and Technology of China (HTTP)",
+        "fa": "[چین] دانشگاه علم و فناوری چین (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://mirrors.ustc.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
+      "shouldContain": "alpine",
+      "address": "http://"
+    },
+    {
+      "name": {
+        "en": "[China] University of Science and Technology of China (HTTPS)",
+        "fa": "[چین] دانشگاه علم و فناوری چین (اچ‌تی‌تی‌پی‌اس)"
       },
       "url": "https://mirrors.ustc.edu.cn/alpine/latest-stable/releases/x86_64/latest-releases.yaml",
       "shouldContain": "alpine",

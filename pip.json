@@ -21,8 +21,17 @@
     },
     {
       "name": {
-        "en": "[China] University of Science and Technology of China",
-        "fa": "[چین] دانشگاه علم و فناوری چین"
+        "en": "[China] University of Science and Technology of China (HTTP)",
+        "fa": "[چین] دانشگاه علم و فناوری چین (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://mirrors.ustc.edu.cn/pypi/simple/simpleindex/",
+      "shouldContain": "pypi:repository-version",
+      "address": "http://mirrors.ustc.edu.cn/pypi/simple"
+    },
+    {
+      "name": {
+        "en": "[China] University of Science and Technology of China (HTTPS)",
+        "fa": "[چین] دانشگاه علم و فناوری چین (اچ‌تی‌تی‌پی‌اس)"
       },
       "url": "https://mirrors.ustc.edu.cn/pypi/simple/simpleindex/",
       "shouldContain": "pypi:repository-version",
@@ -30,8 +39,17 @@
     },
     {
       "name": {
-        "en": "[China] Tsinghua University",
-        "fa": "[چین] دانشگاه تسینگ‌هوا"
+        "en": "[China] Tsinghua University (HTTP)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی)"
+      },
+      "url": "https://pypi.tuna.tsinghua.edu.cn/simple/simpleindex/",
+      "shouldContain": "pypi:repository-version",
+      "address": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+      "name": {
+        "en": "[China] Tsinghua University (HTTPS)",
+        "fa": "[چین] دانشگاه تسینگ‌هوا (اچ‌تی‌تی‌پی‌اس)"
       },
       "url": "https://pypi.tuna.tsinghua.edu.cn/simple/simpleindex/",
       "shouldContain": "pypi:repository-version",
