@@ -75,30 +75,30 @@
     },
     {
       "name": {
-        "en": "83.195.54.144",
-        "fa": "83.195.54.144"
-      },
-      "url": "http://83.195.54.144:9876/api/v1/stats",
-      "shouldContain": "invidious",
-      "address": "http://83.195.54.144:9876"
-    },
-    {
-      "name": {
-        "en": "kronickrusaders",
-        "fa": "kronickrusaders"
-      },
-      "url": "http://tube.kronickrusaders.ca:6666/api/v1/stats",
-      "shouldContain": "invidious",
-      "address": "http://tube.kronickrusaders.ca:6666"
-    },
-    {
-      "name": {
         "en": "51.91.122.148",
         "fa": "51.91.122.148"
       },
       "url": "http://51.91.122.148:3000/api/v1/stats",
       "shouldContain": "invidious",
       "address": "http://51.91.122.148:3000"
+    },
+    {
+      "name": {
+        "en": "82.65.13.217",
+        "fa": "82.65.13.217"
+      },
+      "url": "http://82.65.13.217:7601/api/v1/stats",
+      "shouldContain": "invidious",
+      "address": "http://82.65.13.217:7601"
+    },
+    {
+      "name": {
+        "en": "87.106.60.151",
+        "fa": "87.106.60.151"
+      },
+      "url": "http://87.106.60.151:3000/api/v1/stats",
+      "shouldContain": "invidious",
+      "address": "http://87.106.60.151:3000"
     }
   ]
 }
