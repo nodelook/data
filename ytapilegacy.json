@@ -15,8 +15,8 @@
         "en": "45.132.96.44",
         "fa": "45.132.96.44"
       },
-      "url": "http://193.124.118.227/get_video",
-      "shouldContain": "Invalid video ID",
+      "url": "http://193.124.118.227/download",
+      "shouldContain": "YouTube",
       "address": "http://45.132.96.44:2823"
     }
   ]
