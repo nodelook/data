@@ -1,0 +1,122 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "Family",
+    "fa": "خانواده"
+  },
+  "description": {
+    "en": "Adult Content Filtering\nTests whether your DNS or network blocks adult-content websites.\n\n# Cloudflare Family\nIPv4: 1.1.1.3\nIPv4: 1.0.0.3\nIPv6: 2606:4700:4700::1113\nIPv6: 2606:4700:4700::1003\n\n# CleanBrowsing – Family Filter\nIPv4: 185.228.168.168\nIPv4: 185.228.169.168\nIPv6: 2a0d:2a00:1::\nIPv6: 2a0d:2a00:2::\n\n# AdGuard Family Protection\nIPv4: 94.140.14.15\nIPv4: 94.140.15.16\nIPv6: 2a10:50c0::bad1:ff\nIPv6: 2a10:50c0::bad2:ff",
+    "fa": "فیلتر محتوای بزرگسال\nبررسی می‌کند که آیا دی‌ان‌اس یا شبکه‌ی شما وب‌سایت‌های دارای محتوای بزرگسال را مسدود می‌کند یا خیر.\n\n# Cloudflare Family\nIPv4: 1.1.1.3\nIPv4: 1.0.0.3\nIPv6: 2606:4700:4700::1113\nIPv6: 2606:4700:4700::1003\n\n# CleanBrowsing – Family Filter\nIPv4: 185.228.168.168\nIPv4: 185.228.169.168\nIPv6: 2a0d:2a00:1::\nIPv6: 2a0d:2a00:2::\n\n# AdGuard Family Protection\nIPv4: 94.140.14.15\nIPv4: 94.140.15.16\nIPv6: 2a10:50c0::bad1:ff\nIPv6: 2a10:50c0::bad2:ff"
+  },
+  "color": "#FF4285F4",
+  "items": [
+    {
+      "name": {
+        "en": "Website 01",
+        "fa": "تارنمای ۱"
+      },
+      "url": "https://www.pornhub.com/passkey/preflight",
+      "shouldContain": "false",
+      "address": "https://***"
+    },
+    {
+      "name": {
+        "en": "Website 02",
+        "fa": "تارنمای ۲"
+      },
+      "url": "https://www.fuq.com/robots.txt",
+      "shouldContain": "Disallow",
+      "address": "https://***"
+    },
+    {
+      "name": {
+        "en": "Website 03",
+        "fa": "تارنمای ۳"
+      },
+      "url": "https://xhamster.com/robots.txt",
+      "shouldContain": "Disallow",
+      "address": "https://***"
+    },
+    {
+      "name": {
+        "en": "Website 04",
+        "fa": "تارنمای ۴"
+      },
+      "url": "https://www.xnxx.com/robots.txt",
+      "shouldContain": "Disallow",
+      "address": "https://***"
+    },
+    {
+      "name": {
+        "en": "Website 05",
+        "fa": "تارنمای ۵"
+      },
+      "url": "https://www.redgifs.com/robots.txt",
+      "shouldContain": "Disallow",
+      "address": "https://***"
+    },
+    {
+      "name": {
+        "en": "Website 06",
+        "fa": "تارنمای ۶"
+      },
+      "url": "https://stripchat.com/robots.txt",
+      "shouldContain": "Disallow",
+      "address": "https://***"
+    },
+    {
+      "name": {
+        "en": "Website 07",
+        "fa": "تارنمای ۷"
+      },
+      "url": "https://www.brazzers.com/robots.txt",
+      "shouldContain": "Disallow",
+      "address": "https://***"
+    },
+    {
+      "name": {
+        "en": "Website 08",
+        "fa": "تارنمای ۸"
+      },
+      "url": "https://www.realitykings.com/robots.txt",
+      "shouldContain": "Disallow",
+      "address": "https://***"
+    },
+    {
+      "name": {
+        "en": "Website 09",
+        "fa": "تارنمای ۹"
+      },
+      "url": "https://www.digitalplayground.com/robots.txt",
+      "shouldContain": "Disallow",
+      "address": "https://***"
+    },
+    {
+      "name": {
+        "en": "Website 10",
+        "fa": "تارنمای ۱۰"
+      },
+      "url": "https://www.youporn.com/robots.txt",
+      "shouldContain": "false",
+      "address": "https://***"
+    },
+    {
+      "name": {
+        "en": "Website 11",
+        "fa": "تارنمای ۱۱"
+      },
+      "url": "https://www.redtube.com/robots.txt",
+      "shouldContain": "false",
+      "address": "https://***"
+    },
+    {
+      "name": {
+        "en": "Website 12",
+        "fa": "تارنمای ۱۲"
+      },
+      "url": "https://www.tube8.com/robots.txt",
+      "shouldContain": "false",
+      "address": "https://***"
+    }
+  ]
+}
