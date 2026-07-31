@@ -1,0 +1,68 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "LibGen",
+    "fa": "لیب‌جن"
+  },
+  "description": {
+    "en": "Library Genesis",
+    "fa": "کتابخانه جنسیس"
+  },
+  "color": "#FF34A853",
+  "items": [
+    {
+      "name": {
+        "en": "Belize Domain",
+        "fa": "دامنه‌ی بلیز"
+      },
+      "url": "https://libgen.bz/js/form-validation.js",
+      "shouldContain": "was-validated",
+      "address": "https://libgen.bz/"
+    },
+    {
+      "name": {
+        "en": "Estonia Domain",
+        "fa": "دامنه‌ی استونی"
+      },
+      "url": "https://libgen.ee/js/form-validation.js",
+      "shouldContain": "was-validated",
+      "address": "https://libgen.ee/"
+    },
+    {
+      "name": {
+        "en": "Greenland Domain",
+        "fa": "دامنه‌ی گرینلند"
+      },
+      "url": "https://libgen.gl/js/form-validation.js",
+      "shouldContain": "was-validated",
+      "address": "https://libgen.gl/"
+    },
+    {
+      "name": {
+        "en": "Laos Domain",
+        "fa": "دامنه‌ی لائوس"
+      },
+      "url": "https://libgen.la/js/form-validation.js",
+      "shouldContain": "was-validated",
+      "address": "https://libgen.la/"
+    },
+    {
+      "name": {
+        "en": "Liechtenstein Domain",
+        "fa": "دامنه‌ی لیختن‌اشتاین"
+      },
+      "url": "https://libgen.li/js/form-validation.js",
+      "shouldContain": "was-validated",
+      "address": "https://libgen.bz/"
+    },
+    {
+      "name": {
+        "en": "British Virgin Islands Domain",
+        "fa": "دامنه‌ی جزایر ویرجین بریتانیا"
+      },
+      "url": "https://libgen.vg/js/form-validation.js",
+      "shouldContain": "was-validated",
+      "address": "https://libgen.vg/"
+    }
+  ]
+}
