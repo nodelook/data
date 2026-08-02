@@ -1,0 +1,194 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "Portal",
+    "fa": "درگاه"
+  },
+  "description": {
+    "en": "Detect Portal",
+    "fa": "تشخیص درگاه"
+  },
+  "color": "#FF4285F4",
+  "items": [
+    {
+      "name": {
+        "en": "Firefox (HTTP)",
+        "fa": "فایرفاکس (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://detectportal.firefox.com/success.txt",
+      "shouldContain": "success",
+      "address": "http://detectportal.firefox.com/success.txt"
+    },
+    {
+      "name": {
+        "en": "Firefox (HTTPS)",
+        "fa": "فایرفاکس (اچ‌تی‌تی‌پی‌اس)"
+      },
+      "url": "https://detectportal.firefox.com/success.txt",
+      "shouldContain": "success",
+      "address": "https://detectportal.firefox.com/success.txt"
+    },
+    {
+      "name": {
+        "en": "Apple (HTTP)",
+        "fa": "اپل (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://captive.apple.com/hotspot-detect.html",
+      "shouldContain": "Success",
+      "address": "http://captive.apple.com/hotspot-detect.html"
+    },
+    {
+      "name": {
+        "en": "Apple (HTTPS)",
+        "fa": "اپل (اچ‌تی‌تی‌پی‌اس)"
+      },
+      "url": "https://captive.apple.com/hotspot-detect.html",
+      "shouldContain": "Success",
+      "address": "https://captive.apple.com/hotspot-detect.html"
+    },
+    {
+      "name": {
+        "en": "Apple Old (HTTP)",
+        "fa": "اپل قدیمی (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://www.apple.com/library/test/success.html",
+      "shouldContain": "Success",
+      "address": "http://www.apple.com/library/test/success.html"
+    },
+    {
+      "name": {
+        "en": "Apple Old (HTTPS)",
+        "fa": "اپل قدیمی (اچ‌تی‌تی‌پی‌اس)"
+      },
+      "url": "https://www.apple.com/library/test/success.html",
+      "shouldContain": "Success",
+      "address": "https://www.apple.com/library/test/success.html"
+    },
+    {
+      "name": {
+        "en": "Microsoft (HTTP)",
+        "fa": "ماکروسافت (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://www.msftconnecttest.com/connecttest.txt",
+      "shouldContain": "Microsoft Connect Test",
+      "address": "http://www.msftconnecttest.com/connecttest.txt"
+    },
+    {
+      "name": {
+        "en": "Microsoft (HTTPS)",
+        "fa": "ماکروسافت (اچ‌تی‌تی‌پی‌اس)"
+      },
+      "url": "https://www.msftconnecttest.com/connecttest.txt",
+      "shouldContain": "Microsoft Connect Test",
+      "address": "https://www.msftconnecttest.com/connecttest.txt"
+    },
+    {
+      "name": {
+        "en": "Microsoft (HTTP) (IPv6)",
+        "fa": "ماکروسافت (اچ‌تی‌تی‌پی) (آی‌پی‌وی۶)"
+      },
+      "url": "http://ipv6.msftconnecttest.com/connecttest.txt",
+      "shouldContain": "Microsoft Connect Test",
+      "address": "http://ipv6.msftconnecttest.com/connecttest.txt"
+    },
+    {
+      "name": {
+        "en": "Microsoft (HTTPS) (IPv6)",
+        "fa": "ماکروسافت (اچ‌تی‌تی‌پی‌اس) (آی‌پی‌وی۶)"
+      },
+      "url": "https://ipv6.msftconnecttest.com/connecttest.txt",
+      "shouldContain": "Microsoft Connect Test",
+      "address": "https://ipv6.msftconnecttest.com/connecttest.txt"
+    },
+    {
+      "name": {
+        "en": "Microsoft Old (HTTP)",
+        "fa": "ماکروسافت قدیمی (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://www.msftncsi.com/ncsi.txt",
+      "shouldContain": "Microsoft NCSI",
+      "address": "http://www.msftncsi.com/ncsi.txt"
+    },
+    {
+      "name": {
+        "en": "Microsoft Old (HTTPS)",
+        "fa": "ماکروسافت قدیمی (اچ‌تی‌تی‌پی‌اس)"
+      },
+      "url": "https://www.msftncsi.com/ncsi.txt",
+      "shouldContain": "Microsoft NCSI",
+      "address": "https://www.msftncsi.com/ncsi.txt"
+    },
+    {
+      "name": {
+        "en": "Microsoft Old (HTTP) (IPv6)",
+        "fa": "ماکروسافت (اچ‌تی‌تی‌پی) (آی‌پی‌وی۶)"
+      },
+      "url": "http://ipv6.msftconnecttest.com/connecttest.txt",
+      "shouldContain": "Microsoft NCSI",
+      "address": "http://ipv6.msftconnecttest.com/connecttest.txt"
+    },
+    {
+      "name": {
+        "en": "Microsoft Old (HTTPS) (IPv6)",
+        "fa": "ماکروسافت (اچ‌تی‌تی‌پی‌اس) (آی‌پی‌وی۶)"
+      },
+      "url": "https://ipv6.msftconnecttest.com/connecttest.txt",
+      "shouldContain": "Microsoft NCSI",
+      "address": "https://ipv6.msftconnecttest.com/connecttest.txt"
+    },
+    {
+      "name": {
+        "en": "GNOME (HTTP)",
+        "fa": "گنوم (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://nmcheck.gnome.org/check_network_status.txt",
+      "shouldContain": "NetworkManager is online",
+      "address": "http://nmcheck.gnome.org/check_network_status.txt"
+    },
+    {
+      "name": {
+        "en": "GNOME (HTTPS)",
+        "fa": "گنوم (اچ‌تی‌تی‌پی‌اس)"
+      },
+      "url": "https://nmcheck.gnome.org/check_network_status.txt",
+      "shouldContain": "NetworkManager is online",
+      "address": "https://nmcheck.gnome.org/check_network_status.txt"
+    },
+    {
+      "name": {
+        "en": "Debian (HTTP)",
+        "fa": "دبیان (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://network-test.debian.org/nm",
+      "shouldContain": "NetworkManager is online",
+      "address": "http://network-test.debian.org/nm"
+    },
+    {
+      "name": {
+        "en": "Debian (HTTPS)",
+        "fa": "دبیان (اچ‌تی‌تی‌پی‌اس)"
+      },
+      "url": "https://network-test.debian.org/nm",
+      "shouldContain": "NetworkManager is online",
+      "address": "https://network-test.debian.org/nm"
+    },
+    {
+      "name": {
+        "en": "KDE (HTTP)",
+        "fa": "کی‌دی‌یی (اچ‌تی‌تی‌پی)"
+      },
+      "url": "http://networkcheck.kde.org/",
+      "shouldContain": "OK",
+      "address": "http://networkcheck.kde.org/"
+    },
+    {
+      "name": {
+        "en": "KDE (HTTPS)",
+        "fa": "کی‌دی‌یی (اچ‌تی‌تی‌پی‌اس)"
+      },
+      "url": "https://networkcheck.kde.org/",
+      "shouldContain": "OK",
+      "address": "https://networkcheck.kde.org/"
+    }
+  ]
+}
