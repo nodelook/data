@@ -54,6 +54,15 @@
       "url": "https://chatgpt.com/robots.txt",
       "shouldContain": "Disallow",
       "address": "https://chatgpt.com/"
+    },
+    {
+      "name": {
+        "en": "DuckAI",
+        "fa": "داک‌ای‌آی"
+      },
+      "url": "https://duck.ai/duckchat/v1/status",
+      "shouldContain": "status",
+      "address": "https://duck.ai/"
     }
   ]
 }
