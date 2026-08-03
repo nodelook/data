@@ -57,33 +57,6 @@
     },
     {
       "name": {
-        "en": "Bunny: Site",
-        "fa": "بانی: سایت"
-      },
-      "url": "https://bunny.net/robots.txt",
-      "shouldContain": "200",
-      "address": "https://"
-    },
-    {
-      "name": {
-        "en": "Bunny: Object Storage",
-        "fa": "بانی: ذخیره‌سازی اشیاء"
-      },
-      "url": "https://storage.bunnycdn.com/nodelook/status?accessKey=06fb3155-fde7-44f3-9f7be372bb92-8250-4c86&download",
-      "shouldContain": "200",
-      "address": "https://"
-    },
-    {
-      "name": {
-        "en": "Bunny: Content Delivery Network",
-        "fa": "بانی: شبکه‌ی توزیع محتوا"
-      },
-      "url": "https://nodelook.b-cdn.net/xmha97/test/refs/heads/main/status",
-      "shouldContain": "200",
-      "address": "https://"
-    },
-    {
-      "name": {
         "en": "Internet Archive",
         "fa": "بایکانی اینترنت"
       },
@@ -116,15 +89,6 @@
       },
       "url": "https://translate.google.com/?text=thegoogletranslatesiteisworkingproperly",
       "shouldContain": "thegoogletranslatesiteisworkingproperly",
-      "address": "https://"
-    },
-    {
-      "name": {
-        "en": "Firefox: Detect Portal",
-        "fa": "فایرفاکس: کاوشگر دروازه"
-      },
-      "url": "https://detectportal.firefox.com/success.txt",
-      "shouldContain": "success",
       "address": "https://"
     },
     {
@@ -264,8 +228,8 @@
     },
     {
       "name": {
-        "en": "NoDisk (Nextcloud)",
-        "fa": "نودیسک (نکست‌کلاود)"
+        "en": "[Iran] NoDisk (Nextcloud)",
+        "fa": "[ایران] نودیسک (نکست‌کلاود)"
       },
       "url": "https://gift.nodisk.ir/s/tWNSyzYn5X9zN2a/download/status",
       "shouldContain": "200",
