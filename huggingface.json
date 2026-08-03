@@ -15,7 +15,7 @@
         "en": "Hugging Face",
         "fa": "هاگینگ‌فیس"
       },
-      "url": "https://huggingface.co/api/models?limit=1",
+      "url": "https://huggingface.co/api/models/Qwen/Qwen3-8B",
       "shouldContain": "trendingScore",
       "address": "https://huggingface.co"
     },
@@ -24,7 +24,7 @@
         "en": "[China] HF Mirror",
         "fa": "[چین] آینه‌های اچ‌اف"
       },
-      "url": "https://hf-mirror.com/api/models?limit=1",
+      "url": "https://hf-mirror.com/api/models/Qwen/Qwen3-8B",
       "shouldContain": "trendingScore",
       "address": "https://hf-mirror.com"
     },
@@ -33,7 +33,7 @@
         "en": "[Iran] Parmin Cloud",
         "fa": "[ایران] ابر پارمین"
       },
-      "url": "https://huggingface.parmincloud.ir/api/models?limit=1",
+      "url": "https://huggingface.parmincloud.ir/api/models/Qwen/Qwen3-8B",
       "shouldContain": "trendingScore",
       "address": "https://huggingface.parmincloud.ir"
     },
@@ -42,9 +42,9 @@
         "en": "[Iran] Rasanegaar",
         "fa": "[ایران] رسانگار"
       },
-      "url": "https://mirror.rasanegaar.com/hf/api/models?limit=1",
+      "url": "https://mirror.rasanegaar.com/hf/api/models/Qwen/Qwen3-8B",
       "shouldContain": "trendingScore",
-      "address": "https://mirror.rasanegaar.com"
+      "address": "https://mirror.rasanegaar.com/hf"
     }
   ]
 }
