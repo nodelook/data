@@ -1,0 +1,50 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "HF",
+    "fa": "اچ‌اف"
+  },
+  "description": {
+    "en": "HuggingFace Mirrors\n\nexport HF_ENDPOINT=https://hf-mirror.com",
+    "fa": "آینه‌های هاگینگ‌فیس\n\nexport HF_ENDPOINT=https://hf-mirror.com"
+  },
+  "color": "#FF34A853",
+  "items": [
+    {
+      "name": {
+        "en": "Hugging Face",
+        "fa": "هاگینگ‌فیس"
+      },
+      "url": "https://huggingface.co/api/models?limit=1",
+      "shouldContain": "trendingScore",
+      "address": "https://huggingface.co"
+    },
+    {
+      "name": {
+        "en": "[China] HF Mirror",
+        "fa": "[چین] آینه‌های اچ‌اف"
+      },
+      "url": "https://hf-mirror.com/api/models?limit=1",
+      "shouldContain": "trendingScore",
+      "address": "https://hf-mirror.com"
+    },
+    {
+      "name": {
+        "en": "[Iran] Parmin Cloud",
+        "fa": "[ایران] ابر پارمین"
+      },
+      "url": "https://huggingface.parmincloud.ir/api/models?limit=1",
+      "shouldContain": "trendingScore",
+      "address": "https://huggingface.parmincloud.ir"
+    },
+    {
+      "name": {
+        "en": "[Iran] Rasanegaar",
+        "fa": "[ایران] رسانگار"
+      },
+      "url": "https://mirror.rasanegaar.com/hf/api/models?limit=1",
+      "shouldContain": "trendingScore",
+      "address": "https://mirror.rasanegaar.com"
+    }
+  ]
+}
