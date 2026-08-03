@@ -261,6 +261,15 @@
       "url": "https://flathub.org/api/v2/status",
       "shouldContain": "OK",
       "address": "https://"
+    },
+    {
+      "name": {
+        "en": "NoDisk (Nextcloud)",
+        "fa": "نودیسک (نکست‌کلاود)"
+      },
+      "url": "https://gift.nodisk.ir/s/tWNSyzYn5X9zN2a/download/status",
+      "shouldContain": "200",
+      "address": "https://gift.nodisk.ir/"
     }
   ]
 }
