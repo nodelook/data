@@ -16,7 +16,7 @@
         "fa": "تارنمای ۱"
       },
       "url": "https://www.pornhub.com/webmasters/search",
-      "shouldContain": "phncdn.com",
+      "shouldContain": "\"default_thumb\"",
       "address": "https://***"
     }
   ]
