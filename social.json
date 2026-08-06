@@ -183,12 +183,39 @@
     },
     {
       "name": {
-        "en": "Reddit",
+        "en": "Reddit: Site",
         "fa": "ریدیت"
       },
       "url": "https://www.reddit.com/robots.txt",
       "shouldContain": "Disallow",
-      "address": "https://"
+      "address": "https://www.reddit.com/"
+    },
+    {
+      "name": {
+        "en": "Reddit: Old Site",
+        "fa": "ریدیت"
+      },
+      "url": "https://old.reddit.com/robots.txt",
+      "shouldContain": "Disallow",
+      "address": "https://www.reddit.com/"
+    },
+    {
+      "name": {
+        "en": "Reddit: shreddit",
+        "fa": "ریدیت: shreddit"
+      },
+      "url": "https://www.reddit.com/svc/shreddit/update-recaptcha",
+      "shouldContain": "OK",
+      "address": "https://www.reddit.com/"
+    },
+    {
+      "name": {
+        "en": "Reddit: events",
+        "fa": "ریدیت: events"
+      },
+      "url": "https://www.reddit.com/svc/events/preload-head",
+      "shouldContain": "OK",
+      "address": "https://www.reddit.com/"
     },
     {
       "name": {
