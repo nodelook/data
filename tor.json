@@ -18,6 +18,15 @@
       "url": "http://archivep75mbjunhxc6x4j5mwjmomyxb573v42baldlqu56ruil2oiad.onion/download/xmha97/status",
       "shouldContain": "200",
       "address": "http://archivep75mbjunhxc6x4j5mwjmomyxb573v42baldlqu56ruil2oiad.onion/"
+    },
+    {
+      "name": {
+        "en": "Reddit",
+        "fa": "ریدیت"
+      },
+      "url": "http://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/robots.txt",
+      "shouldContain": "Disallow",
+      "address": "http://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/"
     }
   ]
 }
