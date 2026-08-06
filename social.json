@@ -184,7 +184,7 @@
     {
       "name": {
         "en": "Reddit: Site",
-        "fa": "ریدیت"
+        "fa": "ریدیت: سایت"
       },
       "url": "https://www.reddit.com/robots.txt",
       "shouldContain": "Disallow",
@@ -193,11 +193,11 @@
     {
       "name": {
         "en": "Reddit: Old Site",
-        "fa": "ریدیت"
+        "fa": "ریدیت: سایت قدیمی"
       },
       "url": "https://old.reddit.com/robots.txt",
       "shouldContain": "Disallow",
-      "address": "https://www.reddit.com/"
+      "address": "https://old.reddit.com/"
     },
     {
       "name": {
