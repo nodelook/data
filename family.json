@@ -17,7 +17,8 @@
       },
       "url": "https://www.pornhub.com/api/v1/video/ajax_related_video",
       "shouldContain": "Success!",
-      "address": "https://www.pornhub.com/"
+      "address": "https://www.pornhub.com/",
+      "invertMatch": false
     },
     {
       "name": {
@@ -26,7 +27,8 @@
       },
       "url": "https://www.reddit.com/age/provide",
       "shouldContain": "/age/provide",
-      "address": "https://www.reddit.com/"
+      "address": "https://www.reddit.com/",
+      "invertMatch": true
     }
   ]
 }

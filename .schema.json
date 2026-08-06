@@ -64,8 +64,7 @@
       "required": [
         "name",
         "url",
-        "shouldContain",
-        "address"
+        "shouldContain"
       ],
       "additionalProperties": false,
       "properties": {
@@ -87,6 +86,11 @@
           "description": "The address to display to the user",
           "type": "string",
           "format": "uri"
+        },
+        "invertMatch": {
+          "type": "boolean",
+          "default": false,
+          "description": "If true, the check passes only when the response does NOT contain the specified string"
         }
       }
     }
