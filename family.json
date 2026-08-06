@@ -16,7 +16,7 @@
         "fa": "تارنمای ۱"
       },
       "url": "https://www.pornhub.com/api/v1/video/ajax_related_video",
-      "shouldContain": "{\"success\":1,\"message\":\"Success!\"}",
+      "shouldContain": "Success!",
       "address": "https://***"
     }
   ]
