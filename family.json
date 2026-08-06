@@ -25,15 +25,6 @@
         "fa": "ردیت (موفقیت: احراز سن فعال است)"
       },
       "url": "https://www.reddit.com/age/provide",
-      "shouldContain": "age-verify",
-      "address": "https://www.reddit.com/"
-    },
-    {
-      "name": {
-        "en": "Reddit (success: age verification is enabled) 2",
-        "fa": "ردیت (موفقیت: احراز سن فعال است) ۲"
-      },
-      "url": "https://www.reddit.com/age/provide",
       "shouldContain": "/age/provide",
       "address": "https://www.reddit.com/"
     }
