@@ -1,8 +1,8 @@
 {
   "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
   "name": {
-    "en": "Chatbots",
-    "fa": "چت‌بات‌ها"
+    "en": "AI",
+    "fa": "ه‌م"
   },
   "description": {
     "en": "Artificial Intelligence",

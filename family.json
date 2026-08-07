@@ -18,15 +18,6 @@
       "url": "https://www.pornhub.com/api/v1/video/ajax_related_video",
       "shouldContain": "Success!",
       "address": "https://www.pornhub.com/",
-    },
-    {
-      "name": {
-        "en": "Reddit",
-        "fa": "ردیت"
-      },
-      "url": "https://www.reddit.com/r/gonewild/hot.json",
-      "shouldContain": "author_flair_background_color",
-      "address": "https://www.reddit.com/"
     }
   ]
 }

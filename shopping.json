@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
   "name": {
-    "en": "Shopping",
+    "en": "Shop",
     "fa": "خرید"
   },
   "description": {
