@@ -39,6 +39,15 @@
     },
     {
       "name": {
+        "en": "RawGit",
+        "fa": "خام‌گیت"
+      },
+      "url": "https://cdn.rawgit.com/xmha97/test/main/status",
+      "shouldContain": "200",
+      "address": "https://cdn.rawgit.com/<owner>/<repo>@<branch>/<path>"
+    },
+    {
+      "name": {
         "en": "jsdMirror",
         "fa": "جی‌اس‌دی‌میرور"
       },
