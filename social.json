@@ -15,9 +15,18 @@
         "en": "Telegram API",
         "fa": "ای‌پی‌آی تلگرام"
       },
+      "url": "https://api.telegram.org/robots.txt",
+      "shouldContain": "Disallow",
+      "address": "https://api.telegram.org/"
+    },
+    {
+      "name": {
+        "en": "Telegram Bot API",
+        "fa": "ای‌پی‌آی بات تلگرام"
+      },
       "url": "https://api.telegram.org/bot8800291172:AAERUk1GJw6KYWQ4LyaA7Gxh-jCuFcUdcLE/getMe",
       "shouldContain": "thetgapiisworkingproperlybot",
-      "address": "https://"
+      "address": "https://api.telegram.org/"
     },
     {
       "name": {

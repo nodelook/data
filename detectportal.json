@@ -17,7 +17,25 @@
       },
       "url": "http://detectportal.firefox.com/success.txt",
       "shouldContain": "success",
-      "address": "http://detectportal.firefox.com/success.txt"
+      "address": "http://detectportal.firefox.com/"
+    },
+    {
+      "name": {
+        "en": "Firefox (HTTP) (IPv4)",
+        "fa": "فایرفاکس (اچ‌تی‌تی‌پی) (آی‌پی‌وی۴)"
+      },
+      "url": "http://detectportal.firefox.com/success.txt?ipv4",
+      "shouldContain": "success",
+      "address": "http://detectportal.firefox.com/"
+    },
+    {
+      "name": {
+        "en": "Firefox (HTTP) (IPv6)",
+        "fa": "فایرفاکس (اچ‌تی‌تی‌پی) (آی‌پی‌وی۶)"
+      },
+      "url": "http://detectportal.firefox.com/success.txt?ipv6",
+      "shouldContain": "success",
+      "address": "http://detectportal.firefox.com/"
     },
     {
       "name": {
@@ -26,7 +44,34 @@
       },
       "url": "https://detectportal.firefox.com/success.txt",
       "shouldContain": "success",
-      "address": "https://detectportal.firefox.com/success.txt"
+      "address": "https://detectportal.firefox.com/"
+    },
+    {
+      "name": {
+        "en": "Firefox (HTTPS) (IPv4)",
+        "fa": "فایرفاکس (اچ‌تی‌تی‌پی) (آی‌پی‌وی۴)"
+      },
+      "url": "https://detectportal.firefox.com/success.txt?ipv4",
+      "shouldContain": "success",
+      "address": "https://detectportal.firefox.com/"
+    },
+    {
+      "name": {
+        "en": "Firefox (HTTPS) (IPv6)",
+        "fa": "فایرفاکس (اچ‌تی‌تی‌پی) (آی‌پی‌وی۶)"
+      },
+      "url": "https://detectportal.firefox.com/success.txt?ipv6",
+      "shouldContain": "success",
+      "address": "https://detectportal.firefox.com/"
+    },
+    {
+      "name": {
+        "en": "Apple",
+        "fa": "اپل"
+      },
+      "url": "http://www.apple.com/library/test/success.html",
+      "shouldContain": "Success",
+      "address": "http://www.apple.com/"
     },
     {
       "name": {
@@ -45,6 +90,51 @@
       "url": "https://captive.apple.com/hotspot-detect.html",
       "shouldContain": "Success",
       "address": "https://captive.apple.com/hotspot-detect.html"
+    },
+    {
+      "name": {
+        "en": "Apple iPhone Cell",
+        "fa": "سلول آی‌فون اپل"
+      },
+      "url": "http://www.appleiphonecell.com/library/test/success.html",
+      "shouldContain": "Success",
+      "address": "http://www.appleiphonecell.com/"
+    },
+    {
+      "name": {
+        "en": "Apple Airport",
+        "fa": "ایرپورت اپل"
+      },
+      "url": "http://www.airport.us/library/test/success.html",
+      "shouldContain": "Success",
+      "address": "http://www.airport.us/"
+    },
+    {
+      "name": {
+        "en": "Apple Think Different",
+        "fa": "متفاوت بیندیش اپل"
+      },
+      "url": "http://www.thinkdifferent.us/library/test/success.html",
+      "shouldContain": "Success",
+      "address": "http://www.thinkdifferent.us/"
+    },
+    {
+      "name": {
+        "en": "Apple iBook",
+        "fa": "ای‌کتاب اپل"
+      },
+      "url": "http://www.ibook.info/library/test/success.html",
+      "shouldContain": "Success",
+      "address": "http://www.ibook.info/"
+    },
+    {
+      "name": {
+        "en": "Apple iTools",
+        "fa": "آی‌ابزارهای اپل"
+      },
+      "url": "http://www.itools.info/library/test/success.html",
+      "shouldContain": "Success",
+      "address": "http://www.ibook.info/"
     },
     {
       "name": {
@@ -189,6 +279,42 @@
       "url": "https://networkcheck.kde.org/",
       "shouldContain": "OK",
       "address": "https://networkcheck.kde.org/"
+    },
+    {
+      "name": {
+        "en": "Fedora",
+        "fa": "فدورا"
+      },
+      "url": "https://fedoraproject.org/static/hotspot.txt",
+      "shouldContain": "OK",
+      "address": "https://fedoraproject.org/"
+    },
+    {
+      "name": {
+        "en": "Roku",
+        "fa": "روکو"
+      },
+      "url": "http://captive.roku.com/ok",
+      "shouldContain": "ok",
+      "address": "http://captive.roku.com/"
+    },
+    {
+      "name": {
+        "en": "Cape Networks",
+        "fa": "کیپ نتورکس"
+      },
+      "url": "https://cdn.capenetworks.io/auth",
+      "shouldContain": "ok",
+      "address": "https://cdn.capenetworks.io/"
+    },
+    {
+      "name": {
+        "en": "v2fly",
+        "fa": "وی۲فلای"
+      },
+      "url": "https://api.v2fly.org/checkConnection.svgz",
+      "shouldContain": "+OK",
+      "address": "https://api.v2fly.org/"
     }
   ]
 }

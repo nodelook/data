@@ -54,6 +54,15 @@
       "url": "https://play.anghami.com/robots.txt",
       "shouldContain": "Disallow",
       "address": "https://"
+    },
+    {
+      "name": {
+        "en": "Radio Javan",
+        "fa": "رادیو جوان"
+      },
+      "url": "https://play.radiojavan.com/api/p/user_plays",
+      "shouldContain": "success",
+      "address": "https://play.radiojavan.com/"
     }
   ]
 }

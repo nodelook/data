@@ -233,7 +233,16 @@
       },
       "url": "https://gift.nodisk.ir/s/tWNSyzYn5X9zN2a/download/status",
       "shouldContain": "200",
-      "address": "https://gift.nodisk.ir/"
+      "address": "https://gift.nodisk.ir"
+    },
+    {
+      "name": {
+        "en": "[Iran] Milli Gold",
+        "fa": "[ایران] میلی گلد"
+      },
+      "url": "https://milli.gold/api/v1/public/milli-price/external",
+      "shouldContain": "عملیات با موفقیت انجام شد.",
+      "address": "https://milli.gold"
     }
   ]
 }
