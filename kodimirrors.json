@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "K M",
+    "fa": "آِ ک"
+  },
+  "description": {
+    "en": "Kodi Media Center Repository Mirrors",
+    "fa": "آینه‌های مخزن مرکز رسانه‌ای کدی"
+  },
+  "color": "#FF34A853",
+  "items": [
+    {
+      "name": {
+        "en": "xmission",
+        "fa": "xmission"
+      },
+      "url": "https://mirrors.xmission.com/kodi/addons/dharma/repository.xbmc.org/addon.xml",
+      "shouldContain": "xbmc.addon.metadata",
+      "address": "https://mirrors.xmission.com/kodi"
+    },
+    {
+      "name": {
+        "en": "fau.de",
+        "fa": "fau.de"
+      },
+      "url": "https://ftp.fau.de/xbmc/addons/dharma/repository.xbmc.org/addon.xml",
+      "shouldContain": "xbmc.addon.metadata",
+      "address": "https://ftp.fau.de/xbmc"
+    },
+    {
+      "name": {
+        "en": "utwente.nl",
+        "fa": "utwente.nl"
+      },
+      "url": "https://ftp.snt.utwente.nl/pub/software/xbmc/addons/dharma/repository.xbmc.org/addon.xml",
+      "shouldContain": "xbmc.addon.metadata",
+      "address": "https://ftp.snt.utwente.nl/pub/software/xbmc"
+    }
+  ]
+}
