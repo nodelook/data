@@ -1,0 +1,32 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "JF",
+    "fa": "ج‌ف"
+  },
+  "description": {
+    "en": "Jellyfin Servers",
+    "fa": "کارسازهای جلی‌فین"
+  },
+  "color": "#FF4285F4",
+  "items": [
+    {
+      "name": {
+        "en": "Jellyfin  (Username: 'demo', Password: '')",
+        "fa": "جلی‌فین (نام‌کاربری: 'demo', گذرواژه: '')"
+      },
+      "url": "https://demo.jellyfin.org/stable/health",
+      "shouldContain": "Healthy",
+      "address": "https://demo.jellyfin.org"
+    },
+    {
+      "name": {
+        "en": "Streamyfin  (Username: 'testing', Password: 'testing')",
+        "fa": "استریمی‌فین (نام‌کاربری: 'testing', گذرواژه: 'testing')"
+      },
+      "url": "https://jellyfin.streamyfin.app/health",
+      "shouldContain": "Healthy",
+      "address": "https://jellyfin.streamyfin.app"
+    }
+  ]
+}
