@@ -17,7 +17,7 @@
       },
       "url": "https://demo.jellyfin.org/stable/health",
       "shouldContain": "Healthy",
-      "address": "https://demo.jellyfin.org"
+      "address": "https://demo.jellyfin.org/stable"
     },
     {
       "name": {
