@@ -1,0 +1,68 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "Google",
+    "fa": "گوگل"
+  },
+  "description": {
+    "en": "Google Video Transport",
+    "fa": "انتقال ویدئوی گوگل"
+  },
+  "color": "#FF34A853",
+  "items": [
+    {
+      "name": {
+        "en": "EdgeDL",
+        "fa": "اج‌دی‌ال"
+      },
+      "url": "https://edgedl.me.gvt1.com/robots.txt",
+      "shouldContain": "Disallow",
+      "address": "https://edgedl.me.gvt1.com/"
+    },
+    {
+      "name": {
+        "en": "Redirector",
+        "fa": "تغییردهنده‌ی‌مسیر"
+      },
+      "url": "https://redirector.gvt1.com/edgedl/robots.txt",
+      "shouldContain": "Disallow",
+      "address": "https://redirector.gvt1.com/"
+    },
+    {
+      "name": {
+        "en": "Server 1",
+        "fa": "کارساز ۱"
+      },
+      "url": "https://r1---sn-5hne6nsk.gvt1.com/edgedl/robots.txt",
+      "shouldContain": "Disallow",
+      "address": "https://r1---sn-5hne6nsk.gvt1.com/"
+    },
+    {
+      "name": {
+        "en": "Server 2",
+        "fa": "کارساز ۲"
+      },
+      "url": "https://r2---sn-5hne6nsr.gvt1.com/edgedl/robots.txt",
+      "shouldContain": "Disallow",
+      "address": "https://r2---sn-5hne6nsr.gvt1.com/"
+    },
+    {
+      "name": {
+        "en": "Server 3",
+        "fa": "کارساز ۳"
+      },
+      "url": "https://r3---sn-nv47lns7.gvt1.com/edgedl/robots.txt",
+      "shouldContain": "Disallow",
+      "address": "https://r3---sn-nv47lns7.gvt1.com/"
+    },
+    {
+      "name": {
+        "en": "Server 4",
+        "fa": "کارساز ۴"
+      },
+      "url": "https://r4---sn-5hnekn76.gvt1.com/edgedl/robots.txt",
+      "shouldContain": "Disallow",
+      "address": "https://r4---sn-5hnekn76.gvt1.com/"
+    }
+  ]
+}

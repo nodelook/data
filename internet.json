@@ -18,6 +18,15 @@
       "url": "https://insufficient.irancell.ir/",
       "shouldContain": "به پایان رسیده است",
       "address": "https://irancell.ir/"
+    },
+    {
+      "name": {
+        "en": "IR-MCI",
+        "fa": "همراه‌اول"
+      },
+      "url": "https://mci.ir/robots.txt",
+      "shouldContain": "Disallow",
+      "address": "https://mci.ir/"
     }
   ]
 }
