@@ -99,6 +99,15 @@
       "url": "https://down.mxw.qzz.io/https://github.com/xmha97/test/releases/download/v1.0.0/status",
       "shouldContain": "200",
       "address": "https://down.mxw.qzz.io/https://github.com/<owner>/<repo>/releases/download/<tag>/<asset>"
+    },
+    {
+      "name": {
+        "en": "[Iran] Azizi",
+        "fa": "[عزیزی] عزیزی"
+      },
+      "url": "    https://gitdl.theazizi.ir/https%3A%2F%2Fgithub.com%2Fxmha97%2Ftest%2Freleases%2Fdownload%2Fv1.0.0%2Fstatus",
+      "shouldContain": "200",
+      "address": "https://gitdl.theazizi.ir/https%3A%2F%2Fgithub.com%2F<owner>%2F<repo>%2Freleases%2Fdownload%2F<tag>%2F<asset>"
     }
   ]
 }

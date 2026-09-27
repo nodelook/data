@@ -117,6 +117,15 @@
       "url": "https://githubraw.com/xmha97/test/main/status",
       "shouldContain": "200",
       "address": "https://githubraw.com/<owner>/<repo>/<branch>/<path>"
+    },
+    {
+      "name": {
+        "en": "[Iran] Azizi",
+        "fa": "[عزیزی] عزیزی"
+      },
+      "url": "https://gitdl.theazizi.ir/https%3A%2F%2Fraw.githubusercontent.com%2Fxmha97%2Ftest%2Frefs%2Fheads%2Fmain%2Fstatus",
+      "shouldContain": "200",
+      "address": "https://gitdl.theazizi.ir/https%3A%2F%2Fraw.githubusercontent.com%2F<owner>%2F<repo>%2Frefs%2Fheads%2F<branch>%2F<path>"
     }
   ]
 }
