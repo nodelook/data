@@ -1,0 +1,131 @@
+{
+  "$schema": "https://raw.githubusercontent.com/nodelook/data/refs/heads/main/.schema.json",
+  "name": {
+    "en": "eMule",
+    "fa": "ای‌میول"
+  },
+  "description": {
+    "en": "eMule Servers",
+    "fa": "کارسازهای ای‌میول"
+  },
+  "color": "#FF4285F4",
+  "items": [
+    {
+      "name": {
+        "en": "eMule Sunrise",
+        "fa": "eMule Sunrise"
+      },
+      "url": "http://176.123.5.89:4725/",
+      "shouldContain": "eserver is not a HTTP server",
+      "address": "http://176.123.5.89:4725"
+    },
+    {
+      "name": {
+        "en": "Nordic Server",
+        "fa": "Nordic Server"
+      },
+      "url": "http://77.42.68.79:4232",
+      "shouldContain": "eserver is not a HTTP server",
+      "address": "http://77.42.68.79:4232"
+    },
+    {
+      "name": {
+        "en": "ed2k-rust",
+        "fa": "ed2k-rust"
+      },
+      "url": "http://85.17.116.222:6082",
+      "shouldContain": "eserver is not a HTTP server",
+      "address": "http://85.17.116.222:6082"
+    },
+    {
+      "name": {
+        "en": "!! Sharing-Devils No.4 !!",
+        "fa": "!! Sharing-Devils No.4 !!"
+      },
+      "url": "http://91.208.162.87:4232",
+      "shouldContain": "eserver is not a HTTP server",
+      "address": "http://91.208.162.87:4232"
+    },
+    {
+      "name": {
+        "en": "!! Sharing-Devils No.2 !!",
+        "fa": "!! Sharing-Devils No.2 !!"
+      },
+      "url": "http://85.121.5.137:4232",
+      "shouldContain": "eserver is not a HTTP server",
+      "address": "http://85.121.5.137:4232"
+    },
+    {
+      "name": {
+        "en": "eMule Cosmic",
+        "fa": "eMule Cosmic"
+      },
+      "url": "http://212.95.35.240:4232",
+      "shouldContain": "eserver is not a HTTP server",
+      "address": "http://212.95.35.240:4232"
+    },
+    {
+      "name": {
+        "en": "MO-Server",
+        "fa": "MO-Server"
+      },
+      "url": "http://91.208.162.182:4232",
+      "shouldContain": "eserver is not a HTTP server",
+      "address": "http://91.208.162.182:4232"
+    },
+    {
+      "name": {
+        "en": "Mazinga Server",
+        "fa": "Mazinga Server"
+      },
+      "url": "http://213.141.198.207:4232",
+      "shouldContain": "eserver is not a HTTP server",
+      "address": "http://213.141.198.207:4232"
+    },
+    {
+      "name": {
+        "en": "MO-ad-free",
+        "fa": "MO-ad-free"
+      },
+      "url": "http://57.131.35.107:4232",
+      "shouldContain": "eserver is not a HTTP server",
+      "address": "http://57.131.35.107:4232"
+    },
+    {
+      "name": {
+        "en": "Drunken Donkey",
+        "fa": "Drunken Donkey"
+      },
+      "url": "http://193.187.90.12:4661",
+      "shouldContain": "eserver is not a HTTP server",
+      "address": "http://193.187.90.12:4661"
+    },
+    {
+      "name": {
+        "en": "MO-24/7",
+        "fa": "MO-24/7"
+      },
+      "url": "http://212.95.35.240:4323",
+      "shouldContain": "eserver is not a HTTP server",
+      "address": "http://212.95.35.240:4323"
+    },
+    {
+      "name": {
+        "en": "!! Sharing-Devils No.3 !! TEST",
+        "fa": "!! Sharing-Devils No.3 !! TEST"
+      },
+      "url": "http://91.208.162.55:4235",
+      "shouldContain": "eserver is not a HTTP server",
+      "address": "http://91.208.162.55:4235"
+    },
+    {
+      "name": {
+        "en": "Emule Sentinel",
+        "fa": "Emule Sentinel"
+      },
+      "url": "http://91.126.170.253:5687",
+      "shouldContain": "eserver is not a HTTP server",
+      "address": "http://91.126.170.253:5687"
+    }
+  ]
+}
